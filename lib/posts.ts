@@ -23,6 +23,7 @@ export type Post = {
   imageW: number;
   imageH: number;
   christian: boolean;
+  storePage?: string;
   takeaways: string[];
   faq: Faq[];
   sources: Source[];
@@ -81,6 +82,8 @@ function render(md: string, lang: string) {
   return { html, toc, words: body.split(/\s+/).length };
 }
 
+const enFront = (key: string) => matter(fs.readFileSync(path.join(ROOT, 'posts', 'en', `${key}.md`), 'utf8')).data;
+
 export function getPost(lang: Lang, key: string): Post {
   const { data, content } = matter(fs.readFileSync(path.join(ROOT, 'posts', lang, `${key}.md`), 'utf8'));
   const { html, toc, words } = render(content, lang);
@@ -100,6 +103,7 @@ export function getPost(lang: Lang, key: string): Post {
     imageW: data.imageW || 1200,
     imageH: data.imageH || 1200,
     christian: !!data.christian,
+    storePage: data.storePage || (lang !== 'en' ? enFront(key).storePage : undefined),
     takeaways: data.takeaways || [],
     faq: data.faq || [],
     sources: data.sources || [],

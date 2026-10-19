@@ -40,3 +40,9 @@ export function storeUrl(lang: string, christian = false) {
 
 export const fmtDate = (d: string, lang: string) =>
   new Date(`${d}T12:00:00Z`).toLocaleDateString(langInfo(lang).date, { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC' });
+
+/** A landing page on the partner store, in the reader's language. */
+export function storePageUrl(lang: string, handle: string) {
+  const p = langInfo(lang).store;
+  return `https://lumalyn.store/${p ? `${p}/` : ''}pages/${handle}`;
+}

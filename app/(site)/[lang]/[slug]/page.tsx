@@ -3,7 +3,7 @@ import Link from 'next/link';
 import Flag from '@/components/Flag';
 import JsonLd from '@/components/JsonLd';
 import PostCard from '@/components/PostCard';
-import { ACTIVE, fill, fmtDate, langInfo, storeUrl, t, type Lang } from '@/lib/i18n';
+import { ACTIVE, fill, fmtDate, langInfo, storePageUrl, storeUrl, t, type Lang } from '@/lib/i18n';
 import { findPostBySlug, getPage, getPost, getPosts, postAlternates, postKeys, slugOf, STATIC_PAGES } from '@/lib/posts';
 import { alternatesFrom, sharedAlternates } from '@/lib/seo';
 import { cdnSrcSet } from '@/lib/img';
@@ -157,7 +157,10 @@ export default async function SlugPage({ params }: Props) {
             <p className="cta-title">{m.post.ctaTitle}</p>
             <p>{m.post.ctaSpecs}</p>
           </div>
-          <a className="btn" href={storeUrl(lang, p.christian)} rel="sponsored noopener">{m.post.ctaButton}</a>
+          <div className="cta-actions">
+            <a className="btn" href={storeUrl(lang, p.christian)} rel="sponsored noopener">{m.post.ctaButton}</a>
+            {p.storePage && <a className="cta-more" href={storePageUrl(lang, p.storePage)} rel="sponsored noopener">{m.post.ctaMore} →</a>}
+          </div>
         </aside>
 
         {p.sources.length > 0 && (

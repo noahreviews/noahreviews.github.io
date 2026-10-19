@@ -6,6 +6,7 @@ updated: "2026-10-20"
 date: "2026-10-19"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-f1-designs.jpg?width=1200"
 imageAlt: "Pixel LED curtain showing an animated Christmas tree on an apartment balcony"
+storePage: "balcony-christmas-lights"
 category: "holiday-lighting"
 seoTitle: "Animated Christmas Lights for Windows & Outdoors (2026)"
 imageW: 1200

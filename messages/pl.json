@@ -83,7 +83,8 @@
     "ctaButton": "Odwiedź lumalyn.store",
     "readIn": "Dostępne także w innych językach:",
     "howMadeTitle": "Jak powstał ten poradnik",
-    "howMade": "Przeanalizowaliśmy specyfikację producenta, zalecenia bezpieczeństwa i źródła podane na tej stronie, przygotowaliśmy tekst z pomocą narzędzi do pisania opartych na AI, a przed publikacją sprawdziliśmy każdą informację o produkcie z kartą producenta. Widzisz błąd? Daj nam znać, a go poprawimy."
+    "howMade": "Przeanalizowaliśmy specyfikację producenta, zalecenia bezpieczeństwa i źródła podane na tej stronie, przygotowaliśmy tekst z pomocą narzędzi do pisania opartych na AI, a przed publikacją sprawdziliśmy każdą informację o produkcie z kartą producenta. Widzisz błąd? Daj nam znać, a go poprawimy.",
+    "ctaMore": "Więcej pomysłów w Lumalyn"
   },
   "footer": {
     "categories": "Kategorie",

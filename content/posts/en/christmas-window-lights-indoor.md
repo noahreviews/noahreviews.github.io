@@ -6,6 +6,7 @@ updated: "2026-10-20"
 date: "2026-10-14"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-s3-show.jpg?width=1200"
 imageAlt: "People on a snowy street looking up at a balcony with a glowing snowman light display"
+storePage: "christmas-window-lights"
 category: "holiday-lighting"
 seoTitle: "Indoor Christmas Window Lights: Ideas & Tips"
 imageW: 1086
