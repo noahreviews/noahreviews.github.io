@@ -57,7 +57,7 @@ export default async function LangLayout({ children, params }: Props) {
           data={{
             '@context': 'https://schema.org',
             '@graph': [
-              { '@type': 'Organization', '@id': `${SITE.url}/#org`, name: SITE.name, url: SITE.url, logo: `${SITE.url}/icon.svg`, sameAs: [SITE.repo] },
+              { '@type': 'Organization', '@id': `${SITE.url}/#org`, name: SITE.name, url: SITE.url, logo: { '@type': 'ImageObject', url: `${SITE.url}/images/logo.png`, width: 512, height: 512 }, sameAs: [SITE.repo] },
               { '@type': 'WebSite', '@id': `${SITE.url}/${lang}/#website`, name: SITE.name, url: `${SITE.url}/${lang}/`, publisher: { '@id': `${SITE.url}/#org` }, inLanguage: langInfo(lang).hreflang },
             ],
           }}

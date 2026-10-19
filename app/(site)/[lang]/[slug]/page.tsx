@@ -69,7 +69,8 @@ export default async function SlugPage({ params }: Props) {
   const graph: object[] = [
     {
       '@type': 'Article',
-      headline: p.title,
+      // Google recommends headlines of 110 characters or fewer
+      headline: p.title.length <= 110 ? p.title : p.seoTitle,
       description: p.description,
       image: [p.image],
       inLanguage: langInfo(lang).hreflang,
