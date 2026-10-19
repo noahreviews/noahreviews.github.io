@@ -1,11 +1,11 @@
 export const SITE = {
-  name: 'Luca Reviews',
-  url: 'https://lucareviews.github.io',
+  name: 'Noah Reviews',
+  url: 'https://noahreviews.github.io',
   tagline: 'Practical reviews and buying guides for home, holiday and everyday products',
   description:
-    'Luca Reviews publishes practical buying guides and product reviews for home, holiday and everyday products, with clear disclosures and sourced advice.',
-  author: 'Luca Reviews Editorial Team',
-  repo: 'https://github.com/lucareviews/lucareviews.github.io',
+    'Noah Reviews publishes practical buying guides and product reviews for home, holiday and everyday products, with clear disclosures and sourced advice.',
+  author: 'Noah Reviews Editorial Team',
+  repo: 'https://github.com/noahreviews/noahreviews.github.io',
   ogImage: 'https://lumalyn.store/cdn/shop/files/lumalyn-f1-designs.jpg?width=1200',
 };
 

@@ -1,7 +1,7 @@
-# Luca Reviews
+# Noah Reviews
 
 Practical reviews and buying guides for home, holiday and everyday products, built with Next.js and published on
-GitHub Pages. Live at **https://lucareviews.github.io**.
+GitHub Pages. Live at **https://noahreviews.github.io**.
 
 Each guide targets a keyword that people really search for on Google, so the site can reach readers organically.
 The first category is **Holiday Lighting**; new categories are added as `CATEGORIES` in `lib/site.ts`.
@@ -17,13 +17,13 @@ Candidate keywords were collected from Google Autocomplete first, then checked i
 
 | Guide | Main keyword | Avg. monthly searches | Supporting keywords (monthly searches) |
 |---|---|---|---|
-| [Christmas Curtain Lights](https://lucareviews.github.io/christmas-curtain-lights/) | christmas curtain lights | 1K – 10K | led curtain lights (1K – 10K), christmas curtain lights outdoor (100 – 1K), christmas curtain lights for windows (100 – 1K), led curtain lights outdoor (100 – 1K), window curtain lights christmas (10 – 100) |
-| [Animated Christmas Lights](https://lucareviews.github.io/animated-christmas-lights/) | animated christmas lights | 1K – 10K | animated christmas lights outdoor (100 – 1K), animated christmas lights for windows (10 – 100) |
-| [Programmable & Smart Christmas Lights](https://lucareviews.github.io/programmable-christmas-lights/) | programmable christmas lights | 1K – 10K | smart christmas lights (1K – 10K), app controlled christmas lights (100 – 1K), smart christmas lights outdoor (100 – 1K), smart led curtain lights (100 – 1K), pixel christmas lights (100 – 1K), led curtain lights programmable (10 – 100) |
-| [Indoor Christmas Window Lights](https://lucareviews.github.io/christmas-window-lights-indoor/) | christmas window lights indoor | 1K – 10K | christmas window lights (1K – 10K) |
-| [Christmas Lights for an Apartment Balcony](https://lucareviews.github.io/christmas-lights-for-apartment-balcony/) | christmas lights for apartment balcony | 100 – 1K | balcony christmas lights (100 – 1K), balcony christmas lights ideas (100 – 1K), christmas lights balcony railing (10 – 100), best christmas lights for apartment balcony (10 – 100), outdoor christmas lights for apartment balcony (10 – 100), how to hang christmas lights on balcony (10 – 100), outdoor curtain lights for balcony (10 – 100) |
-| [Sync Christmas Lights to Music](https://lucareviews.github.io/christmas-lights-to-music/) | christmas lights to music | 100 – 1K | music sync christmas lights (100 – 1K), music synchronized christmas lights (100 – 1K) |
-| [Nativity Christmas Lights](https://lucareviews.github.io/nativity-christmas-lights/) | nativity christmas lights | 100 – 1K | christian christmas lights (10 – 100), religious christmas lights (10 – 100), nativity christmas lights outdoor (10 – 100) |
+| [Christmas Curtain Lights](https://noahreviews.github.io/christmas-curtain-lights/) | christmas curtain lights | 1K – 10K | led curtain lights (1K – 10K), christmas curtain lights outdoor (100 – 1K), christmas curtain lights for windows (100 – 1K), led curtain lights outdoor (100 – 1K), window curtain lights christmas (10 – 100) |
+| [Animated Christmas Lights](https://noahreviews.github.io/animated-christmas-lights/) | animated christmas lights | 1K – 10K | animated christmas lights outdoor (100 – 1K), animated christmas lights for windows (10 – 100) |
+| [Programmable & Smart Christmas Lights](https://noahreviews.github.io/programmable-christmas-lights/) | programmable christmas lights | 1K – 10K | smart christmas lights (1K – 10K), app controlled christmas lights (100 – 1K), smart christmas lights outdoor (100 – 1K), smart led curtain lights (100 – 1K), pixel christmas lights (100 – 1K), led curtain lights programmable (10 – 100) |
+| [Indoor Christmas Window Lights](https://noahreviews.github.io/christmas-window-lights-indoor/) | christmas window lights indoor | 1K – 10K | christmas window lights (1K – 10K) |
+| [Christmas Lights for an Apartment Balcony](https://noahreviews.github.io/christmas-lights-for-apartment-balcony/) | christmas lights for apartment balcony | 100 – 1K | balcony christmas lights (100 – 1K), balcony christmas lights ideas (100 – 1K), christmas lights balcony railing (10 – 100), best christmas lights for apartment balcony (10 – 100), outdoor christmas lights for apartment balcony (10 – 100), how to hang christmas lights on balcony (10 – 100), outdoor curtain lights for balcony (10 – 100) |
+| [Sync Christmas Lights to Music](https://noahreviews.github.io/christmas-lights-to-music/) | christmas lights to music | 100 – 1K | music sync christmas lights (100 – 1K), music synchronized christmas lights (100 – 1K) |
+| [Nativity Christmas Lights](https://noahreviews.github.io/nativity-christmas-lights/) | nativity christmas lights | 100 – 1K | christian christmas lights (10 – 100), religious christmas lights (10 – 100), nativity christmas lights outdoor (10 – 100) |
 
 Searches for all of these climb sharply from October to December, so the posts are published ahead of the season.
 The nativity guide links to `lumalyn.store/#christian`, which shows the store's Christian image set.

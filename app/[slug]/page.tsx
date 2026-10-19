@@ -73,7 +73,7 @@ export default async function PostPage({ params }: Props) {
         <h1>{p.title}</h1>
         <p className="standfirst">{p.description}</p>
         <div className="byline">
-          <span className="avatar" aria-hidden="true">LR</span>
+          <span className="avatar" aria-hidden="true">NR</span>
           <div>
             <p>By <Link href="/about/">{SITE.author}</Link></p>
             <p className="meta">
@@ -139,7 +139,7 @@ export default async function PostPage({ params }: Props) {
         )}
 
         <section className="author-box" aria-label="About the author">
-          <span className="avatar avatar--lg" aria-hidden="true">LR</span>
+          <span className="avatar avatar--lg" aria-hidden="true">NR</span>
           <div>
             <p className="box-h">{SITE.author}</p>
             <p>

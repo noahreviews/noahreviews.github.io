@@ -1,5 +1,5 @@
 {
-  "name": "lucareviews-blog",
+  "name": "noahreviews-blog",
   "private": true,
   "scripts": {
     "dev": "next dev",
