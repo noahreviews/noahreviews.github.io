@@ -6,6 +6,7 @@ updated: "2026-10-20"
 date: "2026-10-16"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-f3-music.jpg?width=1200"
 imageAlt: "Friends at a balcony party with curtain lights pulsing in rainbow colors to music"
+seeAlso: ["programmable-christmas-lights", "animated-christmas-lights", "christmas-lights-for-apartment-balcony"]
 category: "holiday-lighting"
 seoTitle: "How to Sync Christmas Lights to Music (3 Easy Ways)"
 imageW: 1200

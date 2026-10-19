@@ -7,6 +7,7 @@ date: "2026-10-15"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-1-hero.jpg?width=1200"
 imageAlt: "Pixel LED curtain on a balcony showing a nativity scene under the Star of Bethlehem"
 storePage: "nativity-christmas-lights"
+seeAlso: ["christmas-window-lights-indoor", "christmas-lights-for-apartment-balcony", "programmable-christmas-lights"]
 category: "holiday-lighting"
 seoTitle: "Nativity Christmas Lights: Christian Display Ideas"
 imageW: 1024

@@ -4,7 +4,7 @@ import Flag from '@/components/Flag';
 import JsonLd from '@/components/JsonLd';
 import PostCard from '@/components/PostCard';
 import { ACTIVE, fill, fmtDate, langInfo, storePageUrl, storeUrl, t, type Lang } from '@/lib/i18n';
-import { findPostBySlug, getPage, getPost, getPosts, postAlternates, postKeys, slugOf, STATIC_PAGES } from '@/lib/posts';
+import { findPostBySlug, getPage, getPost, getPosts, postAlternates, postKeys, postPath, slugOf, STATIC_PAGES } from '@/lib/posts';
 import { alternatesFrom, sharedAlternates } from '@/lib/seo';
 import { cdnSrcSet } from '@/lib/img';
 import { SITE } from '@/lib/site';
@@ -109,6 +109,7 @@ export default async function SlugPage({ params }: Props) {
             <p className="meta">
               {m.post.updated} <time dateTime={p.updated || p.date}>{fmtDate(p.updated || p.date, lang)}</time> · {fill(m.post.minRead, { n: p.readingMinutes })}
             </p>
+            <p className="checked"><Link href={`/${lang}/how-we-review/`}>✓ {m.post.checked}</Link></p>
           </div>
         </div>
         <p className="disclosure">
@@ -138,6 +139,17 @@ export default async function SlugPage({ params }: Props) {
         )}
 
         <div className="prose" dangerouslySetInnerHTML={{ __html: p.html }} />
+
+        {p.seeAlso.filter((k) => postKeys(lang).includes(k)).length > 0 && (
+          <nav className="box see-also" aria-labelledby="see-also">
+            <h2 id="see-also">{m.post.seeAlso}</h2>
+            <ul>
+              {p.seeAlso.filter((k) => postKeys(lang).includes(k)).map((k) => (
+                <li key={k}><Link href={postPath(lang, k)}>{getPost(lang, k).title}</Link></li>
+              ))}
+            </ul>
+          </nav>
+        )}
 
         {p.faq.length > 0 && (
           <section className="faq" aria-labelledby="faq">

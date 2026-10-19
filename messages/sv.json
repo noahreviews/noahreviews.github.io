@@ -84,7 +84,9 @@
     "readIn": "Finns även på",
     "howMadeTitle": "Så har vi tagit fram guiden",
     "howMade": "Vi har gått igenom tillverkarens specifikationer, säkerhetsråd och källorna på den här sidan, skrivit guiden med hjälp av AI-baserade skrivverktyg och kontrollerat varje produktuppgift mot tillverkarens produktsida före publicering. Hittar du ett fel? Säg till så rättar vi det.",
-    "ctaMore": "Fler idéer hos Lumalyn"
+    "ctaMore": "Fler idéer hos Lumalyn",
+    "seeAlso": "Läs vidare",
+    "checked": "Kontrollerat mot tillverkarens uppgifter"
   },
   "footer": {
     "categories": "Kategorier",

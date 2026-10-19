@@ -84,7 +84,9 @@
     "readIn": "Também disponível em",
     "howMadeTitle": "Como fizemos este guia",
     "howMade": "Analisámos as especificações do fabricante, as recomendações de segurança e as fontes indicadas nesta página, redigimos o guia com a ajuda de ferramentas de escrita com IA e confirmámos cada informação sobre o produto com a ficha do fabricante antes de publicar. Encontrou um erro? Diga-nos e corrigimos.",
-    "ctaMore": "Mais ideias na Lumalyn"
+    "ctaMore": "Mais ideias na Lumalyn",
+    "seeAlso": "Continue a ler",
+    "checked": "Verificado com os dados do fabricante"
   },
   "footer": {
     "categories": "Categorias",

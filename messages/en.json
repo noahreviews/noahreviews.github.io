@@ -84,7 +84,9 @@
     "readIn": "Also available in",
     "howMadeTitle": "How we made this guide",
     "howMade": "We researched the manufacturer's specifications, the safety guidance and the sources listed on this page, drafted the guide with the help of AI writing tools, and checked every product claim against the manufacturer's listing before publishing. Spotted something wrong? Tell us and we will correct it.",
-    "ctaMore": "More ideas at Lumalyn"
+    "ctaMore": "More ideas at Lumalyn",
+    "seeAlso": "Keep reading",
+    "checked": "Checked against manufacturer specs"
   },
   "footer": {
     "categories": "Categories",

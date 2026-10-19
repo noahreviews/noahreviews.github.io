@@ -6,6 +6,7 @@ updated: "2026-10-20"
 date: "2026-10-17"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-s2-app.jpg?width=1200"
 imageAlt: "Man on a sofa using a phone app to control rainbow curtain lights on his balcony"
+seeAlso: ["christmas-lights-to-music", "animated-christmas-lights", "christmas-curtain-lights"]
 category: "holiday-lighting"
 seoTitle: "Programmable & Smart Christmas Lights Explained"
 imageW: 1086

@@ -84,7 +84,9 @@
     "readIn": "Ook beschikbaar in",
     "howMadeTitle": "Zo hebben we deze gids gemaakt",
     "howMade": "We hebben de specificaties van de fabrikant, veiligheidsadviezen en de bronnen op deze pagina bestudeerd, de gids opgesteld met hulp van AI-schrijftools en elke productclaim vóór publicatie gecontroleerd aan de hand van de productpagina van de fabrikant. Zie je een fout? Laat het ons weten, dan passen we het aan.",
-    "ctaMore": "Meer ideeën bij Lumalyn"
+    "ctaMore": "Meer ideeën bij Lumalyn",
+    "seeAlso": "Lees ook",
+    "checked": "Gecontroleerd met fabrikantgegevens"
   },
   "footer": {
     "categories": "Categorieën",

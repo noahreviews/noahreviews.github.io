@@ -24,6 +24,7 @@ export type Post = {
   imageH: number;
   christian: boolean;
   storePage?: string;
+  seeAlso: string[];
   takeaways: string[];
   faq: Faq[];
   sources: Source[];
@@ -104,6 +105,7 @@ export function getPost(lang: Lang, key: string): Post {
     imageH: data.imageH || 1200,
     christian: !!data.christian,
     storePage: data.storePage || (lang !== 'en' ? enFront(key).storePage : undefined),
+    seeAlso: data.seeAlso || (lang !== 'en' ? enFront(key).seeAlso : undefined) || [],
     takeaways: data.takeaways || [],
     faq: data.faq || [],
     sources: data.sources || [],

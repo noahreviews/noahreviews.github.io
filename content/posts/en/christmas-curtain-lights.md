@@ -7,6 +7,7 @@ date: "2026-10-20"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-v2-1-hero.jpg?width=1200"
 imageAlt: "LED curtain lights on a balcony showing an animated Christmas scene at night"
 storePage: "christmas-window-lights"
+seeAlso: ["christmas-window-lights-indoor", "animated-christmas-lights", "programmable-christmas-lights"]
 category: "holiday-lighting"
 seoTitle: "Christmas Curtain Lights: Indoor & Outdoor Buying Guide"
 imageW: 1200

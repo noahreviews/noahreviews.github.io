@@ -7,6 +7,7 @@ date: "2026-10-18"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-s1-hang.jpg?width=1200"
 imageAlt: "Woman clipping LED curtain lights onto a black balcony railing at dusk"
 storePage: "balcony-christmas-lights"
+seeAlso: ["christmas-curtain-lights", "animated-christmas-lights", "christmas-lights-to-music"]
 category: "holiday-lighting"
 seoTitle: "Christmas Lights for an Apartment Balcony: 9 Ideas"
 imageW: 1086
