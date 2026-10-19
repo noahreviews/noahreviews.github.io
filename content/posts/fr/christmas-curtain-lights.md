@@ -16,7 +16,7 @@ faq: [{"q": "Peut-on utiliser un rideau lumineux d'intérieur dans une fenêtre 
 sources: [{"title": "Les indices IP (IEC 60529) expliqués (en anglais)", "url": "https://en.wikipedia.org/wiki/IP_code"}, {"title": "NFPA : sécurité incendie pendant les fêtes de fin d'année (en anglais)", "url": "https://www.nfpa.org/education-and-research/home-fire-safety/winter-holidays"}]
 ---
 
-Le rideau lumineux Noël est l'un des moyens les plus simples de rendre une fenêtre ou un balcon festif vu de la rue : un fil horizontal d'où pendent de nombreux brins fins, chacun garni de petites LED. On accroche le fil du haut, on laisse tomber les brins, et c'est toute une surface qui s'illumine.
+Le rideau lumineux de Noël est l'un des moyens les plus simples de rendre une fenêtre ou un balcon festif vu de la rue : un fil horizontal d'où pendent de nombreux brins fins, chacun garni de petites LED. On accroche le fil du haut, on laisse tomber les brins, et c'est toute une surface qui s'illumine.
 
 Ce guide passe en revue ce qui compte vraiment au moment de l'achat, que ce soit pour une **fenêtre côté intérieur**, une **rambarde de balcon en extérieur** ou une porte-fenêtre.
 

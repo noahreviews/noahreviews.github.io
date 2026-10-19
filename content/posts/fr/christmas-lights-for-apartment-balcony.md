@@ -16,7 +16,7 @@ faq: [{"q": "Comment accrocher des lumières de Noël sur un balcon sans percer�
 sources: [{"title": "NFPA : sécurité incendie pendant les fêtes de fin d'année (en anglais)", "url": "https://www.nfpa.org/education-and-research/home-fire-safety/winter-holidays"}, {"title": "Les indices IP (IEC 60529) expliqués (en anglais)", "url": "https://en.wikipedia.org/wiki/IP_code"}]
 ---
 
-Le balcon, c'est le jardin des appartements : la seule partie de votre logement que la rue peut voir. Pour une décoration Noël balcon, le hic est qu'on ne peut généralement pas percer, que l'espace est réduit et qu'on ne dispose parfois que d'une seule prise.
+Le balcon, c'est le jardin des appartements : la seule partie de votre logement que la rue peut voir. Pour décorer un balcon à Noël, le hic est qu'on ne peut généralement pas percer, que l'espace est réduit et qu'on ne dispose parfois que d'une seule prise.
 
 Toutes les idées ci-dessous conviennent aux locataires.
 

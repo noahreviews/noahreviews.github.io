@@ -16,7 +16,7 @@ faq: [{"q": "Voit-on de l'extérieur des lumières de Noël installées à l'int
 sources: [{"title": "NFPA : sécurité incendie pendant les fêtes de fin d'année (en anglais)", "url": "https://www.nfpa.org/education-and-research/home-fire-safety/winter-holidays"}]
 ---
 
-Décorer côté intérieur de la fenêtre est la façon la plus simple et la plus sûre d'illuminer votre logement pour la rue : pas d'échelle, pas d'étanchéité à prévoir, pas de doigts gelés. Tout l'enjeu d'une décoration lumineuse fenêtre Noël, c'est que des lumières installées à l'intérieur soient belles vues du dehors.
+Décorer côté intérieur de la fenêtre est la façon la plus simple et la plus sûre d'illuminer votre logement pour la rue : pas d'échelle, pas d'étanchéité à prévoir, pas de doigts gelés. Tout l'enjeu d'une décoration lumineuse de fenêtre pour Noël, c'est que des lumières installées à l'intérieur soient belles vues du dehors.
 
 ## Idées de décoration lumineuse fenêtre Noël (côté intérieur)
 

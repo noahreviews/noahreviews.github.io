@@ -16,7 +16,7 @@ faq: [{"q": "Wie befestige ich Weihnachtsbeleuchtung am Balkon ohne Bohren?", "a
 sources: [{"title": "NFPA: Brandschutz rund um die Winterfeiertage", "url": "https://www.nfpa.org/education-and-research/home-fire-safety/winter-holidays"}, {"title": "IP-Code (IEC 60529): Schutzarten einfach erklärt", "url": "https://en.wikipedia.org/wiki/IP_code"}]
 ---
 
-Der Balkon ist der Vorgarten der Mietwohnung: der eine Teil deines Zuhauses, den man von der Straße aus sieht. Darum bieten sich für die Weihnachtsbeleuchtung Balkon und Geländer geradezu an. Der Haken: Bohren ist meist tabu, der Platz ist knapp, und vielleicht hast du nur eine Steckdose.
+Der Balkon ist der Vorgarten der Mietwohnung: der eine Teil deines Zuhauses, den man von der Straße aus sieht. Darum bieten sich Balkon und Geländer für Weihnachtsbeleuchtung geradezu an. Der Haken: Bohren ist meist tabu, der Platz ist knapp, und vielleicht hast du nur eine Steckdose.
 
 Alle folgenden Ideen funktionieren auch, wenn du zur Miete wohnst.
 

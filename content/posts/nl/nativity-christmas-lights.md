@@ -17,7 +17,7 @@ faq: [{"q": "Hoe verlicht ik een kerststal buiten?", "a": "Gebruik warmwitte spo
 sources: [{"title": "Kerststal: geschiedenis en tradities", "url": "https://en.wikipedia.org/wiki/Nativity_scene"}, {"title": "Ster van Bethlehem", "url": "https://en.wikipedia.org/wiki/Star_of_Bethlehem"}, {"title": "NFPA: brandveiligheid tijdens de winterfeestdagen", "url": "https://www.nfpa.org/education-and-research/home-fire-safety/winter-holidays"}]
 ---
 
-Voor veel gezinnen draait kerstverlichting om meer dan de kerstman en sneeuwpoppen. Een kerststal, een stralende ster of een engel laat iedereen die langsloopt zien wat deze tijd van het jaar voor je betekent. Zo pak je dat aan met kerststal verlichting en andere christelijke lichtideeën, of je nu een voortuin hebt of alleen een raam.
+Voor veel gezinnen draait kerstverlichting om meer dan de kerstman en sneeuwpoppen. Een kerststal, een stralende ster of een engel laat iedereen die langsloopt zien wat deze tijd van het jaar voor je betekent. Zo pak je dat aan met verlichting voor je kerststal en andere christelijke lichtideeën, of je nu een voortuin hebt of alleen een raam.
 
 ## Klassieke kerststal verlichting voor buiten
 
