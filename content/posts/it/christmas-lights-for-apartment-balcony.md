@@ -16,7 +16,7 @@ faq: [{"q": "Come appendo le luci di Natale al balcone senza forare?", "a": "Usa
 sources: [{"title": "NFPA: sicurezza antincendio durante le feste invernali", "url": "https://www.nfpa.org/education-and-research/home-fire-safety/winter-holidays"}, {"title": "Codice IP (IEC 60529): i gradi di protezione spiegati", "url": "https://en.wikipedia.org/wiki/IP_code"}]
 ---
 
-Per chi vive in appartamento, il balcone è l'equivalente del giardino davanti a casa: è l'unica parte dell'abitazione che si vede dalla strada. Il problema, quando scegli le luci di Natale per balcone, è che di solito non puoi forare, lo spazio è poco e magari hai una sola presa.
+Per chi vive in appartamento, il balcone è l'equivalente del giardino davanti a casa: è l'unica parte dell'abitazione che si vede dalla strada. Il problema, quando scegli le luci di Natale per il balcone, è che di solito non puoi forare, lo spazio è poco e magari hai una sola presa.
 
 Tutte queste idee per gli addobbi natalizi del balcone funzionano anche se sei in affitto.
 
@@ -45,7 +45,7 @@ Controlla anche il regolamento condominiale: alcuni condomini limitano ciò che 
 
 ## Prima di tutto, misura il balcone
 
-Prima di scegliere le luci di Natale per balcone, misura la lunghezza della ringhiera che vuoi illuminare e l'altezza dal corrimano al pavimento del balcone. Le tende luminose rendono al meglio quando pendono dritte e coprono quasi tutta la ringhiera, quindi scegli la misura più vicina a queste dimensioni, non la più grande. Annota anche dove si trova la presa interna più vicina e quanta strada deve fare il cavo.
+Prima di scegliere le luci di Natale per il balcone, misura la lunghezza della ringhiera che vuoi illuminare e l'altezza dal corrimano al pavimento del balcone. Le tende luminose rendono al meglio quando pendono dritte e coprono quasi tutta la ringhiera, quindi scegli la misura più vicina a queste dimensioni, non la più grande. Annota anche dove si trova la presa interna più vicina e quanta strada deve fare il cavo.
 
 ## Checklist di sicurezza per le luci sul balcone
 

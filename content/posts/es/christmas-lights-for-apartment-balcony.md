@@ -16,7 +16,7 @@ faq: [{"q": "¿Cómo cuelgo luces de Navidad en el balcón sin taladrar?", "a": 
 sources: [{"title": "NFPA: seguridad contra incendios en las fiestas de invierno", "url": "https://www.nfpa.org/education-and-research/home-fire-safety/winter-holidays"}, {"title": "Código IP (IEC 60529): los grados de protección explicados", "url": "https://en.wikipedia.org/wiki/IP_code"}]
 ---
 
-Si estás pensando en luces de Navidad para balcón, piensa que el balcón es el jardín delantero de quien vive en un piso: la única parte de tu casa que se ve desde la calle. El problema es que normalmente no puedes taladrar, el espacio es pequeño y quizá solo tengas un enchufe.
+Si estás pensando en poner luces de Navidad en el balcón, ten en cuenta que el balcón es el jardín delantero de quien vive en un piso: la única parte de tu casa que se ve desde la calle. El problema es que normalmente no puedes taladrar, el espacio es pequeño y quizá solo tengas un enchufe.
 
 Todas estas ideas de decoración navideña para el balcón sirven si vives de alquiler.
 
@@ -45,7 +45,7 @@ Revisa también las normas de tu edificio. Algunas comunidades limitan lo que se
 
 ## Mide primero tu balcón
 
-Antes de elegir tus luces de Navidad para balcón, mide el largo de la barandilla que quieres iluminar y la altura desde el pasamanos hasta el suelo del balcón. Las cortinas de luces quedan mejor cuando cuelgan rectas y cubren casi toda la barandilla, así que elige el tamaño más parecido a esas medidas en lugar del más grande. Apunta también dónde está el enchufe interior más cercano y cuánto tiene que recorrer el cable.
+Antes de elegir tus luces de Navidad para el balcón, mide el largo de la barandilla que quieres iluminar y la altura desde el pasamanos hasta el suelo del balcón. Las cortinas de luces quedan mejor cuando cuelgan rectas y cubren casi toda la barandilla, así que elige el tamaño más parecido a esas medidas en lugar del más grande. Apunta también dónde está el enchufe interior más cercano y cuánto tiene que recorrer el cable.
 
 ## Seguridad en el balcón: lista de comprobación
 

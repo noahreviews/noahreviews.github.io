@@ -53,7 +53,7 @@ Lass zwischen den Strängen und der Scheibe ein paar Zentimeter (etwa einen Zoll
 
 ## Lichtervorhang auf dem Balkon oder draußen aufhängen
 
-Klips den oberen Draht mit transparenten Clips oder kleinen Kabelbindern ans Balkongeländer, die Stränge auf der Seite, die nach außen zeigt. Prüf vorher die Schutzart: IP44 reicht unter einem Balkondach, an Stellen, an denen es direkt draufregnet, brauchst du IP65 oder höher. Halte Stecker, Netzteile und Controller trocken, am besten drinnen. Unser Ratgeber zur [Weihnachtsbeleuchtung am Balkon]({{post:christmas-lights-for-apartment-balcony}}) geht ausführlich auf die Sicherheit auf dem Balkon ein.
+Klips den oberen Draht mit transparenten Clips oder kleinen Kabelbindern ans Balkongeländer, die Stränge auf der Seite, die nach außen zeigt. Prüf vorher die Schutzart: IP44 reicht unter einem Balkondach; an Stellen, an denen es direkt draufregnet, brauchst du IP65 oder höher. Halte Stecker, Netzteile und Controller trocken, am besten drinnen. Unser Ratgeber zur [Weihnachtsbeleuchtung am Balkon]({{post:christmas-lights-for-apartment-balcony}}) geht ausführlich auf die Sicherheit auf dem Balkon ein.
 
 ## Lichtervorhang: nicht nur für Weihnachten
 

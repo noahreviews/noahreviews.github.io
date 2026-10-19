@@ -26,7 +26,7 @@ Si parla di luci di Natale smart, “controllate da app” e “programmabili”
 | Colore controllato da app | Colore, luminosità ed effetti preimpostati per tutta la catena | La maggior parte delle catene RGB “smart” |
 | Programmabili / indirizzabili (a pixel) | Ogni LED separatamente, così puoi disegnare forme, scritte e animazioni | Catene a pixel e tende a pixel |
 
-Se un'inserzione parla di “DIY pattern”, “pixel”, “indirizzabile” o ti permette di disegnare nell'app, si tratta del terzo tipo.
+Se un'inserzione parla di “DIY pattern”, “pixel” o “indirizzabile”, oppure se l'app ti permette di disegnare, si tratta del terzo tipo.
 
 ## Come funzionano i LED a pixel (indirizzabili)
 

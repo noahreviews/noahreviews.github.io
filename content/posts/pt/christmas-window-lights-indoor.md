@@ -16,7 +16,7 @@ faq: [{"q": "As luzes de Natal no interior veem-se do lado de fora?", "a": "Sim,
 sources: [{"title": "NFPA: segurança contra incêndios nas festas de inverno", "url": "https://www.nfpa.org/education-and-research/home-fire-safety/winter-holidays"}]
 ---
 
-Decorar a partir do interior é a forma mais fácil e segura de iluminar a casa para a rua: sem escadotes, sem proteção contra a chuva e sem dedos gelados. O truque está em fazer com que luzes de Natal para janela, colocadas dentro de casa, fiquem bonitas vistas de fora.
+Decorar a partir do interior é a forma mais fácil e segura de iluminar a casa para a rua: sem escadotes, sem proteção contra a chuva e sem dedos gelados. O truque está em fazer com que as luzes de Natal na janela, colocadas dentro de casa, fiquem bonitas vistas de fora.
 
 ## Ideias de luzes de Natal para janela
 
@@ -24,7 +24,7 @@ Decorar a partir do interior é a forma mais fácil e segura de iluminar a casa 
 2. **Estrelas ou flocos de neve luminosos para janela.** Uma única forma grande por janela, ao centro, é clássica e tranquila.
 3. **Silhuetas luminosas para janela** (renas, trenó, velas) que se penduram com ventosas.
 4. **Velas elétricas no parapeito**, o visual tradicional em muitas casas antigas.
-5. **Uma cortina pixel animada** que mostra imagens e texto, para uma janela que faz as pessoas parar a olhar.
+5. **Uma cortina pixel animada** que mostra imagens e texto, para uma janela que faz as pessoas parar para olhar.
 
 ## Como tornar as luzes interiores visíveis do exterior
 

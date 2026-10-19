@@ -13,7 +13,7 @@ imageH: 1024
 christian: true
 description: "Krippe Beleuchtung & christliche Lichterideen: Weihnachtskrippe im Garten, Stern von Bethlehem, Engel und Glaubensbotschaften – auch für Wohnungen."
 takeaways: ["Ein leuchtender Stern oder der schlichte Umriss eines Stalls macht aus beliebigen Krippenfiguren eine ganze Szene.", "In Wohnungen kann ein Fensterstern oder ein Pixel-Vorhang eine Krippe, einen Engel oder eine Glaubensbotschaft zeigen.", "Sanftes Warmweiß oder Gold wirkt andächtiger als bunt blinkende Farben."]
-faq: [{"q": "Wie beleuchte ich eine Krippe im Freien?", "a": "Nimm warmweiße Strahler oder einen beleuchteten Stall-Umriss, sichere die Figuren gegen Wind und verwende Kabel und Steckdosen, die für den Außenbereich geeignet sind."}, {"q": "Welche christlichen Botschaften eignen sich für Weihnachtsbeleuchtung?", "a": "Kurze Sätze sind von der Straße aus am besten lesbar, zum Beispiel „Freue dich, Welt“, „O heilige Nacht“, „Immanuel“, „Friede auf Erden“ oder „Jesus ist der Grund“."}, {"q": "Wie lange sollte eine Krippe stehen bleiben?", "a": "Viele Familien lassen sie bis zum Dreikönigstag am 6. Januar stehen, der an die Ankunft der Weisen aus dem Morgenland erinnert."}]
+faq: [{"q": "Wie beleuchte ich eine Krippe im Freien?", "a": "Nimm warmweiße Strahler oder einen beleuchteten Stall-Umriss, sichere die Figuren gegen Wind und verwende Kabel und Steckdosen, die für den Außenbereich geeignet sind."}, {"q": "Welche christlichen Botschaften eignen sich für Weihnachtsbeleuchtung?", "a": "Kurze Sätze sind von der Straße aus am besten lesbar, zum Beispiel „Freue dich, Welt“, „O heilige Nacht“, „Immanuel“, „Friede auf Erden“ oder „Jesus ist der Grund für Weihnachten“."}, {"q": "Wie lange sollte eine Krippe stehen bleiben?", "a": "Viele Familien lassen sie bis zum Dreikönigstag am 6. Januar stehen, der an die Ankunft der Weisen aus dem Morgenland erinnert."}]
 sources: [{"title": "Weihnachtskrippe – Geschichte und Traditionen", "url": "https://en.wikipedia.org/wiki/Nativity_scene"}, {"title": "Stern von Bethlehem", "url": "https://en.wikipedia.org/wiki/Star_of_Bethlehem"}, {"title": "NFPA: Brandschutz rund um die Winterfeiertage", "url": "https://www.nfpa.org/education-and-research/home-fire-safety/winter-holidays"}]
 ---
 
@@ -21,7 +21,7 @@ Für viele Familien geht es bei der Weihnachtsbeleuchtung um mehr als Weihnachts
 
 ## Klassisch im Vorgarten: So bekommt deine Krippe Beleuchtung
 
-- **Leuchtende Krippenfiguren.** Formfiguren oder Drahtfiguren von Maria, Josef und dem Jesuskind sind der traditionelle Klassiker für den Vorgarten. Drahtfiguren sind leichter und lassen sich einfacher verstauen.
+- **Leuchtende Krippenfiguren.** Kunststoff- oder Drahtfiguren von Maria, Josef und dem Jesuskind sind der traditionelle Klassiker für den Vorgarten. Drahtfiguren sind leichter und lassen sich einfacher verstauen.
 - **Ein beleuchteter Stall-Umriss.** Ein schlichter Dachumriss in Warmweiß macht aus beliebigen Figuren eine ganze Szene.
 - **Der Stern von Bethlehem.** Ein großer Stern über der Szene oder am Dachfirst ist von Weitem zu sehen und wirkt auch für sich allein, wenn der Platz knapp ist.
 
@@ -42,7 +42,7 @@ Kurze Texte sind von der Straße aus am besten lesbar:
 - Freue dich, Welt
 - O heilige Nacht
 - Immanuel
-- Jesus ist der Grund
+- Jesus ist der Grund für Weihnachten
 - Friede auf Erden
 
 ## Ein Wort zur Pixel-Variante

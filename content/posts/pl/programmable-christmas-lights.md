@@ -49,7 +49,7 @@ Na zewnątrz, zanim zaczniesz porównywać funkcje aplikacji, sprawdź trzy rzec
 
 Programowalna kurtyna to najłatwiejszy domowy wyświetlacz pikselowy: nie trzeba budować stelaża ani uczyć się oprogramowania. Powieś ją w oknie albo na balustradzie i wybieraj wzory w aplikacji.
 
-Jesteśmy partnerem afiliacyjnym marki Lumalyn, więc oceniaj naszą opinię z tą świadomością. Jej [programowalna kurtyna balkonowa]({{store}}) to siatka 400 diod LED (2 × 2 m lub 3 × 3 m) z ponad 100 wbudowanymi scenami, trybem rysowania własnych obrazków i napisów, synchronizacją z muzyką, timerami i pilotem. Łączy się przez Bluetooth, więc sterujesz nią z pokoju, a nie z biura.
+Jesteśmy partnerem afiliacyjnym marki Lumalyn, więc weź na to poprawkę, czytając naszą opinię. Jej [programowalna kurtyna balkonowa]({{store}}) to siatka 400 diod LED (2 × 2 m lub 3 × 3 m) z ponad 100 wbudowanymi scenami, trybem rysowania własnych obrazków i napisów, synchronizacją z muzyką, timerami i pilotem. Łączy się przez Bluetooth, więc sterujesz nią z pokoju, a nie z biura.
 
 ## Inteligentne lampki choinkowe: słowniczek pojęć
 

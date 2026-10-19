@@ -25,7 +25,7 @@ För många familjer handlar julbelysning om mer än tomtar och snögubbar. En j
 - **En upplyst stallsiluett.** En enkel takkontur i varmvitt gör vilka figurer som helst till en scen.
 - **Betlehemsstjärnan.** En stor stjärna ovanför scenen, eller på takets nock, syns på långt håll och fungerar på egen hand om det är ont om plats.
 
-Sätt krubbfigurerna på markspett eller vikter så att vinden inte välter dem, och använd förlängningssladdar avsedda för utomhusbruk.
+Förankra krubbfigurerna med markspett eller vikter så att vinden inte välter dem, och använd förlängningssladdar avsedda för utomhusbruk.
 
 ## Kristen julbelysning för lägenheter och fönster
 

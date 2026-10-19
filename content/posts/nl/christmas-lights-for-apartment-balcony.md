@@ -16,7 +16,7 @@ faq: [{"q": "Hoe hang ik kerstverlichting op een balkon zonder te boren?", "a": 
 sources: [{"title": "NFPA: brandveiligheid tijdens de winterfeestdagen", "url": "https://www.nfpa.org/education-and-research/home-fire-safety/winter-holidays"}, {"title": "IP-code (IEC 60529): beschermingsklassen uitgelegd", "url": "https://en.wikipedia.org/wiki/IP_code"}]
 ---
 
-Een balkon is de voortuin van een appartement: het is het enige deel van je woning dat de straat kan zien. Logisch dus dat je met kerstverlichting balkon en raam feestelijk wilt maken. Het nadeel: boren mag meestal niet, de ruimte is klein en misschien heb je maar één stopcontact.
+Een balkon is de voortuin van een appartement: het is het enige deel van je woning dat de straat kan zien. Logisch dus dat je je balkon en raam met kerstverlichting feestelijk wilt maken. Het nadeel: boren mag meestal niet, de ruimte is klein en misschien heb je maar één stopcontact.
 
 Deze ideeën werken allemaal ook als je huurt.
 

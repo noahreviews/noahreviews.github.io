@@ -16,7 +16,7 @@ faq: [{"q": "Hoe synchroniseert kerstverlichting met muziek?", "a": "Eenvoudige 
 sources: [{"title": "xLights: gratis software om lichtshows te programmeren", "url": "https://github.com/xLightsSequencer/xLights"}]
 ---
 
-De beroemde huizen die in de maat van Trans-Siberian Orchestra knipperen, zijn het resultaat van urenlang handmatig sequencen. Dat heb je niet nodig voor kerstverlichting met muziek die meebeweegt. Er zijn drie niveaus.
+De beroemde huizen die in de maat van Trans-Siberian Orchestra knipperen, zijn het resultaat van urenlang handmatig sequencen. Dat heb je niet nodig voor kerstverlichting die met de muziek meebeweegt. Er zijn drie niveaus.
 
 ## Optie 1: Verlichting met een ingebouwde microfoon
 

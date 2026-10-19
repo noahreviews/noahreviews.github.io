@@ -20,9 +20,9 @@ Le balcon, c'est le jardin des appartements : la seule partie de votre logement
 
 Toutes les idées ci-dessous conviennent aux locataires.
 
-## 9 idées de décoration Noël balcon
+## 9 idées de décoration de Noël pour le balcon
 
-1. **Enroulez une guirlande blanc chaud autour de la rambarde.** Classique, bon marché et lisible de loin.
+1. **Enroulez une guirlande blanc chaud autour de la rambarde.** Classique, bon marché et visible de loin.
 2. **Suspendez un rideau lumineux à la rambarde**, brins tournés vers la rue. Toute la rambarde devient un panneau lumineux.
 3. **Optez pour un rideau animé à pixels** pour afficher une image ou un message. Un Père Noël, un bonhomme de neige ou « Joyeux Noël » se voient depuis l'immeuble d'en face.
 4. **Illuminez un petit arbre en pot** dans un coin avec une guirlande à piles.

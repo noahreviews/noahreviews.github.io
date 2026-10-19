@@ -16,7 +16,7 @@ faq: [{"q": "Hur synkas julbelysning till musik?", "a": "Enkla set använder en 
 sources: [{"title": "xLights: gratis programvara för att sekvensera ljusshower", "url": "https://github.com/xLightsSequencer/xLights"}]
 ---
 
-De berömda husen som blinkar i takt med Trans-Siberian Orchestra bygger på timmar av handgjord sekvensering. Det behövs inte för att få julbelysning med musik, alltså ljus som rör sig i takt med låtarna. Det finns tre nivåer.
+De berömda husen som blinkar i takt med Trans-Siberian Orchestra bygger på timmar av manuell sekvensering. Det behövs inte för att få julbelysning med musik, alltså ljus som rör sig i takt med låtarna. Det finns tre nivåer.
 
 ## Alternativ 1: Ljus med inbyggd mikrofon
 

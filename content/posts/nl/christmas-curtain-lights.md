@@ -16,7 +16,7 @@ faq: [{"q": "Kan ik een lichtgordijn voor binnen gebruiken in een raam dat op de
 sources: [{"title": "IP-code (IEC 60529): beschermingsklassen uitgelegd", "url": "https://en.wikipedia.org/wiki/IP_code"}, {"title": "NFPA: brandveiligheid tijdens de winterfeestdagen", "url": "https://www.nfpa.org/education-and-research/home-fire-safety/winter-holidays"}]
 ---
 
-Een lichtgordijn is met kerst een van de makkelijkste manieren om een raam of balkon vanaf de straat feestelijk te laten ogen: één horizontale draad met veel dunne strengen die naar beneden hangen, elk met kleine leds. Hang de bovenste draad op, laat de strengen vallen en een heel vlak licht op. Daarom is een lichtgordijn kerst na kerst zo'n dankbare keuze.
+Een lichtgordijn is met kerst een van de makkelijkste manieren om een raam of balkon vanaf de straat feestelijk te laten ogen: één horizontale draad met veel dunne strengen die naar beneden hangen, elk met kleine leds. Hang de bovenste draad op, laat de strengen vallen en er licht een heel vlak op. Daarom is een lichtgordijn kerst na kerst zo'n dankbare keuze.
 
 Deze gids zet op een rij waar het echt om gaat als je een set koopt, of die nu bedoeld is voor een **raam binnen**, een **balkonhek buiten** of een terrasdeur.
 
@@ -54,7 +54,7 @@ Welke classificatie het ook is: houd de controller en de stekker droog en van de
 
 ## Stroom: USB of stopcontact
 
-Veel moderne led lichtgordijnen werken op **5 V USB**. Een USB-set werkt in de VS, het VK en de EU precies hetzelfde: alleen de stekkeradapter verschilt, dus je hebt helemaal geen gedoe met spanning of stekkertypes. Dat is binnen handig (elke telefoonlader werkt) en heel veilig, maar check wel of er een USB-adapter bij zit. Sommige sets worden alleen met de USB-kabel geleverd. Sets op netstroom zijn meestal feller en langer, maar hebben buiten een stopcontact nodig dat geschikt is voor buitengebruik.
+Veel moderne ledlichtgordijnen werken op **5 V USB**. Een USB-set werkt in de VS, het VK en de EU precies hetzelfde: alleen de stekkeradapter verschilt, dus je hebt helemaal geen gedoe met spanning of stekkertypes. Dat is binnen handig (elke telefoonlader werkt) en heel veilig, maar check wel of er een USB-adapter bij zit. Sommige sets worden alleen met de USB-kabel geleverd. Sets op netstroom zijn meestal feller en langer, maar hebben buiten een stopcontact nodig dat geschikt is voor buitengebruik.
 
 ## Zo hang je een lichtgordijn op aan het raam
 

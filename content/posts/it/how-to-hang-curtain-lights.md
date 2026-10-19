@@ -46,8 +46,8 @@ Tieni i fili a qualche centimetro (circa un pollice) dal vetro, così le luci si
 
 ## Tende luminose in camera da letto
 
-- **Dietro una tenda in voile:** appendi prima le luci al bastone e la tenda davanti; il tessuto ammorbidisce la luce in un bagliore soffuso.
-- **Dietro la testiera:** un tratto di parete sopra il letto è un punto molto scelto. Tieni i cavi lontani da dove dormi e fuori dalla portata di bambini e animali.
+- **Dietro una tenda in voile:** appendi prima le luci al bastone e la tenda davanti; il tessuto trasforma la luce in un bagliore soffuso.
+- **Dietro la testiera:** un tratto di parete sopra il letto è una delle posizioni preferite. Tieni i cavi lontani da dove dormi e fuori dalla portata di bambini e animali.
 - **Come baldacchino:** appendi il filo superiore a un bastone o a ganci sul soffitto, così i fili scendono attorno al letto.
 - **Usa un timer o il telecomando** per spegnere le luci senza alzarti, e la sera scegli il bianco caldo o effetti lenti.
 
@@ -69,4 +69,4 @@ Togli le luci prima di staccare i ganci. Rimuovi i ganci adesivi allungando lent
 
 ## La nostra scelta per una tenda animata
 
-Siamo affiliati di Lumalyn. Se vuoi una tenda che mostri anche immagini e messaggi, le [Lumalyn Smart Animated Balcony Lights]({{store}}) includono ganci trasparenti, funzionano a 5 V via USB (alimentatore da parete non incluso) e hanno telecomando e app con timer. Per una semplice luce calda, qualsiasi tenda luminosa semplice si appende con gli stessi metodi.
+Siamo affiliati di Lumalyn. Se vuoi una tenda che mostri anche immagini e messaggi, le [Lumalyn Smart Animated Balcony Lights]({{store}}) includono ganci trasparenti, funzionano a 5 V via USB (alimentatore da parete non incluso) e hanno telecomando e app con timer. Se ti basta una luce calda, qualsiasi tenda luminosa semplice si appende con gli stessi metodi.

@@ -28,7 +28,7 @@ Att sätta upp julbelysning fönster för fönster, på insidan av glaset, är d
 
 ## Så syns belysningen inomhus från gatan
 
-- **Gå nära glaset.** Ljus som sitter några centimeter från rutan syns tydligt; ljus en meter in lyser mest upp rummet.
+- **Sätt ljusen nära glaset.** Ljus som sitter några centimeter från rutan syns tydligt; ljus en meter in lyser mest upp rummet.
 - **Gör det mörkt bakom.** Dra för gardinerna eller persiennerna bakom motivet, eller släck rumsbelysningen. Kontrast är allt.
 - **Använd rätt ljusstyrka.** För starkt ger bländning och reflexer; omkring 50–70 % ljusstyrka ser oftast bäst ut på kvällen.
 - **Tänk på vinkeln.** Vid fönster på övervåningen tittar folk uppåt, så centrera motivet i fönstrets nedre halva.

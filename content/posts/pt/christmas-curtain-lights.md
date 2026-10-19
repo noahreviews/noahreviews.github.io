@@ -58,7 +58,7 @@ Muitas cortinas de luzes modernas funcionam a **5 V por USB**. Um conjunto USB f
 
 ## Como pendurar uma cortina de luzes de Natal na janela
 
-Para mais ideias para janelas, veja as nossas [luzes de Natal para janela]({{post:christmas-window-lights-indoor}}).
+Para mais ideias para janelas, veja o nosso guia de [luzes de Natal para janela]({{post:christmas-window-lights-indoor}}).
 
 1. Prenda o cabo de cima ao varão dos cortinados com clipes, ou use ganchos adesivos transparentes ao longo do topo do caixilho.
 2. Deixe os fios cair a direito. Não os estique, senão a imagem de uma cortina animada fica distorcida.

@@ -26,7 +26,7 @@ As luzes de Natal inteligentes, as controladas por app e as programáveis são t
 | Cor controlada por app | Cor, brilho e efeitos pré-definidos para o fio inteiro | A maioria dos fios RGB «inteligentes» |
 | Programável / endereçável (pixel) | Cada LED em separado, para desenhar formas, texto e animações | Fios pixel e cortinas pixel |
 
-Se a descrição do produto diz «padrão DIY», «pixel», «endereçável» ou permite desenhar na app, é do terceiro tipo.
+Se a descrição do produto disser «padrão DIY», «pixel» ou «endereçável», ou se a app permitir desenhar, é do terceiro tipo.
 
 ## Como funcionam os LEDs pixel (endereçáveis)
 
@@ -49,7 +49,7 @@ No exterior, verifique três coisas antes das funções da app:
 
 Uma cortina programável é o painel pixel mais fácil de ter em casa: não há estrutura para montar nem software para aprender. Pendure-a numa janela ou num gradeamento e escolha os desenhos na app.
 
-Somos afiliados da Lumalyn, por isso pese a nossa opinião em conformidade. A sua [cortina programável para varanda]({{store}}) é uma grelha de 400 LEDs (2 × 2 m ou 3 × 3 m) com mais de 100 cenas incluídas, um modo de desenho livre para imagens e texto personalizados, sincronização com música, temporizadores e comando. Liga-se por Bluetooth, por isso controla-a a partir da divisão onde está, e não a partir do escritório.
+Somos afiliados da Lumalyn, por isso tenha isso em conta ao ler a nossa opinião. A sua [cortina programável para varanda]({{store}}) é uma grelha de 400 LEDs (2 × 2 m ou 3 × 3 m) com mais de 100 cenas incluídas, um modo de desenho livre para imagens e texto personalizados, sincronização com música, temporizadores e comando. Liga-se por Bluetooth, por isso controla-a a partir da divisão onde está, e não a partir do escritório.
 
 ## Luzes de Natal inteligentes: os termos explicados
 

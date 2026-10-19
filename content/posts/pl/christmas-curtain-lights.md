@@ -12,7 +12,7 @@ imageW: 1200
 imageH: 1200
 description: "Kurtyna świetlna na okno, do domu i na zewnątrz: zwykła czy animowana, jaki rozmiar, ile diod LED, jaka klasa IP, zasilanie i porady, jak ją powiesić."
 takeaways: ["Jeśli chcesz obrazków i napisów, wybierz kurtynę adresowalną (pikselową); jeśli wystarczy ci sama poświata, zwykłą kurtynę.", "Dopasuj rozmiar kurtyny do szerokości okna lub balustrady, żeby sznury wisiały płasko.", "IP44 wystarczy pod zadaszeniem; tam, gdzie deszcz pada bezpośrednio, wybierz IP65 lub wyższą klasę."]
-faq: [{"q": "Czy kurtynę świetlną do wnętrz mogę powiesić w oknie wychodzącym na zewnątrz?", "a": "Tak. Kurtyna świetlna powieszona w środku, blisko szyby, to najbezpieczniejszy sposób na dekorację okna, a wieczorem jest dobrze widoczna z ulicy."}, {"q": "Co oznacza IP44 w lampkach świątecznych?", "a": "IP44 oznacza, że lampki są chronione przed bryzgami wody z dowolnego kierunku. Nadają się na zadaszone balkony i ganki, ale nie tam, gdzie deszcz pada na nie bezpośrednio."}, {"q": "Ile diod LED potrzebuje kurtyna, która wyświetla obrazki?", "a": "Siatka około 400 indywidualnie sterowanych diod LED wystarczy, żeby świąteczne obrazki i krótkie słowa były rozpoznawalne z drugiej strony ulicy."}]
+faq: [{"q": "Czy kurtynę świetlną do wnętrz mogę powiesić w oknie wychodzącym na ulicę?", "a": "Tak. Kurtyna świetlna powieszona w środku, blisko szyby, to najbezpieczniejszy sposób na dekorację okna, a wieczorem jest dobrze widoczna z ulicy."}, {"q": "Co oznacza IP44 w lampkach świątecznych?", "a": "IP44 oznacza, że lampki są chronione przed bryzgami wody z dowolnego kierunku. Nadają się na zadaszone balkony i ganki, ale nie tam, gdzie deszcz pada na nie bezpośrednio."}, {"q": "Ile diod LED potrzebuje kurtyna, która wyświetla obrazki?", "a": "Siatka około 400 indywidualnie sterowanych diod LED wystarczy, żeby świąteczne obrazki i krótkie słowa były rozpoznawalne z drugiej strony ulicy."}]
 sources: [{"title": "Kod IP (IEC 60529) – wyjaśnienie stopni ochrony", "url": "https://en.wikipedia.org/wiki/IP_code"}, {"title": "NFPA: bezpieczeństwo przeciwpożarowe w okresie zimowych świąt", "url": "https://www.nfpa.org/education-and-research/home-fire-safety/winter-holidays"}]
 ---
 
@@ -37,7 +37,7 @@ Dwie liczby, które warto porównać, to **szerokość × wysokość** i **łąc
 
 - Kurtyna 2 × 2 m (ok. 6,5 × 6,5 ft) zakrywa standardowe okno albo krótki odcinek balkonu.
 - Kurtyna 3 × 3 m (ok. 10 × 10 ft) zakrywa drzwi tarasowe albo szerszą balustradę.
-- W kurtynach animowanych więcej diod na metr kwadratowy oznacza ostrzejszy obraz. Przy tej samej liczbie diod mniejsza kurtyna wygląda na bardziej szczegółową, a większa jest większa, ale z bliska bardziej „kanciasta”. Z ulicy obie są dobrze czytelne.
+- W kurtynach animowanych więcej diod na metr kwadratowy oznacza ostrzejszy obraz. Przy tej samej liczbie diod mniejsza kurtyna wygląda na bardziej szczegółową, a większa wygląda okazalej, ale z bliska jest bardziej „kanciasta”. Z ulicy obie są dobrze czytelne.
 
 Najpierw zmierz szerokość, którą chcesz zakryć. Kurtyna świetlna wygląda najlepiej, gdy wisi płasko, a nie zebrana w fałdy, więc wybierz rozmiar najbliższy szerokości okna lub balustrady, a nie po prostu największy.
 
@@ -58,7 +58,7 @@ Wiele nowoczesnych kurtyn świetlnych działa na **5 V z USB**. Zestaw USB dzia�
 
 ## Jak powiesić kurtynę świetlną na oknie
 
-Więcej pomysłów znajdziesz w poradniku [dekoracje świetlne na okno]({{post:christmas-window-lights-indoor}}).
+Więcej pomysłów na [dekoracje świetlne na okno]({{post:christmas-window-lights-indoor}}) znajdziesz w osobnym poradniku.
 
 1. Przypnij górny przewód do karnisza albo użyj przezroczystych haczyków samoprzylepnych wzdłuż górnej krawędzi ramy okna.
 2. Pozwól sznurom opaść prosto. Nie naciągaj ich, bo obraz na animowanej kurtynie się zniekształci.

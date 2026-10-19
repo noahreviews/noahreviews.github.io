@@ -40,7 +40,7 @@ Les passionnés utilisent des contrôleurs de pixels et un logiciel comme xLight
 
 - **Coût :** contrôleurs, alimentations, de nombreux pixels.
 - **Effort :** de nombreuses heures par chanson.
-- **Résultat :** les spectacles chorégraphiés spectaculaires que l'on voit en ligne.
+- **Résultat :** les spectacles chorégraphiés impressionnants que l'on voit en ligne.
 
 ## Régler votre guirlande lumineuse musicale en cinq étapes
 

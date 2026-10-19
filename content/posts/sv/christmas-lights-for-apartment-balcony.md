@@ -16,7 +16,7 @@ faq: [{"q": "Hur hänger jag upp julbelysning på balkongen utan att borra?", "a
 sources: [{"title": "NFPA: Brandsäkerhet under jul och vinterhelger", "url": "https://www.nfpa.org/education-and-research/home-fire-safety/winter-holidays"}, {"title": "IP-kod (IEC 60529) – klasserna förklarade", "url": "https://en.wikipedia.org/wiki/IP_code"}]
 ---
 
-En balkong är lägenhetens motsvarighet till en framträdgård: det är den enda delen av hemmet som syns från gatan. Haken med julbelysning på balkong är att du oftast inte får borra, att ytan är liten och att du kanske bara har ett eluttag.
+En balkong är lägenhetens motsvarighet till en framträdgård: det är den enda delen av hemmet som syns från gatan. Haken med julbelysning på balkongen är att du oftast inte får borra, att ytan är liten och att du kanske bara har ett eluttag.
 
 Alla de här idéerna fungerar även om du hyr.
 

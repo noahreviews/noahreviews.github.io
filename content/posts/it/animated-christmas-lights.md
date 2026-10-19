@@ -16,7 +16,7 @@ faq: [{"q": "Quali sono le migliori luci natalizie animate per le finestre?", "a
 sources: [{"title": "Codice IP (IEC 60529): i gradi di protezione spiegati", "url": "https://en.wikipedia.org/wiki/IP_code"}, {"title": "NFPA: sicurezza antincendio durante le feste invernali", "url": "https://www.nfpa.org/education-and-research/home-fire-safety/winter-holidays"}]
 ---
 
-Sotto il nome di luci natalizie animate finisce tutto ciò che si muove: catene luminose a rincorsa, renne luminose che muovono la testa, proiettori laser e tende LED a pixel che riproducono piccoli cartoni animati. Dal vivo l'effetto è molto diverso, quindi ecco come si confrontano.
+Sotto il nome di luci natalizie animate finisce tutto ciò che si muove: catene luminose a rincorsa, renne luminose che muovono la testa, proiettori laser e tende LED a pixel che riproducono piccoli cartoni animati. Dal vivo, però, l'effetto cambia molto da un tipo all'altro: ecco un confronto.
 
 ## I tipi principali
 
@@ -48,7 +48,7 @@ Controlla la protezione dalle intemperie di tutto ciò che sta all'aperto. IP44 
 ## Cosa guardare prima di comprare
 
 - **LED indirizzabili**, se vuoi immagini e scritte e non solo cambi di colore.
-- **Un'app con una libreria di disegni** e, idealmente, la possibilità di disegnare o scrivere i tuoi.
+- **Un'app con una libreria di disegni** e, idealmente, la possibilità di disegnare i tuoi motivi o scrivere i tuoi testi.
 - **Un timer**, così non devi mai ricordarti di accenderle.
 - **Un telecomando**, per gli ospiti o i bambini che non hanno l'app.
 

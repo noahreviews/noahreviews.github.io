@@ -28,7 +28,7 @@ Je kerstverlichting raam voor raam aan de binnenkant ophangen is de makkelijkste
 
 ## Zo zie je verlichting binnen ook van buiten
 
-- **Ga dicht tegen het glas.** Lampjes op een paar centimeter van het raam zijn goed te zien; lampjes een meter verderop verlichten vooral je kamer.
+- **Hang ze dicht tegen het glas.** Lampjes op een paar centimeter van het raam zijn goed te zien; lampjes een meter verderop verlichten vooral je kamer.
 - **Maak het erachter donker.** Doe de gordijnen of jaloezieën achter het display dicht of zet het licht in de kamer uit. Contrast is alles.
 - **Kies de juiste helderheid.** Te fel geeft schittering en weerspiegeling; zo'n 50 tot 70% helderheid ziet er 's avonds meestal het mooist uit.
 - **Denk aan de kijkhoek.** Bij ramen op een verdieping kijken mensen omhoog, dus zet het display in het midden van de onderste helft van het raam.

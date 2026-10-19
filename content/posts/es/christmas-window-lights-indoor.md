@@ -16,7 +16,7 @@ faq: [{"q": "¿Se ven desde fuera las luces de Navidad de interior?", "a": "Sí,
 sources: [{"title": "NFPA: seguridad contra incendios en las fiestas de invierno", "url": "https://www.nfpa.org/education-and-research/home-fire-safety/winter-holidays"}]
 ---
 
-Colocar luces de Navidad para ventanas desde dentro es la forma más fácil y segura de iluminar tu casa de cara a la calle: sin escaleras, sin preocuparte por la intemperie y sin dedos congelados. El truco está en conseguir que unas luces colocadas en el interior se vean bien desde fuera.
+Colocar luces de Navidad en las ventanas por dentro es la forma más fácil y segura de iluminar tu casa de cara a la calle: sin escaleras, sin preocuparte por la intemperie y sin dedos congelados. El truco está en conseguir que unas luces colocadas en el interior se vean bien desde fuera.
 
 ## Ideas de luces de Navidad para ventanas (por dentro)
 

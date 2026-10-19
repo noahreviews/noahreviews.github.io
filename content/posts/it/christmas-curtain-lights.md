@@ -16,7 +16,7 @@ faq: [{"q": "Posso usare una tenda luminosa da interno in una finestra che dà s
 sources: [{"title": "Codice IP (IEC 60529): i gradi di protezione spiegati", "url": "https://en.wikipedia.org/wiki/IP_code"}, {"title": "NFPA: sicurezza antincendio durante le feste invernali", "url": "https://www.nfpa.org/education-and-research/home-fire-safety/winter-holidays"}]
 ---
 
-Una tenda luminosa Natale è uno dei modi più semplici per rendere festosa una finestra o un balcone agli occhi di chi passa in strada: un filo orizzontale da cui pendono tanti fili sottili, ciascuno con piccoli LED. Fissi il filo in alto, lasci scendere i fili e si accende un'intera superficie.
+Una tenda luminosa di Natale è uno dei modi più semplici per rendere festosa una finestra o un balcone agli occhi di chi passa in strada: un filo orizzontale da cui pendono tanti fili sottili, ciascuno con piccoli LED. Fissi il filo in alto, lasci scendere i fili e si accende un'intera superficie.
 
 Questa guida spiega che cosa conta davvero quando acquisti un set, che sia per una **finestra in casa**, per la **ringhiera di un balcone all'aperto** o per una portafinestra.
 

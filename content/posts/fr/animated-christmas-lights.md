@@ -16,7 +16,7 @@ faq: [{"q": "Quelles sont les meilleures lumières de Noël animées pour une fe
 sources: [{"title": "Les indices IP (IEC 60529) expliqués (en anglais)", "url": "https://en.wikipedia.org/wiki/IP_code"}, {"title": "NFPA : sécurité incendie pendant les fêtes de fin d'année (en anglais)", "url": "https://www.nfpa.org/education-and-research/home-fire-safety/winter-holidays"}]
 ---
 
-Une décoration lumineuse de Noël animée, c'est tout ce qui bouge : guirlandes à effet chenillard, rennes lumineux qui hochent la tête, projecteurs laser, ou encore le rideau lumineux LED à pixels qui joue de petits dessins animés. En vrai, le rendu n'a rien à voir d'un produit à l'autre : voici comment ils se comparent.
+Une décoration lumineuse de Noël animée, c'est tout ce qui bouge : guirlandes à effet chenillard, rennes lumineux qui hochent la tête, projecteurs laser, ou encore le rideau lumineux LED à pixels qui joue de petits dessins animés. En pratique, le rendu n'a rien à voir d'un produit à l'autre : voici notre comparatif.
 
 ## Les principaux types
 
@@ -24,7 +24,7 @@ Une décoration lumineuse de Noël animée, c'est tout ce qui bouge : guirlande
 |---|---|---|---|
 | Guirlandes chenillard / scintillantes | Des groupes d'ampoules s'allument et s'éteignent à tour de rôle | Un mouvement le long d'une ligne | Bords de toit, sapins |
 | Figurines lumineuses | Un moteur ou quelques zones de LED | Un seul mouvement simple | Jardins devant la maison |
-| Projecteurs laser et LED | Projettent des points ou des images en mouvement sur un mur | Motifs chargés, délavés par l'éclairage public | Grands murs nus |
+| Projecteurs laser et LED | Projettent des points ou des images en mouvement sur un mur | Motifs chargés, noyés dans l'éclairage public | Grands murs nus |
 | Rideau lumineux LED à pixels | Chaque LED est adressable et forme un écran basse résolution | De vraies images et du texte en mouvement | Fenêtres, balcons, portes-fenêtres |
 
 ## Rideau lumineux LED animé pour les fenêtres
@@ -39,7 +39,7 @@ Nos conseils pour les fenêtres :
 
 ## Décoration lumineuse de Noël animée en extérieur
 
-Pour une maison, le mieux est de combiner des bords de toit en blanc chaud fixe avec **un seul** point focal animé. Trop d'éléments qui bougent en même temps donnent une impression de désordre depuis la route.
+Pour une maison, le mieux est de combiner des bords de toit illuminés en blanc chaud fixe avec **un seul** point focal animé. Trop d'éléments qui bougent en même temps donnent une impression de désordre depuis la route.
 
 Si vous habitez en appartement, la rambarde du balcon est votre point focal. Consultez notre guide de [décoration de Noël pour balcon d'appartement]({{post:christmas-lights-for-apartment-balcony}}).
 
@@ -48,7 +48,7 @@ Vérifiez l'indice d'étanchéité de tout ce qui va dehors. L'IP44 convient sou
 ## Ce qu'il faut regarder à l'achat
 
 - **Des LED adressables**, si vous voulez des images et du texte plutôt que de simples changements de couleur.
-- **Une appli avec une bibliothèque de motifs** et, idéalement, la possibilité de dessiner ou de taper votre propre création.
+- **Une appli avec une bibliothèque de motifs** et, idéalement, la possibilité de dessiner vos propres motifs ou de saisir votre propre texte.
 - **Une minuterie**, pour ne jamais avoir à penser à l'allumer.
 - **Une télécommande**, pour les invités ou les enfants qui n'ont pas l'appli.
 
@@ -57,7 +57,7 @@ Vérifiez l'indice d'étanchéité de tout ce qui va dehors. L'IP44 convient sou
 Les lumières en mouvement attirent le regard, c'est tout l'intérêt, mais quelques bonnes habitudes permettent de ménager tout le monde :
 
 - **Programmez des horaires.** La plupart des gens apprécient les illuminations en début de soirée ; très peu apprécient des lumières qui clignotent à minuit.
-- **Baissez la luminosité une fois la nuit tombée.** Environ la moitié de la luminosité suffit généralement la nuit.
+- **Baissez la luminosité une fois la nuit tombée.** Une luminosité réduite de moitié environ suffit généralement la nuit.
 - **Choisissez des scènes plus calmes en fin de soirée.** Une neige qui tombe lentement ou un scintillement doux sont plus faciles à vivre pour le voisinage qu'un clignotement rapide.
 - **Vérifiez les règles locales et celles de votre immeuble.** Certains règlements de copropriété ou de lotissement limitent les décorations extérieures ou leurs horaires d'allumage.
 

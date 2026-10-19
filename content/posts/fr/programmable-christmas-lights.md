@@ -43,7 +43,7 @@ En extérieur, vérifiez trois choses avant même les fonctions de l'appli :
 
 1. **L'indice d'étanchéité** : IP44 pour les endroits couverts, IP65 et plus pour la pluie à découvert.
 2. **L'emplacement du contrôleur** : il doit se trouver au sec.
-3. **La connexion** : le Bluetooth fonctionne à environ 10 m de votre téléphone ; le Wi-Fi permet de piloter les lumières de n'importe où, mais il faut du signal à la fenêtre ou sur le balcon.
+3. **La connexion** : le Bluetooth fonctionne jusqu'à environ 10 m de votre téléphone ; le Wi-Fi permet de piloter les lumières de n'importe où, mais il faut du signal à la fenêtre ou sur le balcon.
 
 ## Rideau lumineux programmable
 

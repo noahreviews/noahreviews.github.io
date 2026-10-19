@@ -32,7 +32,7 @@ Fixe as figuras do presépio com estacas ou pesos para que o vento não as derru
 Não tem jardim? Pode partilhar a história na mesma:
 
 - **Uma estrela na janela.** Uma única estrela luminosa pendurada numa janela virada para a rua é simples e marcante.
-- **Uma cortina pixel animada** (veja como funcionam em [luzes de Natal inteligentes e programáveis]({{post:programmable-christmas-lights}})) atrás da janela ou no gradeamento da varanda pode mostrar um presépio, um anjo anunciador, os três Reis Magos ou uma mensagem curta como «Alegria ao mundo».
+- **Uma cortina pixel animada** (veja como funciona no nosso guia de [luzes de Natal inteligentes e programáveis]({{post:programmable-christmas-lights}})) atrás da janela ou no gradeamento da varanda pode mostrar um presépio, um anjo anunciador, os três Reis Magos ou uma mensagem curta como «Alegria ao mundo».
 - **Só branco quente.** Muitas pessoas preferem luz branca suave ou dourada, para um ambiente de recolhimento, em vez de cores a piscar.
 
 ## Ideias de mensagens de fé

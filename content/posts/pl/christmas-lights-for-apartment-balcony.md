@@ -67,4 +67,4 @@ Co jest najważniejsze na balkonie:
 | Timer | Lampki włączają się, nawet gdy nie ma cię w domu |
 | Coś widocznego z daleka | Większe obrazki i jaskrawe kolory są czytelniejsze niż drobne szczegóły |
 
-Jesteśmy partnerem afiliacyjnym marki Lumalyn, której [Smart Animated Balcony Lights]({{store}}) zaprojektowano właśnie z myślą o tym: to pikselowa kurtyna 2 × 2 m lub 3 × 3 m, którą przypinasz do balustrady, zasilana z USB, z klasą IP44, aplikacją z harmonogramami i pilotem. Jeśli chcesz tylko ciepłej poświaty, budżetową opcją są lampki świąteczne na balkon w postaci 10-metrowego ciepłobiałego łańcucha owiniętego wokół balustrady.
+Jesteśmy partnerem afiliacyjnym marki Lumalyn, której [Smart Animated Balcony Lights]({{store}}) zaprojektowano właśnie z myślą o tym: to pikselowa kurtyna 2 × 2 m lub 3 × 3 m, którą przypinasz do balustrady, zasilana z USB, z klasą IP44, aplikacją z harmonogramami i pilotem. Jeśli chcesz tylko ciepłej poświaty, budżetową opcją jest 10-metrowy ciepłobiały łańcuch lampek owinięty wokół balustrady.

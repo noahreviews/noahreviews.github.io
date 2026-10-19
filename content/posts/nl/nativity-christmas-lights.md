@@ -19,7 +19,7 @@ sources: [{"title": "Kerststal: geschiedenis en tradities", "url": "https://en.w
 
 Voor veel gezinnen draait kerstverlichting om meer dan de kerstman en sneeuwpoppen. Een kerststal, een stralende ster of een engel laat iedereen die langsloopt zien wat deze tijd van het jaar voor je betekent. Zo pak je dat aan met verlichting voor je kerststal en andere christelijke lichtideeën, of je nu een voortuin hebt of alleen een raam.
 
-## Klassieke kerststal verlichting voor buiten
+## Klassieke kerststalverlichting voor buiten
 
 - **Verlichte kerstfiguren.** Gegoten figuren of draadfiguren van Maria, Jozef en het kindje Jezus zijn de traditionele keuze voor een voortuin. Draadfiguren zijn lichter en makkelijker op te bergen.
 - **Een verlicht stalsilhouet.** Een eenvoudige dakcontour in warmwit maakt van elke set figuren een tafereel.
@@ -49,7 +49,7 @@ Korte tekst is vanaf de straat het best te lezen:
 
 We hebben een affiliate-samenwerking met Lumalyn, dus hier is onze eerlijke mening. Het [Lumalyn-gordijn]({{store#christian}}) heeft een tekenmodus, en daarmee zet je er een kerststal, een engel, een ster of een geloofstekst op. De ingebouwde bibliotheek bestaat vooral uit algemene kerstscènes, dus christelijke ontwerpen maak je zelf in de app (of neem je over van een afbeelding) in plaats van ze met één tik te kiezen. Het is een gordijn met 400 leds in 2 × 2 m of 3 × 3 m, met IP44 voor overdekte plekken buiten.
 
-## Zo ontwerp je kerststal verlichting op een pixelgordijn
+## Zo ontwerp je kerststalverlichting op een pixelgordijn
 
 Heeft je verlichting een tekenmodus, dan werkt een eenvoudig ontwerp het best op een raster met lage resolutie:
 

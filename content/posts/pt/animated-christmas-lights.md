@@ -29,7 +29,7 @@ As «luzes de Natal animadas» incluem tudo o que mexe: fios de luzes sequenciai
 
 ## Luzes de Natal animadas para janelas
 
-As janelas são onde as luzes animadas mais compensam, porque as pessoas as veem de frente. Uma **cortina pixel** pendurada atrás do vidro mostra à rua uma imagem em movimento nítida, sem sair da segurança do interior. Os projetores funcionam mal em janelas: o vidro não retém uma imagem projetada.
+É nas janelas que as luzes animadas mais compensam, porque as pessoas as veem de frente. Uma **cortina pixel** pendurada atrás do vidro mostra à rua uma imagem em movimento nítida, sem sair da segurança do interior. Os projetores funcionam mal em janelas: o vidro não retém uma imagem projetada.
 
 Dicas para janelas:
 
@@ -67,7 +67,7 @@ As luzes em movimento chamam a atenção, e é esse o objetivo, mas alguns hábi
 2. Meça esse espaço e escolha o tamanho mais próximo.
 3. Verifique o índice de proteção contra a água, se for para o exterior.
 4. Certifique-se de que a app tem um temporizador e uma biblioteca de desenhos de que goste.
-5. Confirme a forma de alimentação e que ficha ou adaptador precisa para o seu país.
+5. Confirme a forma de alimentação e de que ficha ou adaptador precisa no seu país.
 
 ## A nossa escolha
 

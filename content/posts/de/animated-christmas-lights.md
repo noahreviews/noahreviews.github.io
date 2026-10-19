@@ -43,7 +43,7 @@ Am Haus wirkt eine Kombination am besten: ruhige, warmweiß beleuchtete Dachkant
 
 Wohnst du in einer Wohnung, ist das Balkongeländer dein Blickfang. Mehr dazu in unserem Ratgeber zur [Weihnachtsbeleuchtung am Balkon]({{post:christmas-lights-for-apartment-balcony}}).
 
-Prüf bei allem, was draußen hängt, die Schutzart. IP44 reicht unter einem Balkondach; bei offenem Regen achte auf IP65 oder höher.
+Prüf bei allem, was draußen hängt, die Schutzart. IP44 reicht unter einem Balkondach; ist die Stelle direkt dem Regen ausgesetzt, achte auf IP65 oder höher.
 
 ## Worauf du beim Kauf achten solltest
 

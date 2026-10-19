@@ -25,7 +25,7 @@ Una cortina de luces parece sencilla: un cable superior del que cuelgan tiras. P
 1. **Mide el ancho** que quieres cubrir. Las cortinas de luces quedan mejor cuando las tiras cuelgan rectas, así que elige un tamaño parecido a ese ancho en lugar del más grande.
 2. **Mide la caída.** Si las tiras son más largas que el hueco, se amontonan abajo; en una ventana, el alféizar puede disimular un poco de largo de más.
 3. **Localiza primero el enchufe.** Fíjate en dónde irán el enchufe, el adaptador o el controlador y en cuánto mide el cable de alimentación. Si lo planificas, evitas tender cables por una zona de paso.
-4. **Comprueba el peso.** La mayoría de las cortinas de luces pesan poco, pero el controlador añade peso en un extremo. Elige ganchos que aguanten más que el total.
+4. **Comprueba el peso.** La mayoría de las cortinas de luces pesan poco, pero el controlador añade peso en un extremo. Elige ganchos que aguanten más que el peso total.
 
 Normalmente necesitarás ganchos o pinzas adhesivas extraíbles, una cinta métrica y, si quieres, una barra extensible a presión o pequeños clips para cables.
 

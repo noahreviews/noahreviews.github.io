@@ -41,7 +41,7 @@ Zwei praktische Folgen:
 
 Draußen solltest du drei Dinge prüfen, bevor es um App-Funktionen geht:
 
-1. **Wasserschutz** – IP44 für überdachte Plätze, IP65+ für offenen Regen.
+1. **Wasserschutz** – IP44 für überdachte Plätze, IP65+ bei direktem Regen.
 2. **Wo der Controller sitzt** – er sollte an einem trockenen Ort liegen.
 3. **Verbindung** – Bluetooth funktioniert bis etwa 10 m vom Smartphone entfernt; per WLAN steuerst du die Lichter von überall, brauchst aber Empfang am Fenster oder auf dem Balkon.
 

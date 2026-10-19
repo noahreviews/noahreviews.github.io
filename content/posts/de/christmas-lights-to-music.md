@@ -16,11 +16,11 @@ faq: [{"q": "Wie synchronisiert sich eine Lichterkette mit Musik?", "a": "Einfac
 sources: [{"title": "xLights: kostenlose Software zum Programmieren von Lichtshows", "url": "https://github.com/xLightsSequencer/xLights"}]
 ---
 
-Hinter den berühmten Häusern, die im Takt von Trans-Siberian Orchestra blinken, stecken Stunden an handgemachter Sequenzierung. Für Lichter, die sich zur Musik bewegen, brauchst du das nicht – eine Lichterkette mit Musik-Sync bekommst du viel einfacher. Es gibt drei Stufen.
+Hinter den berühmten Häusern, die im Takt des Trans-Siberian Orchestra blinken, stecken Stunden an handgemachter Sequenzierung. Für Lichter, die sich zur Musik bewegen, brauchst du das nicht – eine Lichterkette mit Musik-Sync bekommst du viel einfacher. Es gibt drei Stufen.
 
 ## Option 1: Lichter mit eingebautem Mikrofon
 
-Viele RGB-Lichterketten und -Vorhänge haben einen **Musikmodus**: Ein kleines Mikrofon im Controller hört auf den Beat und ändert Farbe oder Muster je nach Lautstärke.
+Viele RGB-Lichterketten und -Vorhänge haben einen **Musikmodus**: Ein kleines Mikrofon im Controller erfasst den Beat und ändert Farbe oder Muster je nach Lautstärke.
 
 - **Kosten:** keine zusätzlichen.
 - **Aufwand:** ein Knopfdruck.

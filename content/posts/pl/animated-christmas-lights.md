@@ -41,9 +41,9 @@ Wskazówki do okien:
 
 Przy domu najlepiej działa połączenie: stałe, ciepłobiałe lampki wzdłuż dachu plus **jeden** animowany punkt centralny. Zbyt wiele ruchomych elementów naraz wygląda z drogi chaotycznie.
 
-Jeśli mieszkasz w bloku, twoim punktem centralnym jest balustrada balkonu. Zobacz nasz poradnik [lampki na balkon]({{post:christmas-lights-for-apartment-balcony}}).
+Jeśli mieszkasz w bloku, twoim punktem centralnym jest balustrada balkonu. Zobacz nasz poradnik o tym, jak powiesić [lampki na balkon]({{post:christmas-lights-for-apartment-balcony}}).
 
-Sprawdź klasę szczelności wszystkiego, co wisi na zewnątrz. IP44 wystarczy pod dachem balkonu; tam, gdzie pada na nie deszcz, szukaj IP65 lub wyższej.
+Sprawdź klasę szczelności wszystkiego, co wisi na zewnątrz. IP44 wystarczy pod dachem balkonu; tam, gdzie pada deszcz, szukaj klasy IP65 lub wyższej.
 
 ## Na co zwrócić uwagę przy zakupie
 

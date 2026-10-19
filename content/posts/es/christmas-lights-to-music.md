@@ -16,7 +16,7 @@ faq: [{"q": "¿Cómo se sincronizan las luces de Navidad con la música?", "a": 
 sources: [{"title": "xLights: software gratuito para secuenciar espectáculos de luces", "url": "https://github.com/xLightsSequencer/xLights"}]
 ---
 
-Las casas famosas que parpadean al compás de Trans-Siberian Orchestra se apoyan en horas de secuenciación hecha a mano. No necesitas nada de eso para tener luces de Navidad con música que se muevan al ritmo. Hay tres niveles.
+Las casas famosas que parpadean al compás de la Trans-Siberian Orchestra se apoyan en horas de secuenciación hecha a mano. No necesitas nada de eso para tener luces de Navidad con música que se muevan al ritmo. Hay tres niveles.
 
 ## Opción 1: luces con micrófono integrado
 
@@ -24,7 +24,7 @@ Muchas guirnaldas y cortinas RGB tienen un **modo música**: un pequeño micróf
 
 - **Coste:** nada extra.
 - **Esfuerzo:** pulsar un botón.
-- **Resultado:** las luces reaccionan a lo que suene en la habitación. Responden al ritmo, no a notas concretas, así que se siente más como una fiesta que como un espectáculo coreografiado.
+- **Resultado:** las luces reaccionan a lo que suene en la habitación. Responden al ritmo, no a notas concretas, así que el efecto es más de fiesta que de espectáculo coreografiado.
 
 ## Opción 2: sincronización con música desde la app
 
@@ -56,7 +56,7 @@ Los aficionados usan controladores de píxeles y software como xLights para prog
 |---|---|---|---|
 | Tiempo de configuración | Segundos | Minutos | Horas por canción |
 | Hardware adicional | Ninguno | Ninguno | Controladores, fuentes de alimentación, muchos píxeles |
-| Sigue la canción exacta | No, reacciona al ritmo y al volumen | No, reacciona al sonido | Sí, fotograma a fotograma |
+| Sigue la canción con precisión | No, reacciona al ritmo y al volumen | No, reacciona al sonido | Sí, fotograma a fotograma |
 | Ideal para | Fiestas, ventanas, balcones | Fiestas con más efectos para elegir | Grandes espectáculos al aire libre |
 
 ## Cómo elegir luces para sincronizar con la música

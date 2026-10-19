@@ -43,7 +43,7 @@ En exterior, revisa tres cosas antes que las funciones de la app:
 
 1. **Protección contra el agua**: IP44 para zonas cubiertas, IP65+ para lluvia directa.
 2. **Dónde va el controlador**: debe quedar en un sitio seco.
-3. **Conexión**: el Bluetooth funciona a unos 10 m del móvil; el wifi te permite controlar las luces desde cualquier sitio, pero necesita cobertura en la ventana o el balcón.
+3. **Conexión**: el Bluetooth funciona hasta unos 10 m del móvil; el wifi te permite controlar las luces desde cualquier sitio, pero necesita cobertura en la ventana o el balcón.
 
 ## Cortinas de luces programables
 

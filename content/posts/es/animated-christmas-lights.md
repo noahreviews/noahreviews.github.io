@@ -16,7 +16,7 @@ faq: [{"q": "¿Cuáles son las mejores luces de Navidad animadas para ventanas?"
 sources: [{"title": "Código IP (IEC 60529): los grados de protección explicados", "url": "https://en.wikipedia.org/wiki/IP_code"}, {"title": "NFPA: seguridad contra incendios en las fiestas de invierno", "url": "https://www.nfpa.org/education-and-research/home-fire-safety/winter-holidays"}]
 ---
 
-Las luces de Navidad animadas abarcan todo lo que se mueve: guirnaldas secuenciales, renos luminosos que mueven la cabeza, proyectores láser y cortinas LED de píxeles que reproducen pequeños dibujos animados. En la vida real se ven muy distintos, así que aquí tienes cómo se comparan.
+Las luces de Navidad animadas abarcan todo lo que se mueve: guirnaldas secuenciales, renos luminosos que mueven la cabeza, proyectores láser y cortinas LED de píxeles que reproducen pequeños dibujos animados. En la vida real se ven muy distintos, así que aquí tienes una comparativa.
 
 ## Los tipos principales
 
@@ -48,7 +48,7 @@ Revisa la protección contra la intemperie de todo lo que pongas fuera. IP44 bas
 ## Qué tener en cuenta al comprar
 
 - **LED direccionables**, si quieres imágenes y texto y no solo cambios de color.
-- **Una app con biblioteca de diseños** y, a ser posible, una forma de dibujar o escribir tus propios diseños.
+- **Una app con biblioteca de diseños** y, a ser posible, una forma de dibujar tus propios diseños o escribir tus textos.
 - **Un temporizador**, para no tener que acordarte nunca de encenderlas.
 - **Un mando a distancia**, para invitados o niños que no tienen la app.
 

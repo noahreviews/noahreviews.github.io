@@ -18,7 +18,7 @@ sources: [{"title": "NFPA : sécurité incendie pendant les fêtes de fin d'ann
 
 Décorer côté intérieur de la fenêtre est la façon la plus simple et la plus sûre d'illuminer votre logement pour la rue : pas d'échelle, pas d'étanchéité à prévoir, pas de doigts gelés. Tout l'enjeu d'une décoration lumineuse de fenêtre pour Noël, c'est que des lumières installées à l'intérieur soient belles vues du dehors.
 
-## Idées de décoration lumineuse fenêtre Noël (côté intérieur)
+## Idées de décoration lumineuse de Noël pour la fenêtre (côté intérieur)
 
 1. **Un rideau lumineux derrière la vitre.** Un voile de brins lumineux couvre toute la fenêtre et se voit de loin. Notre [guide du rideau lumineux de Noël]({{post:christmas-curtain-lights}}) détaille les tailles et l'alimentation.
 2. **Une étoile ou un flocon lumineux.** Une seule grande forme par fenêtre, bien centrée : un classique, sobre et apaisant.
@@ -28,7 +28,7 @@ Décorer côté intérieur de la fenêtre est la façon la plus simple et la plu
 
 ## Rendre visibles de l'extérieur des lumières d'intérieur
 
-- **Collez-vous à la vitre.** Des lumières à quelques centimètres de la fenêtre se voient nettement ; à un mètre en retrait, elles éclairent surtout votre pièce.
+- **Rapprochez les lumières de la vitre.** Des lumières à quelques centimètres de la fenêtre se voient nettement ; à un mètre en retrait, elles éclairent surtout votre pièce.
 - **Assombrissez l'arrière-plan.** Fermez les rideaux ou les stores derrière l'affichage, ou éteignez la lumière de la pièce. Tout est question de contraste.
 - **Réglez la bonne luminosité.** Trop forte, elle crée éblouissement et reflets ; une luminosité d'environ 50 à 70 % donne généralement le meilleur rendu la nuit.
 - **Pensez à l'angle de vue.** Pour les fenêtres à l'étage, les passants lèvent les yeux : centrez l'affichage dans la moitié basse de la fenêtre.
@@ -36,7 +36,7 @@ Décorer côté intérieur de la fenêtre est la façon la plus simple et la plu
 ## Décoration lumineuse fenêtre Noël : les erreurs courantes
 
 - **Des lumières trop loin de la vitre.** Vu de dehors, l'affichage paraît pâle, et c'est votre pièce qu'il éclaire.
-- **Une lampe vive derrière l'affichage.** Elle délave l'image : éteignez-la ou fermez les rideaux derrière les lumières.
+- **Une lampe vive derrière l'affichage.** Elle noie l'image : éteignez-la ou fermez les rideaux derrière les lumières.
 - **La pleine luminosité la nuit.** Elle provoque éblouissement et reflets : baissez-la le soir.
 - **Bloquer la fenêtre que vous devez ouvrir.** Laissez une fenêtre libre pour aérer, ou choisissez des lumières qui se clipsent sur le cadre et se retirent facilement.
 

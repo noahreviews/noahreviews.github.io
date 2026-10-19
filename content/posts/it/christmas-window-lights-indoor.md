@@ -28,7 +28,7 @@ Decorare la finestra dall'interno è il modo più semplice e sicuro per illumina
 
 ## Come rendere visibili da fuori le luci da interno
 
-- **Avvicinati al vetro.** Le luci a pochi centimetri dalla finestra si vedono bene; quelle a un metro di distanza illuminano soprattutto la stanza.
+- **Avvicina le luci al vetro.** Le luci a pochi centimetri dalla finestra si vedono bene; quelle a un metro di distanza illuminano soprattutto la stanza.
 - **Scurisci ciò che sta dietro.** Chiudi le tende o le veneziane dietro il display, oppure spegni la luce della stanza. Il contrasto è tutto.
 - **Regola la luminosità.** Se è troppo alta ottieni abbagli e riflessi; di notte una luminosità intorno al 50–70% di solito rende meglio.
 - **Pensa all'angolazione.** Per le finestre ai piani alti la gente guarda verso l'alto, quindi centra il display nella metà inferiore della finestra.

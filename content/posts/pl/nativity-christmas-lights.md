@@ -17,7 +17,7 @@ faq: [{"q": "Jak oświetlić szopkę w ogrodzie?", "a": "Użyj ciepłobiałych r
 sources: [{"title": "Szopka bożonarodzeniowa – historia i tradycje", "url": "https://en.wikipedia.org/wiki/Nativity_scene"}, {"title": "Gwiazda Betlejemska", "url": "https://en.wikipedia.org/wiki/Star_of_Bethlehem"}, {"title": "NFPA: bezpieczeństwo przeciwpożarowe w okresie zimowych świąt", "url": "https://www.nfpa.org/education-and-research/home-fire-safety/winter-holidays"}]
 ---
 
-Dla wielu rodzin świąteczne lampki to coś więcej niż Mikołaj i bałwany. Szopka świecąca w oknie, jasna gwiazda albo anioł mówią każdemu przechodniowi, czym są dla ciebie te święta. Oto jak to zrobić – niezależnie od tego, czy masz ogród przed domem, czy tylko okno.
+Dla wielu rodzin świąteczne lampki to coś więcej niż Mikołaj i bałwany. Świecąca szopka w oknie, jasna gwiazda albo anioł mówią każdemu przechodniowi, czym są dla ciebie te święta. Oto jak to zrobić – niezależnie od tego, czy masz ogród przed domem, czy tylko okno.
 
 ## Klasyczna szopka świecąca w ogrodzie
 
@@ -32,7 +32,7 @@ Ustaw figurki na szpikulcach lub obciążnikach, żeby wiatr ich nie przewróci�
 Nie masz ogrodu? Nadal możesz opowiedzieć tę historię:
 
 - **Gwiazda w oknie.** Jedna świecąca gwiazda w oknie od frontu to proste i efektowne rozwiązanie.
-- **Animowana kurtyna pikselowa** (jak działa, wyjaśniamy w poradniku [inteligentne lampki choinkowe]({{post:programmable-christmas-lights}})) za szybą albo na balustradzie balkonu może pokazać szopkę, anioła zwiastuna, trzech mędrców albo krótki napis, np. „Radość dla świata”.
+- **Animowana kurtyna pikselowa** (o tym, jak działają [inteligentne lampki choinkowe]({{post:programmable-christmas-lights}}), piszemy w osobnym poradniku) za szybą albo na balustradzie balkonu może pokazać szopkę, anioła zwiastuna, trzech mędrców albo krótki napis, np. „Radość dla świata”.
 - **Tylko ciepła biel.** Wiele osób woli delikatne białe lub złote światło, które wygląda podniośle, zamiast migających kolorów.
 
 ## Pomysły na religijne napisy

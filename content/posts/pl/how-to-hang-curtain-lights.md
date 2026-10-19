@@ -23,7 +23,7 @@ Kurtyna świetlna wygląda na prostą rzecz: jeden górny przewód, z którego z
 ## Zanim zaczniesz: zmierz i zaplanuj
 
 1. **Zmierz szerokość**, którą chcesz zakryć. Kurtyna świetlna wygląda najlepiej, gdy sznury wiszą prosto, więc wybierz rozmiar zbliżony do tej szerokości, a nie po prostu największy.
-2. **Zmierz wysokość.** Jeśli sznury są dłuższe niż dostępne miejsce, zbiorą się na dole; w oknie niewielki nadmiar długości może schować parapet.
+2. **Zmierz wysokość.** Jeśli sznury są dłuższe niż dostępne miejsce, zbiorą się na dole; w oknie parapet może ukryć niewielki nadmiar długości.
 3. **Najpierw znajdź gniazdko.** Zaplanuj, gdzie znajdzie się wtyczka, zasilacz lub sterownik i jak długi jest przewód zasilający. Dzięki temu unikniesz przeciągania kabli w poprzek przejścia.
 4. **Sprawdź ciężar.** Większość kurtyn świetlnych jest lekka, ale sterownik dociąża jeden koniec. Wybierz haczyki o udźwigu większym niż łączny ciężar.
 
@@ -35,7 +35,7 @@ Zwykle potrzebne będą: zdejmowane haczyki lub klipsy samoprzylepne, miarka, a 
 - **Na drążku rozporowym:** zamontuj drążek rozporowy wewnątrz ramy okna i zawieś na nim górny przewód. To idealne rozwiązanie do okien bez karnisza.
 - **Na haczykach samoprzylepnych:** przyklej małe przezroczyste haczyki wzdłuż górnej krawędzi ramy, co ok. 20–30 cm (8–12 in), i zaczep na nich górny przewód.
 
-Trzymaj sznury kilka centymetrów (około cala) od szyby, żeby lampki były dobrze widoczne z zewnątrz, a w środku było mniej odbić. Więcej o tym, jak sprawić, żeby dekoracja w oknie przyciągała wzrok z ulicy, przeczytasz w poradniku [dekoracje świetlne na okno]({{post:christmas-window-lights-indoor}}).
+Trzymaj sznury kilka centymetrów (około cala) od szyby, żeby lampki były dobrze widoczne z zewnątrz, a w środku było mniej odbić. Jak sprawić, żeby [dekoracje świetlne na okno]({{post:christmas-window-lights-indoor}}) przyciągały wzrok z ulicy, wyjaśniamy w osobnym poradniku.
 
 ## Jak powiesić kurtynę świetlną na ścianie
 
@@ -53,13 +53,13 @@ Trzymaj sznury kilka centymetrów (około cala) od szyby, żeby lampki były dob
 
 ## Jak powiesić kurtynę świetlną na balkonie lub na zewnątrz
 
-Przypnij górny przewód wzdłuż balustrady balkonu przezroczystymi klipsami lub małymi opaskami zaciskowymi, tak żeby sznury były po stronie zwróconej na zewnątrz. Najpierw sprawdź klasę szczelności: IP44 wystarczy pod zadaszeniem balkonu, a miejsca narażone na deszcz wymagają IP65 lub wyższej klasy. Wtyczki, zasilacze i sterowniki trzymaj w suchym miejscu, najlepiej w mieszkaniu. Szczegółowo o bezpieczeństwie na balkonie piszemy w poradniku [lampki na balkon]({{post:christmas-lights-for-apartment-balcony}}).
+Przypnij górny przewód wzdłuż balustrady balkonu przezroczystymi klipsami lub małymi opaskami zaciskowymi, tak żeby sznury były po stronie zwróconej na zewnątrz. Najpierw sprawdź klasę szczelności: IP44 wystarczy pod zadaszeniem balkonu, a miejsca narażone na deszcz wymagają IP65 lub wyższej klasy. Wtyczki, zasilacze i sterowniki trzymaj w suchym miejscu, najlepiej w mieszkaniu. O tym, jak bezpiecznie zamontować [lampki na balkon]({{post:christmas-lights-for-apartment-balcony}}), piszemy szczegółowo w osobnym poradniku.
 
 ## Kurtyna świetlna nie tylko na święta
 
 Kurtyna świetlna to nie tylko dekoracja na grudzień:
 
-- **Halloween:** pomarańczowe i fioletowe odcienie albo pikselowa kurtyna z dyniami i nietoperzami zamienią okno w straszną dekorację.
+- **Halloween:** pomarańczowe i fioletowe odcienie albo pikselowa kurtyna z dyniami i nietoperzami zamienią okno w upiorną dekorację.
 - **Imprezy i tło do zdjęć:** kurtyna za stołem z deserami albo w kąciku do zdjęć daje równomierną, korzystną poświatę.
 - **Dekoracja przez cały rok:** ciepła biel za firanką sprawdza się jako delikatne światło nastrojowe w salonie lub sypialni.
 

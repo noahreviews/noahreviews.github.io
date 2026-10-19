@@ -16,7 +16,7 @@ faq: [{"q": "Sieht man Weihnachtsbeleuchtung am Fenster innen auch von draußen?
 sources: [{"title": "NFPA: Brandschutz rund um die Winterfeiertage", "url": "https://www.nfpa.org/education-and-research/home-fire-safety/winter-holidays"}]
 ---
 
-Mit einer Fensterbeleuchtung Weihnachten nach draußen zu tragen, ist der einfachste und sicherste Weg, dein Zuhause für die Straße zu schmücken: keine Leiter, kein Wetterschutz, keine kalten Finger. Der Trick besteht darin, dass Lichter, die drinnen hängen, auch von draußen gut aussehen.
+Mit einer Fensterbeleuchtung Weihnachten nach draußen zu tragen, ist der einfachste und sicherste Weg, dein Zuhause für die Straße zu schmücken: keine Leiter, kein Wetterschutz, keine kalten Finger. Der Trick besteht darin, Lichter, die drinnen hängen, auch von draußen gut aussehen zu lassen.
 
 ## Ideen für die Weihnachtsbeleuchtung am Fenster innen
 
@@ -28,7 +28,7 @@ Mit einer Fensterbeleuchtung Weihnachten nach draußen zu tragen, ist der einfac
 
 ## So bringt deine Fensterbeleuchtung Weihnachten auf die Straße
 
-- **Rück nah an die Scheibe.** Lichter wenige Zentimeter vor dem Fenster sind gut zu sehen; Lichter einen Meter dahinter beleuchten vor allem dein Zimmer.
+- **Rück die Lichter nah an die Scheibe.** Lichter wenige Zentimeter vor dem Fenster sind gut zu sehen; Lichter einen Meter dahinter beleuchten vor allem dein Zimmer.
 - **Dunkle den Hintergrund ab.** Zieh hinter der Deko Gardinen oder Rollos zu oder schalte das Raumlicht aus. Kontrast ist alles.
 - **Wähl die richtige Helligkeit.** Zu hell bedeutet Blendung und Spiegelungen; rund 50–70 % Helligkeit sieht nachts meist am besten aus.
 - **Denk an den Blickwinkel.** Bei Fenstern im Obergeschoss schauen die Leute nach oben – setz die Deko deshalb mittig in die untere Fensterhälfte.
@@ -55,7 +55,7 @@ Miss die Innenbreite des Fensterrahmens und die Höhe von der Oberkante des Rahm
 - **Wohnzimmer:** ein Lichtervorhang oder eine animierte Deko, denn hier ist meist das größte Fenster zur Straße.
 - **Schlafzimmer:** ein sanfter warmweißer Stern oder langsames Funkeln; verzichte auf schnelle Animationen, wenn du sie vom Bett aus siehst.
 - **Küche:** eine schlichte Silhouette oder elektrische Kerzen auf der Fensterbank, fern von Hitze und Wasser.
-- **Kinderzimmer:** Batterielichter mit Timer und Kabel, die außer Reichweite bleiben.
+- **Kinderzimmer:** Batterielichter mit Timer, die Kabel außer Reichweite.
 
 ## Unsere Empfehlung für ein animiertes Fenster
 
