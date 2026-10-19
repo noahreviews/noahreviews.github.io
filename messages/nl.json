@@ -1,0 +1,72 @@
+{
+  "langName": "Nederlands",
+  "skip": "Naar de inhoud",
+  "nav": { "howWeReview": "Zo beoordelen we", "about": "Over ons", "language": "Taal" },
+  "tagline": "Praktische reviews en koopgidsen voor in huis, de feestdagen en het dagelijks leven",
+  "siteDescription": "Noah Reviews publiceert praktische koopgidsen en productreviews voor in huis, de feestdagen en het dagelijks leven, met duidelijke openheid over partners en onderbouwd advies.",
+  "homeTitle": "Noah Reviews: koopgidsen en productreviews",
+  "home": {
+    "kicker": "Koopgidsen & reviews",
+    "lede": "We vergelijken soorten producten, leggen uit welke specificaties ertoe doen en noemen zowel de beperkingen als de sterke punten, zodat je in één keer de juiste keuze maakt.",
+    "trust": [
+      { "title": "Duidelijke openheid", "text": "Partnerlinks zijn op elke pagina gemarkeerd." },
+      { "title": "Onderbouwd advies", "text": "Claims over veiligheid en specificaties linken naar hun bronnen." },
+      { "title": "Altijd actueel", "text": "Bij elke gids zie je wanneer die voor het laatst is gecontroleerd." }
+    ],
+    "latest": "Nieuwste gidsen",
+    "whyTitle": "Waarom lezers Noah Reviews vertrouwen",
+    "why": [
+      { "title": "Geschreven voor de VS, het VK en Europa", "text": "Maten staan in meters én feet, en we wijzen op wat per regio verschilt, zoals stekkertypes, voedingsadapters en waterdichtheid voor buiten." },
+      { "title": "Open over samenwerkingen", "text": "Elke gids met een partnerlink meldt dat voordat je begint met lezen, in lijn met de regels van de FTC en het Europese consumentenrecht." },
+      { "title": "Beperkingen, niet alleen hoogtepunten", "text": "We vertellen je wat een product niet kan en wanneer een goedkopere of eenvoudigere optie de betere koop is." },
+      { "title": "Geen tracking", "text": "Geen cookies, geen advertentienetwerken, geen verplichte aanmelding." }
+    ],
+    "privacyLink": "Lees ons privacybeleid",
+    "howLink": "Zo onderzoeken en beoordelen we →",
+    "browse": "Bekijk per categorie",
+    "guidesCount": "{n} gidsen →"
+  },
+  "categories": {
+    "holiday-lighting": { "name": "Feestverlichting", "blurb": "Lichtgordijnen voor kerst, bewegende raamdecoraties, slimme verlichting en ideeën voor je balkon." }
+  },
+  "categoryTitle": "{name}: gidsen en reviews",
+  "categoryDescription": "{blurb} Praktische koopgidsen van Noah Reviews.",
+  "breadcrumbHome": "Home",
+  "post": {
+    "by": "Door",
+    "author": "Redactie Noah Reviews",
+    "updated": "Bijgewerkt",
+    "minRead": "{n} min. lezen",
+    "disclosure": "<strong>Openheid:</strong> deze gids bevat een partnerlink naar Lumalyn. Als je iets koopt, kunnen wij daaraan verdienen, zonder extra kosten voor jou. Het verandert niets aan wat we aanraden.",
+    "learnMore": "Meer informatie",
+    "imageCredit": "Afbeelding: Lumalyn.",
+    "takeaways": "Belangrijkste punten",
+    "toc": "In deze gids",
+    "faq": "Veelgestelde vragen",
+    "faqShort": "FAQ",
+    "sources": "Bronnen",
+    "authorBio": "We onderzoeken productspecificaties, documentatie van fabrikanten en veiligheidsadvies, en schrijven daarna gidsen voor lezers die een helder advies willen.",
+    "authorHow": "Lees hoe we beoordelen",
+    "related": "Gerelateerde gidsen",
+    "ctaKicker": "Onze keuze voor ramen en balkons",
+    "ctaKickerChristian": "Voor lichtdisplays die je geloof uitdragen",
+    "ctaTitle": "Lumalyn Smart Animated Balcony Lights",
+    "ctaSpecs": "Pixelgordijn met 400 leds · 2 × 2 m (6 ft 7 in) of 3 × 3 m (9 ft 10 in) · app + afstandsbediening · muzieksync · timers · IP44 voor overdekte plekken buiten.",
+    "ctaButton": "Naar lumalyn.store",
+    "readIn": "Ook beschikbaar in"
+  },
+  "footer": {
+    "categories": "Categorieën",
+    "policies": "Vertrouwen & beleid",
+    "disclosure": "Sommige links op deze site zijn partnerlinks. Bij aankopen via die links kunnen we een vergoeding ontvangen, zonder extra kosten voor jou. Zie onze",
+    "disclosureLink": "affiliateverklaring"
+  },
+  "pages": {
+    "about": "Over ons",
+    "how-we-review": "Zo beoordelen we",
+    "affiliate-disclosure": "Affiliateverklaring",
+    "contact": "Contact",
+    "privacy": "Privacy"
+  },
+  "chooser": { "title": "Kies je taal", "intro": "Praktische reviews en koopgidsen voor in huis, de feestdagen en het dagelijks leven." }
+}

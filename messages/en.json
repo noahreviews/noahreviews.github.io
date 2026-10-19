@@ -1,0 +1,72 @@
+{
+  "langName": "English",
+  "skip": "Skip to content",
+  "nav": { "howWeReview": "How we review", "about": "About", "language": "Language" },
+  "tagline": "Practical reviews and buying guides for home, holiday and everyday products",
+  "siteDescription": "Noah Reviews publishes practical buying guides and product reviews for home, holiday and everyday products, with clear disclosures and sourced advice.",
+  "homeTitle": "Noah Reviews: Buying Guides & Product Reviews",
+  "home": {
+    "kicker": "Buying guides & reviews",
+    "lede": "We compare product types, explain the specs that matter and point out the limits as well as the strengths, so you can buy once and buy right.",
+    "trust": [
+      { "title": "Clear disclosures", "text": "Partner links are labeled on every page." },
+      { "title": "Sourced advice", "text": "Safety and spec claims link to their sources." },
+      { "title": "Kept up to date", "text": "Every guide shows when it was last reviewed." }
+    ],
+    "latest": "Latest guides",
+    "whyTitle": "Why readers trust Noah Reviews",
+    "why": [
+      { "title": "Written for the US, UK and Europe", "text": "Sizes appear in both meters and feet, and we flag what matters across regions, such as plug types, power adapters and outdoor ratings." },
+      { "title": "Upfront about partnerships", "text": "Every guide that links to a partner says so before you start reading, in line with FTC and EU consumer-protection rules." },
+      { "title": "Limits, not just highlights", "text": "We tell you what a product cannot do and when a cheaper or simpler option is the better buy." },
+      { "title": "No tracking", "text": "No cookies, no ad networks, no sign-up walls." }
+    ],
+    "privacyLink": "Read our privacy policy",
+    "howLink": "How we research and review →",
+    "browse": "Browse by category",
+    "guidesCount": "{n} guides →"
+  },
+  "categories": {
+    "holiday-lighting": { "name": "Holiday Lighting", "blurb": "Christmas curtain lights, animated window displays, smart lights and balcony ideas." }
+  },
+  "categoryTitle": "{name} Guides & Reviews",
+  "categoryDescription": "{blurb} Practical buying guides from Noah Reviews.",
+  "breadcrumbHome": "Home",
+  "post": {
+    "by": "By",
+    "author": "Noah Reviews Editorial Team",
+    "updated": "Updated",
+    "minRead": "{n} min read",
+    "disclosure": "<strong>Disclosure:</strong> this guide includes a partner link to Lumalyn. We may earn if you buy, at no extra cost to you. It does not change what we recommend.",
+    "learnMore": "Learn more",
+    "imageCredit": "Image: Lumalyn.",
+    "takeaways": "Key takeaways",
+    "toc": "In this guide",
+    "faq": "Frequently asked questions",
+    "faqShort": "FAQ",
+    "sources": "Sources",
+    "authorBio": "We research product specs, manufacturer documentation and safety guidance, then write guides for readers who want a clear recommendation.",
+    "authorHow": "Read how we review",
+    "related": "Related guides",
+    "ctaKicker": "Our pick for windows & balconies",
+    "ctaKickerChristian": "For faith-filled displays",
+    "ctaTitle": "Lumalyn Smart Animated Balcony Lights",
+    "ctaSpecs": "400-LED pixel curtain · 2 × 2 m (6 ft 7 in) or 3 × 3 m (9 ft 10 in) · app + remote · music sync · timers · IP44 for covered outdoor spots.",
+    "ctaButton": "Visit lumalyn.store",
+    "readIn": "Also available in"
+  },
+  "footer": {
+    "categories": "Categories",
+    "policies": "Trust & policies",
+    "disclosure": "Some links on this site are partner links. We may earn from qualifying purchases at no extra cost to you. See our",
+    "disclosureLink": "affiliate disclosure"
+  },
+  "pages": {
+    "about": "About",
+    "how-we-review": "How we review",
+    "affiliate-disclosure": "Affiliate disclosure",
+    "contact": "Contact",
+    "privacy": "Privacy"
+  },
+  "chooser": { "title": "Choose your language", "intro": "Practical reviews and buying guides for home, holiday and everyday products." }
+}

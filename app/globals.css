@@ -150,3 +150,28 @@ code { font-size: .9em; background: var(--tint); padding: 1px 5px; border-radius
 .why-grid h3 { font-size: 19px; margin: 0 0 6px; }
 .why-grid p { margin: 0; font-size: 15px; line-height: 1.55; color: var(--muted); }
 .why-more { margin: 14px 0 0; font-weight: 600; }
+
+/* language switcher & flags */
+.flag { display: inline-block; vertical-align: -2px; border-radius: 2px; box-shadow: 0 0 0 1px rgba(0, 0, 0, .12); flex: none; }
+.lang-menu { position: relative; }
+.lang-menu summary { list-style: none; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; color: var(--muted); font-size: 14px; font-weight: 600; padding: 4px 8px; border: 1px solid var(--line); border-radius: 999px; }
+.lang-menu summary::-webkit-details-marker { display: none; }
+.lang-menu[open] summary { color: var(--ink); }
+.lang-menu ul { position: absolute; right: 0; top: calc(100% + 8px); z-index: 20; list-style: none; margin: 0; padding: 6px; min-width: 190px; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow), 0 12px 32px rgba(0, 0, 0, .12); }
+.site-header nav .lang-menu a { display: flex; align-items: center; gap: 10px; padding: 7px 10px; border-radius: 8px; color: var(--ink); font-size: 15px; }
+.site-header nav .lang-menu a:hover, .lang-menu a[aria-current] { background: var(--tint); }
+.foot-langs { list-style: none; padding: 0; margin: 12px 0; display: flex; flex-wrap: wrap; gap: 6px 16px; }
+.foot-langs a { display: inline-flex; align-items: center; gap: 6px; color: var(--muted); text-decoration: none; }
+.foot-langs a:hover { color: var(--ink); }
+.read-in { margin-top: 28px; padding-top: 16px; border-top: 1px solid var(--line); }
+.read-in ul { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 8px 18px; font-size: 15px; }
+.read-in a { display: inline-flex; align-items: center; gap: 6px; text-decoration: none; }
+
+/* root language chooser */
+.chooser { padding: 64px 16px; text-align: center; }
+.chooser h1 { font-size: clamp(28px, 5vw, 40px); margin: 8px 0; }
+.chooser .lede { margin: 0 auto; }
+.brand-big { font-family: var(--font-serif), Georgia, serif; font-size: 24px; font-weight: 600; color: var(--brand); margin: 0; }
+.lang-grid { list-style: none; padding: 0; margin: 32px auto 0; max-width: 640px; display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 12px; }
+.lang-grid a { display: flex; align-items: center; gap: 12px; padding: 14px 16px; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; text-decoration: none; color: var(--ink); font-weight: 600; box-shadow: var(--shadow); }
+.lang-grid a:hover { border-color: var(--gold-ink); }

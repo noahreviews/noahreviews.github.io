@@ -1,0 +1,72 @@
+{
+  "langName": "Italiano",
+  "skip": "Vai al contenuto",
+  "nav": { "howWeReview": "Come recensiamo", "about": "Chi siamo", "language": "Lingua" },
+  "tagline": "Recensioni pratiche e guide all'acquisto per la casa, le feste e la vita di tutti i giorni",
+  "siteDescription": "Noah Reviews pubblica guide all'acquisto pratiche e recensioni di prodotti per la casa, le feste e la vita di tutti i giorni, con informative chiare e consigli basati su fonti.",
+  "homeTitle": "Noah Reviews: guide all'acquisto e recensioni",
+  "home": {
+    "kicker": "Guide all'acquisto e recensioni",
+    "lede": "Confrontiamo i tipi di prodotto, spieghiamo le specifiche che contano e indichiamo i limiti oltre ai punti di forza, così compri una volta sola e compri bene.",
+    "trust": [
+      { "title": "Informative chiare", "text": "I link dei partner sono segnalati su ogni pagina." },
+      { "title": "Consigli con le fonti", "text": "Le indicazioni su sicurezza e specifiche rimandano alle fonti." },
+      { "title": "Sempre aggiornate", "text": "Ogni guida mostra la data dell'ultima revisione." }
+    ],
+    "latest": "Ultime guide",
+    "whyTitle": "Perché i lettori si fidano di Noah Reviews",
+    "why": [
+      { "title": "Scritte per Stati Uniti, Regno Unito ed Europa", "text": "Le misure sono indicate sia in metri sia in piedi e segnaliamo ciò che cambia da un paese all'altro, come tipi di spina, alimentatori e gradi di protezione per l'esterno." },
+      { "title": "Trasparenti sulle partnership", "text": "Ogni guida con link a un partner lo dichiara prima che inizi a leggere, nel rispetto delle norme FTC e UE sulla tutela dei consumatori." },
+      { "title": "Limiti, non solo pregi", "text": "Ti diciamo che cosa un prodotto non sa fare e quando un'alternativa più economica o più semplice è l'acquisto migliore." },
+      { "title": "Nessun tracciamento", "text": "Niente cookie, niente circuiti pubblicitari, niente registrazioni obbligatorie." }
+    ],
+    "privacyLink": "Leggi la nostra informativa sulla privacy",
+    "howLink": "Come facciamo ricerca e recensioni →",
+    "browse": "Sfoglia per categoria",
+    "guidesCount": "{n} guide →"
+  },
+  "categories": {
+    "holiday-lighting": { "name": "Luci per le feste", "blurb": "Tende luminose di Natale, display animati per finestre, luci smart e idee per il balcone." }
+  },
+  "categoryTitle": "{name}: guide e recensioni",
+  "categoryDescription": "{blurb} Guide all'acquisto pratiche di Noah Reviews.",
+  "breadcrumbHome": "Home",
+  "post": {
+    "by": "A cura della",
+    "author": "Redazione di Noah Reviews",
+    "updated": "Aggiornato il",
+    "minRead": "{n} min di lettura",
+    "disclosure": "<strong>Trasparenza:</strong> questa guida contiene un link a Lumalyn, nostro partner. Se acquisti potremmo ricevere un compenso, senza costi aggiuntivi per te. Questo non cambia ciò che consigliamo.",
+    "learnMore": "Scopri di più",
+    "imageCredit": "Immagine: Lumalyn.",
+    "takeaways": "In breve",
+    "toc": "In questa guida",
+    "faq": "Domande frequenti",
+    "faqShort": "FAQ",
+    "sources": "Fonti",
+    "authorBio": "Studiamo le specifiche dei prodotti, la documentazione dei produttori e le indicazioni sulla sicurezza, poi scriviamo guide per chi vuole un consiglio chiaro.",
+    "authorHow": "Scopri come recensiamo",
+    "related": "Guide correlate",
+    "ctaKicker": "La nostra scelta per finestre e balconi",
+    "ctaKickerChristian": "Per allestimenti che parlano di fede",
+    "ctaTitle": "Lumalyn Smart Animated Balcony Lights",
+    "ctaSpecs": "Tenda a pixel da 400 LED · 2 × 2 m (6 ft 7 in) o 3 × 3 m (9 ft 10 in) · app + telecomando · sincronizzazione musicale · timer · IP44 per esterni coperti.",
+    "ctaButton": "Visita lumalyn.store",
+    "readIn": "Disponibile anche in"
+  },
+  "footer": {
+    "categories": "Categorie",
+    "policies": "Trasparenza e informative",
+    "disclosure": "Alcuni link di questo sito sono link di partner. Potremmo ricevere un compenso sugli acquisti idonei, senza costi aggiuntivi per te. Leggi la nostra",
+    "disclosureLink": "informativa sull'affiliazione"
+  },
+  "pages": {
+    "about": "Chi siamo",
+    "how-we-review": "Come recensiamo",
+    "affiliate-disclosure": "Informativa sull'affiliazione",
+    "contact": "Contatti",
+    "privacy": "Privacy"
+  },
+  "chooser": { "title": "Scegli la lingua", "intro": "Recensioni pratiche e guide all'acquisto per la casa, le feste e la vita di tutti i giorni." }
+}

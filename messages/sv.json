@@ -1,0 +1,72 @@
+{
+  "langName": "Svenska",
+  "skip": "Hoppa till innehållet",
+  "nav": { "howWeReview": "Så granskar vi", "about": "Om oss", "language": "Språk" },
+  "tagline": "Praktiska tester och köpguider för hem, högtider och vardag",
+  "siteDescription": "Noah Reviews publicerar praktiska köpguider och produkttester för hem, högtider och vardag, med tydlig redovisning av samarbeten och råd med källor.",
+  "homeTitle": "Noah Reviews: köpguider och produkttester",
+  "home": {
+    "kicker": "Köpguider och tester",
+    "lede": "Vi jämför produkttyper, förklarar specifikationerna som spelar roll och visar begränsningarna lika väl som styrkorna, så att du kan köpa rätt från början.",
+    "trust": [
+      { "title": "Tydlig redovisning", "text": "Partnerlänkar är märkta på varje sida." },
+      { "title": "Råd med källor", "text": "Påståenden om säkerhet och specifikationer länkar till sina källor." },
+      { "title": "Hålls aktuella", "text": "Varje guide visar när den senast granskades." }
+    ],
+    "latest": "Senaste guiderna",
+    "whyTitle": "Därför litar läsarna på Noah Reviews",
+    "why": [
+      { "title": "Skrivet för USA, Storbritannien och Europa", "text": "Mått anges i både meter och fot, och vi lyfter fram det som skiljer sig mellan regioner, som kontakttyper, strömadaptrar och klassning för utomhusbruk." },
+      { "title": "Öppna med samarbeten", "text": "Varje guide som länkar till en partner säger det innan du börjar läsa, i linje med FTC:s och EU:s konsumentskyddsregler." },
+      { "title": "Begränsningar, inte bara höjdpunkter", "text": "Vi berättar vad en produkt inte klarar och när ett billigare eller enklare alternativ är det bättre köpet." },
+      { "title": "Ingen spårning", "text": "Inga cookies, inga annonsnätverk, inga registreringsväggar." }
+    ],
+    "privacyLink": "Läs vår integritetspolicy",
+    "howLink": "Så researchar och granskar vi →",
+    "browse": "Bläddra efter kategori",
+    "guidesCount": "{n} guider →"
+  },
+  "categories": {
+    "holiday-lighting": { "name": "Julbelysning", "blurb": "Ljusgardiner, animerade fönsterdekorationer, smart belysning och idéer för balkongen." }
+  },
+  "categoryTitle": "{name}: guider och tester",
+  "categoryDescription": "{blurb} Praktiska köpguider från Noah Reviews.",
+  "breadcrumbHome": "Hem",
+  "post": {
+    "by": "Av",
+    "author": "Noah Reviews redaktion",
+    "updated": "Uppdaterad",
+    "minRead": "{n} min läsning",
+    "disclosure": "<strong>Information om samarbete:</strong> den här guiden innehåller en partnerlänk till Lumalyn. Vi kan få ersättning om du handlar, utan extra kostnad för dig. Det påverkar inte vad vi rekommenderar.",
+    "learnMore": "Läs mer",
+    "imageCredit": "Bild: Lumalyn.",
+    "takeaways": "Det viktigaste i korthet",
+    "toc": "I den här guiden",
+    "faq": "Vanliga frågor",
+    "faqShort": "FAQ",
+    "sources": "Källor",
+    "authorBio": "Vi går igenom produktspecifikationer, tillverkarnas dokumentation och säkerhetsråd och skriver sedan guider för läsare som vill ha en tydlig rekommendation.",
+    "authorHow": "Läs hur vi granskar",
+    "related": "Relaterade guider",
+    "ctaKicker": "Vårt val för fönster och balkonger",
+    "ctaKickerChristian": "För dekorationer med tron i fokus",
+    "ctaTitle": "Lumalyn Smart Animated Balcony Lights",
+    "ctaSpecs": "Pixelgardin med 400 LED · 2 × 2 m (6 ft 7 in) eller 3 × 3 m (9 ft 10 in) · app + fjärrkontroll · musiksynk · timer · IP44 för platser utomhus under tak.",
+    "ctaButton": "Besök lumalyn.store",
+    "readIn": "Finns även på"
+  },
+  "footer": {
+    "categories": "Kategorier",
+    "policies": "Förtroende och villkor",
+    "disclosure": "Vissa länkar på webbplatsen är partnerlänkar. Vi kan få ersättning för köp via dem, utan extra kostnad för dig. Läs vår",
+    "disclosureLink": "information om affiliatelänkar"
+  },
+  "pages": {
+    "about": "Om oss",
+    "how-we-review": "Så granskar vi",
+    "affiliate-disclosure": "Affiliatelänkar",
+    "contact": "Kontakt",
+    "privacy": "Integritet"
+  },
+  "chooser": { "title": "Välj språk", "intro": "Praktiska tester och köpguider för hem, högtider och vardag." }
+}
