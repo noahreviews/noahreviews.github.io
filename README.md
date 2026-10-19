@@ -1,55 +1,182 @@
-<div align="center">
+<p align="center">
+  <a href="https://noahreviews.github.io"><img src="https://noahreviews.github.io/images/noah-reviews-banner.jpg" alt="Noah Reviews: practical buying guides for Christmas curtain lights, animated Christmas lights and smart holiday lighting" width="100%"></a>
+</p>
 
-# ✦ Noah Reviews
+<h1 align="center">Noah Reviews</h1>
 
-**Practical reviews and buying guides for home, holiday and everyday products.**
+<p align="center">
+  <b>Practical reviews and buying guides for home, holiday and everyday products.</b><br>
+  Written for readers in the United States, the United Kingdom and Europe.
+</p>
 
-[Website](https://noahreviews.github.io) · [How we review](https://noahreviews.github.io/how-we-review/) · [Affiliate disclosure](https://noahreviews.github.io/affiliate-disclosure/) · [Contact](https://noahreviews.github.io/contact/)
+<p align="center">
+  <a href="https://noahreviews.github.io"><img src="https://img.shields.io/badge/Website-noahreviews.github.io-123b2e?style=for-the-badge" alt="Website: noahreviews.github.io"></a>
+  <a href="https://noahreviews.github.io/category/holiday-lighting/"><img src="https://img.shields.io/badge/Guides-7_holiday_lighting-b08a3e?style=for-the-badge" alt="7 holiday lighting guides"></a>
+  <a href="https://noahreviews.github.io/how-we-review/"><img src="https://img.shields.io/badge/Updated-October_2026-2f6f57?style=for-the-badge" alt="Updated October 2026"></a>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://noahreviews.github.io">Home</a> ·
+  <a href="https://noahreviews.github.io/category/holiday-lighting/">Holiday Lighting</a> ·
+  <a href="https://noahreviews.github.io/how-we-review/">How we review</a> ·
+  <a href="https://noahreviews.github.io/affiliate-disclosure/">Affiliate disclosure</a> ·
+  <a href="https://noahreviews.github.io/contact/">Contact</a>
+</p>
 
 ---
 
-### What we do
+## Christmas light buying guides for 2026
 
-We write buying guides that explain the specs that actually matter, compare product types side by side, and point out
-the limits as well as the strengths, so readers can buy once and buy right. Every guide answers a question people
-really search for, shows when it was last reviewed, and links to its sources.
+Choosing **Christmas curtain lights**, **animated Christmas lights** or **smart Christmas lights** is harder than it looks:
+the same name covers very different products. Our guides explain what the specs mean, compare the options side by side
+and point out the limits as well as the strengths, whether you are decorating a **window**, an **apartment balcony** or a
+whole house, and whether you want a warm glow, a **music-synchronized** show or a **nativity display**.
 
-### Read our latest guides
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://noahreviews.github.io/christmas-curtain-lights/"><img src="https://lumalyn.store/cdn/shop/files/lumalyn-v2-2-grid.jpg?width=640&height=400&crop=center" alt="Grid of LED curtain light designs on balconies at night" width="100%"></a>
+<h3><a href="https://noahreviews.github.io/christmas-curtain-lights/">Christmas Curtain Lights: Indoor & Outdoor Buying Guide</a></h3>
+<p>Plain vs. animated curtains, sizes in meters and feet, LED count, IP ratings and hanging tips.</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://noahreviews.github.io/animated-christmas-lights/"><img src="https://lumalyn.store/cdn/shop/files/lumalyn-f1-designs.jpg?width=640&height=400&crop=center" alt="Animated pixel Christmas tree on an apartment balcony curtain light" width="100%"></a>
+<h3><a href="https://noahreviews.github.io/animated-christmas-lights/">Animated Christmas Lights for Windows & Outdoors</a></h3>
+<p>Pixel curtains vs. projectors vs. chasing strings: what really looks good from the street.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://noahreviews.github.io/programmable-christmas-lights/"><img src="https://lumalyn.store/cdn/shop/files/lumalyn-s2-app.jpg?width=640&height=400&crop=center" alt="Man controlling smart Christmas curtain lights from a phone app" width="100%"></a>
+<h3><a href="https://noahreviews.github.io/programmable-christmas-lights/">Programmable & Smart Christmas Lights Explained</a></h3>
+<p>Smart plugs, app-controlled RGB and addressable pixel lights, in plain English.</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://noahreviews.github.io/christmas-window-lights-indoor/"><img src="https://lumalyn.store/cdn/shop/files/lumalyn-s3-show.jpg?width=640&height=400&crop=center" alt="Neighbors on a snowy street looking at a lit Christmas window display" width="100%"></a>
+<h3><a href="https://noahreviews.github.io/christmas-window-lights-indoor/">Indoor Christmas Window Lights: Ideas & Tips</a></h3>
+<p>How to make lights inside your window look great from outside, without glare.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://noahreviews.github.io/christmas-lights-for-apartment-balcony/"><img src="https://lumalyn.store/cdn/shop/files/lumalyn-s1-hang.jpg?width=640&height=400&crop=center" alt="Woman hanging Christmas curtain lights on an apartment balcony railing" width="100%"></a>
+<h3><a href="https://noahreviews.github.io/christmas-lights-for-apartment-balcony/">Christmas Lights for an Apartment Balcony: 9 Ideas</a></h3>
+<p>Renter-friendly balcony ideas and how to hang lights on a railing without drilling.</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://noahreviews.github.io/christmas-lights-to-music/"><img src="https://lumalyn.store/cdn/shop/files/lumalyn-f3-music.jpg?width=640&height=400&crop=center" alt="Friends at a balcony party with music-synchronized Christmas lights" width="100%"></a>
+<h3><a href="https://noahreviews.github.io/christmas-lights-to-music/">How to Sync Christmas Lights to Music</a></h3>
+<p>Microphone sync, app sync and full sequencing compared by cost and effort.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://noahreviews.github.io/nativity-christmas-lights/"><img src="https://lumalyn.store/cdn/shop/files/lumalyn-christian-s3-show.jpg?width=640&height=400&crop=center" alt="Family looking up at a glowing nativity scene light display on a balcony" width="100%"></a>
+<h3><a href="https://noahreviews.github.io/nativity-christmas-lights/">Nativity Christmas Lights: Christian Display Ideas</a></h3>
+<p>Nativity scenes, the Star of Bethlehem, angels and faith messages for homes and apartments.</p>
+</td>
+</tr>
+</table>
 
-**Holiday Lighting**
+## Our top pick for windows & balconies
 
-| Guide | What it answers |
+<table>
+<tr>
+<td width="45%" valign="top">
+<a href="https://lumalyn.store/"><img src="https://lumalyn.store/cdn/shop/files/lumalyn-v2-1-hero.jpg?width=800" alt="Lumalyn Smart Animated Balcony Lights showing an animated Santa and Christmas tree on a balcony" width="100%"></a>
+</td>
+<td valign="top">
+
+### Lumalyn Smart Animated Balcony Lights
+
+An app-controlled LED pixel curtain that turns a window or balcony railing into an animated Christmas display.
+
+| | |
 |---|---|
-| [Christmas Curtain Lights: Indoor & Outdoor Buying Guide](https://noahreviews.github.io/christmas-curtain-lights/) | Plain vs. animated curtains, size, LED count, IP rating, hanging tips |
-| [Animated Christmas Lights for Windows & Outdoors](https://noahreviews.github.io/animated-christmas-lights/) | Pixel curtains vs. projectors vs. chasing strings |
-| [Programmable & Smart Christmas Lights Explained](https://noahreviews.github.io/programmable-christmas-lights/) | Smart vs. app-controlled vs. addressable pixel lights |
-| [Indoor Christmas Window Lights: Ideas & Tips](https://noahreviews.github.io/christmas-window-lights-indoor/) | Making indoor lights look great from the street |
-| [Christmas Lights for an Apartment Balcony: 9 Ideas](https://noahreviews.github.io/christmas-lights-for-apartment-balcony/) | Renter-friendly ideas and hanging lights without drilling |
-| [How to Sync Christmas Lights to Music](https://noahreviews.github.io/christmas-lights-to-music/) | Mic sync, app sync and full sequencing compared |
-| [Nativity Christmas Lights: Christian Display Ideas](https://noahreviews.github.io/nativity-christmas-lights/) | Nativity scenes, the Star of Bethlehem and faith messages |
+| **LEDs** | 400 individually controlled RGB LEDs |
+| **Sizes** | 2 × 2 m (6 ft 7 in) or 3 × 3 m (9 ft 10 in) |
+| **Control** | Phone app + included remote, timers and schedules |
+| **Designs** | 100+ built-in scenes, plus draw-your-own pictures and text |
+| **Music** | Built-in music sync modes |
+| **Outdoor use** | IP44 splash resistant, for covered balconies and porches |
+| **Power** | 5 V USB, works in the US, UK and EU (wall adapter not included) |
 
-### Our top pick for windows & balconies
+**[👉 See it at lumalyn.store](https://lumalyn.store/)**
 
-**Lumalyn Smart Animated Balcony Lights**: a 400-LED pixel curtain (2 × 2 m or 3 × 3 m) that shows animated pictures and
-messages, with app and remote control, music sync, timers and IP44 splash resistance for covered outdoor spots.
+</td>
+</tr>
+</table>
 
-👉 **[See it at lumalyn.store](https://lumalyn.store/)** · Decorating for a Christian Christmas? **[See the nativity designs](https://lumalyn.store/#christian)**
+## Christmas lighting ideas by situation
 
-### Our standards
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="https://noahreviews.github.io/christmas-lights-for-apartment-balcony/"><img src="https://lumalyn.store/cdn/shop/files/lumalyn-v2-5-beforeafter.jpg?width=640&height=400&crop=center" alt="Apartment balcony before and after adding animated Christmas curtain lights" width="100%"></a>
+<h4>Apartments & balconies</h4>
+<p>Clip-on railing lights and curtain displays that renters can install without drilling. <a href="https://noahreviews.github.io/christmas-lights-for-apartment-balcony/">Read the balcony guide →</a></p>
+</td>
+<td width="33%" valign="top">
+<a href="https://noahreviews.github.io/christmas-window-lights-indoor/"><img src="https://lumalyn.store/cdn/shop/files/lumalyn-f1-designs.jpg?width=640&height=400&crop=center" alt="Christmas window lights showing a pixel Christmas tree behind glass" width="100%"></a>
+<h4>Windows</h4>
+<p>Indoor window lights that stay safe and dry yet stand out from the street. <a href="https://noahreviews.github.io/christmas-window-lights-indoor/">Read the window guide →</a></p>
+</td>
+<td width="33%" valign="top">
+<a href="https://lumalyn.store/#christian"><img src="https://lumalyn.store/cdn/shop/files/lumalyn-christian-f1-designs.jpg?width=640&height=400&crop=center" alt="Christian Christmas lights showing a herald angel and the Star of Bethlehem" width="100%"></a>
+<h4>Christian families</h4>
+<p>Nativity scenes, angels and the Star of Bethlehem for a faith-filled Christmas. <a href="https://lumalyn.store/#christian">See the nativity designs →</a></p>
+</td>
+</tr>
+</table>
 
-- **Clear disclosures** – partner links are labelled at the top of every guide.
-- **Sourced advice** – safety and technical claims link to sources such as the NFPA and the IEC rating system.
-- **Kept up to date** – every guide shows its last review date; spotted a mistake? [Tell us](https://noahreviews.github.io/contact/) and we will fix it.
+## Why readers trust Noah Reviews
 
-### Disclosure
+- 🔎 **Sourced advice.** Safety and technical claims link to sources such as the NFPA and the IEC (IP rating) standard.
+- 🏷️ **Upfront about partnerships.** Partner links are disclosed at the top of every guide, in line with FTC and EU consumer-protection rules.
+- 📏 **Made for the US, UK and Europe.** Sizes in meters and feet, with notes on plugs, power adapters and outdoor ratings.
+- ⚖️ **Limits, not just highlights.** We say what a product cannot do and when a cheaper option is the better buy.
+- 🔒 **No tracking.** No cookies, no ad networks, no sign-up walls.
+
+## Frequently asked questions
+
+<details>
+<summary><b>What are the best Christmas curtain lights for windows?</b></summary>
+
+For pictures and messages, choose an addressable (pixel) LED curtain hung close to the glass; for a soft glow, a plain warm-white curtain is enough. See our <a href="https://noahreviews.github.io/christmas-curtain-lights/">Christmas curtain lights guide</a>.
+</details>
+
+<details>
+<summary><b>Can animated Christmas lights be used outdoors?</b></summary>
+
+Yes, if they are rated for it. IP44 suits covered balconies and porches; choose IP65 or higher for spots that get direct rain. More in our <a href="https://noahreviews.github.io/animated-christmas-lights/">animated Christmas lights guide</a>.
+</details>
+
+<details>
+<summary><b>What is the difference between smart and programmable Christmas lights?</b></summary>
+
+Smart lights change color and effects for the whole string; programmable (addressable) lights control each LED, so they can show shapes, text and animations. See <a href="https://noahreviews.github.io/programmable-christmas-lights/">programmable Christmas lights explained</a>.
+</details>
+
+<details>
+<summary><b>How do I sync Christmas lights to music?</b></summary>
+
+The easiest way is lights with a built-in music mode or app sync. Fully choreographed shows need sequencing software. See <a href="https://noahreviews.github.io/christmas-lights-to-music/">how to sync Christmas lights to music</a>.
+</details>
+
+<details>
+<summary><b>Where can I find nativity Christmas lights for an apartment?</b></summary>
+
+A window star or a pixel curtain showing a nativity scene works without a yard. See our <a href="https://noahreviews.github.io/nativity-christmas-lights/">nativity Christmas lights ideas</a> or <a href="https://lumalyn.store/#christian">the nativity designs at lumalyn.store</a>.
+</details>
+
+## Disclosure
 
 Noah Reviews is reader-supported and affiliated with [Lumalyn](https://lumalyn.store/). We may earn from purchases made
-through partner links, at no extra cost to readers.
+through partner links, at no extra cost to you. Partnerships never decide what we recommend.
+Read our full [affiliate disclosure](https://noahreviews.github.io/affiliate-disclosure/).
 
-<div align="center">
+---
 
-**[Read all guides at noahreviews.github.io →](https://noahreviews.github.io)**
-
-</div>
+<p align="center">
+  <a href="https://noahreviews.github.io"><b>Read all guides at noahreviews.github.io</b></a> · <a href="https://lumalyn.store/"><b>Shop our top pick at lumalyn.store</b></a>
+</p>

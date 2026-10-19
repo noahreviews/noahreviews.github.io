@@ -10,7 +10,7 @@ imageW: 1024
 imageH: 1024
 christian: true
 description: "Ideas for nativity and Christian Christmas lights: outdoor nativity displays, the Star of Bethlehem, angels and faith messages, with options for apartments."
-takeaways: ["A lit star or a simple stable outline turns any nativity figures into a scene.", "In apartments, a window star or a pixel curtain can show a nativity, an angel or a faith message.", "Soft warm-white or gold light gives a more reverent look than flashing colours."]
+takeaways: ["A lit star or a simple stable outline turns any nativity figures into a scene.", "In apartments, a window star or a pixel curtain can show a nativity, an angel or a faith message.", "Soft warm-white or gold light gives a more reverent look than flashing colors."]
 faq: [{"q": "How do I light an outdoor nativity scene?", "a": "Use warm-white spotlights or a lit stable outline, anchor figures against wind, and use outdoor-rated cords and sockets."}, {"q": "What are good Christian messages for Christmas lights?", "a": "Short phrases read best from the street, for example Joy to the World, O Holy Night, Emmanuel, Peace on Earth or Jesus is the Reason."}, {"q": "How long should a nativity display stay up?", "a": "Many families keep it up until Epiphany on January 6, which marks the arrival of the wise men."}]
 sources: [{"title": "Nativity scene – history and traditions", "url": "https://en.wikipedia.org/wiki/Nativity_scene"}, {"title": "Star of Bethlehem", "url": "https://en.wikipedia.org/wiki/Star_of_Bethlehem"}, {"title": "NFPA: Winter holiday fire safety", "url": "https://www.nfpa.org/education-and-research/home-fire-safety/winter-holidays"}]
 ---
@@ -31,7 +31,7 @@ No yard? You can still share the story:
 
 - **A star in the window.** A single star light hung in a front window is simple and striking.
 - **An animated pixel curtain** (how they work: [programmable Christmas lights](/programmable-christmas-lights/)) behind the window or on a balcony railing can show a nativity scene, a herald angel, the three wise men or a short message such as "Joy to the World".
-- **Warm white only.** Many people prefer soft white or gold light for a reverent look instead of flashing colours.
+- **Warm white only.** Many people prefer soft white or gold light for a reverent look instead of flashing colors.
 
 ## Faith message ideas
 

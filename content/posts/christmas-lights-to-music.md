@@ -3,7 +3,7 @@ title: "How to Sync Christmas Lights to Music (Without Building a Light Show Rig
 keyword: "christmas lights to music"
 date: "2026-10-16"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-f3-music.jpg?width=1200"
-imageAlt: "Friends at a balcony party with curtain lights pulsing in rainbow colours to music"
+imageAlt: "Friends at a balcony party with curtain lights pulsing in rainbow colors to music"
 category: "holiday-lighting"
 seoTitle: "How to Sync Christmas Lights to Music (3 Easy Ways)"
 imageW: 1200
@@ -18,7 +18,7 @@ The famous houses that flash in time to Trans-Siberian Orchestra use hours of ha
 
 ## Option 1: Lights with a built-in microphone
 
-Many RGB strings and curtains have a **music mode**: a small microphone in the controller listens for beats and changes colour or pattern with the volume.
+Many RGB strings and curtains have a **music mode**: a small microphone in the controller listens for beats and changes color or pattern with the volume.
 
 - **Cost:** nothing extra.
 - **Effort:** press a button.
@@ -26,7 +26,7 @@ Many RGB strings and curtains have a **music mode**: a small microphone in the c
 
 ## Option 2: App music sync
 
-Some smart lights use your phone's microphone or the music playing on your phone. The app analyses the sound and sends effects to the lights.
+Some smart lights use your phone's microphone or the music playing on your phone. The app analyzes the sound and sends effects to the lights.
 
 - **Cost:** included with app-controlled lights.
 - **Effort:** a few taps.
@@ -34,7 +34,7 @@ Some smart lights use your phone's microphone or the music playing on your phone
 
 ## Option 3: Full sequencing
 
-Hobbyists use pixel controllers and software such as xLights to programme every light to a song, frame by frame. Visitors tune a car radio to a small FM transmitter to hear the music.
+Hobbyists use pixel controllers and software such as xLights to program every light to a song, frame by frame. Visitors tune a car radio to a small FM transmitter to hear the music.
 
 - **Cost:** controllers, power supplies, many pixels.
 - **Effort:** many hours per song.
@@ -51,4 +51,4 @@ We are affiliated with Lumalyn. Its [balcony curtain lights]({{store}}) include 
 - Put the controller or phone close to the speaker, not across the room.
 - Turn the sensitivity down if the lights flicker non-stop.
 - Pick bass-heavy songs for clear pulses. Quiet carols give gentle movement.
-- Think of neighbours: use music modes for parties and calm scenes for late evening.
+- Think of neighbors: use music modes for parties and calm scenes for late evening.

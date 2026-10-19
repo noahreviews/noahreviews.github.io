@@ -143,3 +143,10 @@ code { font-size: .9em; background: var(--tint); padding: 1px 5px; border-radius
 .fine { border-top: 1px solid var(--line); margin-top: 24px; padding-top: 16px; }
 .fine p { margin: 4px 0; }
 @media (max-width: 700px) { .footer-grid { grid-template-columns: 1fr 1fr; } .footer-grid > div:first-child { grid-column: 1 / -1; } }
+
+.why { margin-top: 8px; }
+.why-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; }
+.why-grid > div { background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 18px 20px; box-shadow: var(--shadow); }
+.why-grid h3 { font-size: 19px; margin: 0 0 6px; }
+.why-grid p { margin: 0; font-size: 15px; line-height: 1.55; color: var(--muted); }
+.why-more { margin: 14px 0 0; font-weight: 600; }

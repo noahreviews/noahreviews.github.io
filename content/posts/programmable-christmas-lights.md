@@ -9,8 +9,8 @@ seoTitle: "Programmable & Smart Christmas Lights Explained"
 imageW: 1086
 imageH: 1448
 description: "What smart, app-controlled and programmable Christmas lights can really do, how pixel LEDs work, and how to choose lights for a tree, house or window."
-takeaways: ["Smart plugs only switch lights on and off; app-controlled lights change colours; programmable pixels can draw pictures.", "A flat grid such as a curtain can show recognisable images; a string around a tree shows colour sweeps.", "Bluetooth control works near the lights; Wi-Fi works from anywhere but needs signal at the window."]
-faq: [{"q": "What is the difference between smart and programmable Christmas lights?", "a": "Smart lights let you change colour and effects for the whole string from an app. Programmable (addressable) lights let you control each LED separately, so you can draw shapes, text and animations."}, {"q": "Do I need special software for programmable Christmas lights?", "a": "Not for curtains and strings that come with an app. Full synchronised house shows use dedicated software such as xLights and separate controllers."}, {"q": "Are smart Christmas lights safe outdoors?", "a": "Check the IP rating and keep the controller dry. IP44 suits sheltered spots; IP65 or higher is for direct rain."}]
+takeaways: ["Smart plugs only switch lights on and off; app-controlled lights change colors; programmable pixels can draw pictures.", "A flat grid such as a curtain can show recognizable images; a string around a tree shows color sweeps.", "Bluetooth control works near the lights; Wi-Fi works from anywhere but needs signal at the window."]
+faq: [{"q": "What is the difference between smart and programmable Christmas lights?", "a": "Smart lights let you change color and effects for the whole string from an app. Programmable (addressable) lights let you control each LED separately, so you can draw shapes, text and animations."}, {"q": "Do I need special software for programmable Christmas lights?", "a": "Not for curtains and strings that come with an app. Full synchronised house shows use dedicated software such as xLights and separate controllers."}, {"q": "Are smart Christmas lights safe outdoors?", "a": "Check the IP rating and keep the controller dry. IP44 suits sheltered spots; IP65 or higher is for direct rain."}]
 sources: [{"title": "xLights: free light show sequencing software", "url": "https://xlights.org/"}, {"title": "IP Code (IEC 60529) ratings explained", "url": "https://en.wikipedia.org/wiki/IP_code"}]
 ---
 
@@ -21,18 +21,18 @@ sources: [{"title": "xLights: free light show sequencing software", "url": "http
 | Level | What you control | Example |
 |---|---|---|
 | Smart plug | On/off and timers only | Any normal lights on a Wi-Fi plug |
-| App-controlled colour | Colour, brightness and preset effects for the whole string | Most "smart" RGB strings |
+| App-controlled color | Color, brightness and preset effects for the whole string | Most "smart" RGB strings |
 | Programmable / addressable (pixel) | Each LED separately, so you can draw shapes, text and animations | Pixel strings and pixel curtains |
 
 If a listing says "DIY pattern", "pixel", "addressable" or lets you draw in the app, it is the third kind.
 
 ## How pixel (addressable) LEDs work
 
-Every LED has a tiny chip with an address. The controller sends a frame of colours many times per second, and each LED shows its own colour. Arrange the LEDs in a grid and you have a low-resolution screen. That is how a curtain of a few hundred LEDs can show a waving Santa.
+Every LED has a tiny chip with an address. The controller sends a frame of colors many times per second, and each LED shows its own color. Arrange the LEDs in a grid and you have a low-resolution screen. That is how a curtain of a few hundred LEDs can show a waving Santa.
 
 Two practical consequences:
 
-- **The shape matters.** A string around a tree shows colour sweeps; a flat grid such as a curtain can show recognisable pictures and words.
+- **The shape matters.** A string around a tree shows color sweeps; a flat grid such as a curtain can show recognizable pictures and words.
 - **More LEDs means more detail**, but even 400 LEDs in a grid is enough for clear holiday pictures from across the street.
 
 ## Smart Christmas lights outdoors
@@ -51,7 +51,7 @@ We are affiliated with Lumalyn, so weigh our opinion accordingly. Its [programma
 
 ## Which should you buy?
 
-- Want a tree that changes colour? An app-controlled RGB string is enough.
+- Want a tree that changes color? An app-controlled RGB string is enough.
 - Want pictures, words and animations on a window or balcony? Buy a **pixel curtain**.
 - Want the lights to dance to songs? Start with [music sync](/christmas-lights-to-music/).
 - Want a full synced house show with dozens of props? That is the hobbyist world of dedicated controllers and sequencing software, which is a bigger project.

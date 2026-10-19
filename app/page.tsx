@@ -29,6 +29,29 @@ export default function Home() {
         </section>
       )}
 
+      <section aria-labelledby="why" className="why">
+        <h2 id="why" className="section-h">Why readers trust {SITE.name}</h2>
+        <div className="why-grid">
+          <div>
+            <h3>Written for the US, UK and Europe</h3>
+            <p>Sizes appear in both meters and feet, and we flag what matters across regions, such as plug types, power adapters and outdoor ratings.</p>
+          </div>
+          <div>
+            <h3>Upfront about partnerships</h3>
+            <p>Every guide that links to a partner says so before you start reading, in line with FTC and EU consumer-protection rules.</p>
+          </div>
+          <div>
+            <h3>Limits, not just highlights</h3>
+            <p>We tell you what a product cannot do and when a cheaper or simpler option is the better buy.</p>
+          </div>
+          <div>
+            <h3>No tracking</h3>
+            <p>No cookies, no ad networks, no sign-up walls. Read our <Link href="/privacy/">privacy policy</Link>.</p>
+          </div>
+        </div>
+        <p className="why-more"><Link href="/how-we-review/">How we research and review →</Link></p>
+      </section>
+
       <section aria-labelledby="cats" className="cats">
         <h2 id="cats" className="section-h">Browse by category</h2>
         <div className="grid">

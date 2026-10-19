@@ -28,7 +28,7 @@ These ideas all work for renters.
 6. **Frame the balcony door** with lights so it glows from inside too.
 7. **Put star lights in the window** next to the balcony to extend the display.
 8. **Use solar lights** if you have no outdoor socket (they are dim in December, so treat them as an accent).
-9. **Set a schedule** so everything turns on at dusk and off at bedtime. Neighbours appreciate it.
+9. **Set a schedule** so everything turns on at dusk and off at bedtime. Neighbors appreciate it.
 
 ## How to hang Christmas lights on a balcony railing
 
@@ -50,6 +50,6 @@ What matters most for a balcony:
 | Low voltage (USB or 12/24 V) | Safer outdoors and runs from an indoor socket |
 | IP44 or better | Handles splashes and snow under a balcony roof |
 | A timer | Lights come on even when you are not home |
-| Something visible from far away | Bigger pictures and bright colours read better than fine detail |
+| Something visible from far away | Bigger pictures and bright colors read better than fine detail |
 
 We are affiliated with Lumalyn, whose [Smart Animated Balcony Lights]({{store}}) were designed for exactly this: a 2 × 2 m or 3 × 3 m pixel curtain that clips to a railing, runs on USB power, is IP44 rated, and has an app with schedules plus a remote. If you just want a warm glow, a 10 m warm-white string light wrapped around the railing is the budget option.

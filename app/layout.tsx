@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   description: SITE.description,
   applicationName: SITE.name,
   alternates: { canonical: '/' },
-  openGraph: { type: 'website', siteName: SITE.name, url: SITE.url, images: [{ url: SITE.ogImage }] },
+  openGraph: { type: 'website', siteName: SITE.name, url: SITE.url, images: [{ url: SITE.ogImage, width: 1200, height: 630, alt: `${SITE.name}: ${SITE.tagline}` }] },
   twitter: { card: 'summary_large_image' },
   robots: { index: true, follow: true, 'max-image-preview': 'large' },
 };

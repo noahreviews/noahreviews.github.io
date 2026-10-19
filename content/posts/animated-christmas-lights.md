@@ -45,7 +45,7 @@ Check the weather rating on anything outdoors. IP44 is fine under a balcony roof
 
 ## What to look for when buying
 
-- **Addressable LEDs** if you want pictures and text rather than just colour changes.
+- **Addressable LEDs** if you want pictures and text rather than just color changes.
 - **An app with a design library** and, ideally, a way to draw or type your own design.
 - **A timer**, so you never have to remember to switch it on.
 - **A remote**, for guests or kids who do not have the app.

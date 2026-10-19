@@ -10,7 +10,7 @@ imageW: 1200
 imageH: 1200
 description: "How to choose Christmas curtain lights for windows, indoors and outdoors: plain vs. animated curtains, size, LED count, IP rating, power and hanging tips."
 takeaways: ["Pick an addressable (pixel) curtain if you want pictures and text; a plain curtain if you only want a glow.", "Match the curtain size to the window or railing width so the strands hang flat.", "IP44 is fine under a roof; choose IP65 or higher for spots that get direct rain."]
-faq: [{"q": "Can I use indoor curtain lights in a window facing outside?", "a": "Yes. Hanging curtain lights inside, close to the glass, is the safest way to decorate a window and they stay clearly visible from the street at night."}, {"q": "What does IP44 mean for Christmas lights?", "a": "IP44 means the lights are protected against splashing water from any direction. They suit covered balconies and porches, but not places where rain falls on them directly."}, {"q": "How many LEDs do I need for a curtain that shows pictures?", "a": "A grid of around 400 individually controlled LEDs is enough for recognisable holiday pictures and short words when seen from across the street."}]
+faq: [{"q": "Can I use indoor curtain lights in a window facing outside?", "a": "Yes. Hanging curtain lights inside, close to the glass, is the safest way to decorate a window and they stay clearly visible from the street at night."}, {"q": "What does IP44 mean for Christmas lights?", "a": "IP44 means the lights are protected against splashing water from any direction. They suit covered balconies and porches, but not places where rain falls on them directly."}, {"q": "How many LEDs do I need for a curtain that shows pictures?", "a": "A grid of around 400 individually controlled LEDs is enough for recognizable holiday pictures and short words when seen from across the street."}]
 sources: [{"title": "IP Code (IEC 60529) ratings explained", "url": "https://en.wikipedia.org/wiki/IP_code"}, {"title": "NFPA: Winter holiday fire safety", "url": "https://www.nfpa.org/education-and-research/home-fire-safety/winter-holidays"}]
 ---
 
@@ -24,7 +24,7 @@ There are two very different products sold under the same name:
 
 | Type | What it does | Best for |
 |---|---|---|
-| Plain curtain lights | Every LED shows the same colour (often warm white), with a few flashing modes | Soft background glow, bedrooms, photo backdrops |
+| Plain curtain lights | Every LED shows the same color (often warm white), with a few flashing modes | Soft background glow, bedrooms, photo backdrops |
 | Animated / pixel curtain lights | Each LED is individually addressable, so the curtain can show pictures, text and animations | Windows and balconies you want people to notice from the street |
 
 If you want a Santa, a snowman or a "Merry Christmas" message on your window, you need the **individually addressable** kind (see our guide to [animated Christmas lights](/animated-christmas-lights/)). The listing will usually mention an app, "pixel", "programmable" or "DIY pattern".
@@ -35,7 +35,7 @@ The two numbers to compare are **width × height** and **total LEDs**.
 
 - A 2 × 2 m (about 6.5 × 6.5 ft) curtain covers a standard window or a short balcony section.
 - A 3 × 3 m (about 10 × 10 ft) curtain covers a patio door or a wider railing.
-- For animated curtains, more LEDs per square metre means a sharper picture. With the same number of LEDs, a smaller curtain looks more detailed and a larger one looks bigger but blockier from close up. From the street, both read well.
+- For animated curtains, more LEDs per square meter means a sharper picture. With the same number of LEDs, a smaller curtain looks more detailed and a larger one looks bigger but blockier from close up. From the street, both read well.
 
 Measure the width you want to cover first. Curtain lights look best hanging flat, not bunched up, so pick the size closest to your window or railing rather than the biggest one.
 
@@ -52,7 +52,7 @@ Whatever the rating, keep the controller and the plug dry and off the ground.
 
 ## Power: USB vs. mains
 
-Many modern curtain lights run on **5 V USB**. That is convenient indoors (any phone charger works) and very safe, but check whether a USB power adapter is included. Some sets ship with only the USB cable. Mains-powered sets are usually brighter and longer, but need an outdoor-rated socket when used outside.
+Many modern curtain lights run on **5 V USB**. A USB set works the same in the US, the UK and the EU: only the wall adapter differs, so you avoid voltage and plug-type issues entirely. That is convenient indoors (any phone charger works) and very safe, but check whether a USB power adapter is included. Some sets ship with only the USB cable. Mains-powered sets are usually brighter and longer, but need an outdoor-rated socket when used outside.
 
 ## How to hang curtain lights on a window
 

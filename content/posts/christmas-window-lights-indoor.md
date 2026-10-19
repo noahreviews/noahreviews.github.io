@@ -10,7 +10,7 @@ imageW: 1086
 imageH: 1448
 description: "Indoor Christmas window lights that look great from outside: curtain lights, stars, silhouettes and animated displays, plus how to avoid glare and reflections."
 takeaways: ["Lights placed close to the glass show clearly from the street.", "A dark background behind the display makes it stand out.", "Around 50–70% brightness usually looks best at night and reduces reflections."]
-faq: [{"q": "Can you see indoor Christmas lights from outside?", "a": "Yes, if they sit close to the glass and the room behind them is dark. Lights a metre back from the window mostly light the room instead."}, {"q": "How do I stop reflections from window lights?", "a": "Move the lights closer to the glass, lower the brightness and turn off room lights behind the display."}, {"q": "What size curtain light fits a standard window?", "a": "A 2 x 2 m (about 6.5 x 6.5 ft) curtain covers most standard windows; a 3 x 3 m curtain suits patio doors."}]
+faq: [{"q": "Can you see indoor Christmas lights from outside?", "a": "Yes, if they sit close to the glass and the room behind them is dark. Lights a meter back from the window mostly light the room instead."}, {"q": "How do I stop reflections from window lights?", "a": "Move the lights closer to the glass, lower the brightness and turn off room lights behind the display."}, {"q": "What size curtain light fits a standard window?", "a": "A 2 x 2 m (about 6.5 x 6.5 ft) curtain covers most standard windows; a 3 x 3 m curtain suits patio doors."}]
 sources: [{"title": "NFPA: Winter holiday fire safety", "url": "https://www.nfpa.org/education-and-research/home-fire-safety/winter-holidays"}]
 ---
 
@@ -19,17 +19,17 @@ Decorating from inside the window is the easiest and safest way to light up your
 ## Ideas for indoor Christmas window lights
 
 1. **Curtain lights behind the glass.** A sheet of light strands covers the whole window and is visible from far away. Our [Christmas curtain lights guide](/christmas-curtain-lights/) covers sizes and power.
-2. **Window star or snowflake lights.** One big shape per window, centred, is classic and calm.
+2. **Window star or snowflake lights.** One big shape per window, centered, is classic and calm.
 3. **Silhouette window lights** (reindeer, sleigh, candles) that hang on suction cups.
 4. **Electric candles on the sill**, the traditional look in many older homes.
 5. **An animated pixel curtain** that shows pictures and text, for a window people stop to look at.
 
 ## How to make indoor lights visible from outside
 
-- **Get close to the glass.** Lights a few centimetres from the window show clearly; lights a metre back mostly light your room.
+- **Get close to the glass.** Lights a few centimetres from the window show clearly; lights a meter back mostly light your room.
 - **Darken what is behind them.** Close the curtains or blinds behind the display, or turn off the room light. Contrast is everything.
 - **Use the right brightness.** Too bright and you get glare and reflections; around 50–70% brightness usually looks best at night.
-- **Think about the angle.** For upstairs windows, people look up, so centre the display in the lower half of the window.
+- **Think about the angle.** For upstairs windows, people look up, so center the display in the lower half of the window.
 
 ## Power and safety indoors
 
