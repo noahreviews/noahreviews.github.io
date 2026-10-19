@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://noahreviews.github.io"><img src="https://img.shields.io/badge/Website-noahreviews.github.io-123b2e?style=for-the-badge" alt="Website: noahreviews.github.io"></a>
-  <a href="https://noahreviews.github.io/en/category/holiday-lighting/"><img src="https://img.shields.io/badge/Guides-7_holiday_lighting-b08a3e?style=for-the-badge" alt="7 holiday lighting guides"></a>
+  <a href="https://noahreviews.github.io/en/category/holiday-lighting/"><img src="https://img.shields.io/badge/Guides-8_holiday_lighting-b08a3e?style=for-the-badge" alt="8 holiday lighting guides"></a>
   <a href="https://noahreviews.github.io/en/how-we-review/"><img src="https://img.shields.io/badge/Updated-October_2026-2f6f57?style=for-the-badge" alt="Updated October 2026"></a>
 </p>
 
@@ -78,6 +78,11 @@ whole house, and whether you want a warm glow, a **music-synchronized** show or 
 <a href="https://noahreviews.github.io/en/nativity-christmas-lights/"><img src="https://lumalyn.store/cdn/shop/files/lumalyn-christian-s3-show.jpg?width=640&height=400&crop=center" alt="Family looking up at a glowing nativity scene light display on a balcony" width="100%"></a>
 <h3><a href="https://noahreviews.github.io/en/nativity-christmas-lights/">Nativity Christmas Lights: Christian Display Ideas</a></h3>
 <p>Nativity scenes, the Star of Bethlehem, angels and faith messages for homes and apartments.</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://noahreviews.github.io/en/twinkly-vs-govee-curtain-lights/"><img src="https://lumalyn.store/cdn/shop/files/lumalyn-f2-sofa.jpg?width=640&height=400&crop=center" alt="Smart LED curtain lights glowing behind a living room window, Twinkly vs Govee comparison" width="100%"></a>
+<h3><a href="https://noahreviews.github.io/en/twinkly-vs-govee-curtain-lights/">Twinkly vs Govee Curtain Lights: Specs Compared</a></h3>
+<p>Sizes, LED count, pixel density, IP rating, app and music features, from the brands' own spec pages.</p>
 </td>
 </tr>
 </table>
@@ -153,6 +158,12 @@ For pictures and messages, choose an addressable (pixel) LED curtain hung close 
 <summary><b>Can animated Christmas lights be used outdoors?</b></summary>
 
 Yes, if they are rated for it. IP44 suits covered balconies and porches; choose IP65 or higher for spots that get direct rain. More in our <a href="https://noahreviews.github.io/en/animated-christmas-lights/">animated Christmas lights guide</a>.
+</details>
+
+<details>
+<summary><b>Twinkly or Govee: which curtain lights are better?</b></summary>
+
+On the makers' published specs, Govee Curtain Lights 2 has more LEDs per square meter and an IP65 rating, while Twinkly Curtain adds Wi-Fi and works with other Twinkly lights. See <a href="https://noahreviews.github.io/en/twinkly-vs-govee-curtain-lights/">Twinkly vs Govee compared</a>.
 </details>
 
 <details>
