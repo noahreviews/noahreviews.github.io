@@ -166,6 +166,11 @@ export default async function SlugPage({ params }: Props) {
           </section>
         )}
 
+        <section className="box how-made" aria-labelledby="how-made">
+          <h2 id="how-made">{m.post.howMadeTitle}</h2>
+          <p>{m.post.howMade} <Link href={`/${lang}/contact/`}>{m.pages.contact} →</Link></p>
+        </section>
+
         <section className="author-box" aria-label={m.post.author}>
           <span className="avatar avatar--lg" aria-hidden="true">NR</span>
           <div>

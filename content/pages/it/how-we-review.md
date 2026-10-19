@@ -23,6 +23,10 @@ I link dei partner sono dichiarati in cima a ogni guida e segnalati come sponsor
 
 Ogni guida mostra la data dell'ultima revisione. Aggiorniamo le guide quando cambiano i prodotti, i prezzi o i consigli.
 
+## Uso dell'IA
+
+Usiamo strumenti di scrittura basati sull'IA per aiutarci a redigere e tradurre le guide. Una guida viene pubblicata solo dopo aver verificato le affermazioni sul prodotto con la scheda del produttore e le indicazioni tecniche e di sicurezza con le fonti citate.
+
 ## Correzioni
 
 Hai trovato un errore? [Segnalacelo]({{page:contact}}): lo verificheremo e correggeremo la guida.

@@ -1,7 +1,11 @@
 {
   "langName": "English",
   "skip": "Skip to content",
-  "nav": { "howWeReview": "How we review", "about": "About", "language": "Language" },
+  "nav": {
+    "howWeReview": "How we review",
+    "about": "About",
+    "language": "Language"
+  },
   "tagline": "Practical reviews and buying guides for home, holiday and everyday products",
   "siteDescription": "Noah Reviews publishes practical buying guides and product reviews for home, holiday and everyday products, with clear disclosures and sourced advice.",
   "homeTitle": "Noah Reviews: Buying Guides & Product Reviews",
@@ -9,17 +13,38 @@
     "kicker": "Buying guides & reviews",
     "lede": "We compare product types, explain the specs that matter and point out the limits as well as the strengths, so you can buy once and buy right.",
     "trust": [
-      { "title": "Clear disclosures", "text": "Partner links are labeled on every page." },
-      { "title": "Sourced advice", "text": "Safety and spec claims link to their sources." },
-      { "title": "Kept up to date", "text": "Every guide shows when it was last reviewed." }
+      {
+        "title": "Clear disclosures",
+        "text": "Partner links are labeled on every page."
+      },
+      {
+        "title": "Sourced advice",
+        "text": "Safety and spec claims link to their sources."
+      },
+      {
+        "title": "Kept up to date",
+        "text": "Every guide shows when it was last reviewed."
+      }
     ],
     "latest": "Latest guides",
     "whyTitle": "Why readers trust Noah Reviews",
     "why": [
-      { "title": "Written for the US, UK and Europe", "text": "Sizes appear in both meters and feet, and we flag what matters across regions, such as plug types, power adapters and outdoor ratings." },
-      { "title": "Upfront about partnerships", "text": "Every guide that links to a partner says so before you start reading, in line with FTC and EU consumer-protection rules." },
-      { "title": "Limits, not just highlights", "text": "We tell you what a product cannot do and when a cheaper or simpler option is the better buy." },
-      { "title": "No tracking", "text": "No cookies, no ad networks, no sign-up walls." }
+      {
+        "title": "Written for the US, UK and Europe",
+        "text": "Sizes appear in both meters and feet, and we flag what matters across regions, such as plug types, power adapters and outdoor ratings."
+      },
+      {
+        "title": "Upfront about partnerships",
+        "text": "Every guide that links to a partner says so before you start reading, in line with FTC and EU consumer-protection rules."
+      },
+      {
+        "title": "Limits, not just highlights",
+        "text": "We tell you what a product cannot do and when a cheaper or simpler option is the better buy."
+      },
+      {
+        "title": "No tracking",
+        "text": "No cookies, no ad networks, no sign-up walls."
+      }
     ],
     "privacyLink": "Read our privacy policy",
     "howLink": "How we research and review →",
@@ -27,7 +52,10 @@
     "guidesCount": "{n} guides →"
   },
   "categories": {
-    "holiday-lighting": { "name": "Holiday Lighting", "blurb": "Christmas curtain lights, animated window displays, smart lights and balcony ideas." }
+    "holiday-lighting": {
+      "name": "Holiday Lighting",
+      "blurb": "Christmas curtain lights, animated window displays, smart lights and balcony ideas."
+    }
   },
   "categoryTitle": "{name} Guides & Reviews",
   "categoryDescription": "{blurb} Practical buying guides from Noah Reviews.",
@@ -53,7 +81,9 @@
     "ctaTitle": "Lumalyn Smart Animated Balcony Lights",
     "ctaSpecs": "400-LED pixel curtain · 2 × 2 m (6 ft 7 in) or 3 × 3 m (9 ft 10 in) · app + remote · music sync · timers · IP44 for covered outdoor spots.",
     "ctaButton": "Visit lumalyn.store",
-    "readIn": "Also available in"
+    "readIn": "Also available in",
+    "howMadeTitle": "How we made this guide",
+    "howMade": "We researched the manufacturer's specifications, the safety guidance and the sources listed on this page, drafted the guide with the help of AI writing tools, and checked every product claim against the manufacturer's listing before publishing. Spotted something wrong? Tell us and we will correct it."
   },
   "footer": {
     "categories": "Categories",
@@ -68,5 +98,8 @@
     "contact": "Contact",
     "privacy": "Privacy"
   },
-  "chooser": { "title": "Choose your language", "intro": "Practical reviews and buying guides for home, holiday and everyday products." }
+  "chooser": {
+    "title": "Choose your language",
+    "intro": "Practical reviews and buying guides for home, holiday and everyday products."
+  }
 }

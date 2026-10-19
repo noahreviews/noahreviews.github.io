@@ -23,6 +23,10 @@ Partnerlinks werden oben in jedem Ratgeber offengelegt und als gesponsert gekenn
 
 Jeder Ratgeber zeigt, wann er zuletzt überprüft wurde. Wir aktualisieren Ratgeber, wenn sich Produkte, Preise oder Empfehlungen ändern.
 
+## Einsatz von KI
+
+Wir nutzen KI-Schreibwerkzeuge, um Ratgeber zu entwerfen und zu übersetzen. Veröffentlicht wird ein Ratgeber erst, nachdem die Produktangaben mit dem Herstellerangebot und die Sicherheits- und Technikangaben mit den genannten Quellen abgeglichen wurden.
+
 ## Korrekturen
 
 Fehler entdeckt? [Sag uns Bescheid]({{page:contact}}) – wir prüfen den Hinweis und korrigieren den Ratgeber.

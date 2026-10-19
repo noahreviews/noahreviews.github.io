@@ -23,6 +23,10 @@ Partnerlänkar redovisas överst i varje guide och märks som sponsrade. Vi tar 
 
 Varje guide visar när den senast granskades. Vi uppdaterar guiderna när produkter, priser eller råd ändras.
 
+## Användning av AI
+
+Vi använder AI-baserade skrivverktyg som stöd när vi skriver och översätter guider. En guide publiceras först när produktuppgifterna har kontrollerats mot tillverkarens produktsida och de tekniska uppgifterna och säkerhetsråden mot de angivna källorna.
+
 ## Rättelser
 
 Har du hittat ett fel? [Hör av dig]({{page:contact}}) så kontrollerar vi det och rättar guiden.

@@ -1,7 +1,11 @@
 {
   "langName": "Deutsch",
   "skip": "Zum Inhalt springen",
-  "nav": { "howWeReview": "So bewerten wir", "about": "Über uns", "language": "Sprache" },
+  "nav": {
+    "howWeReview": "So bewerten wir",
+    "about": "Über uns",
+    "language": "Sprache"
+  },
   "tagline": "Praktische Bewertungen und Kaufratgeber für Zuhause, Feiertage und Alltag",
   "siteDescription": "Noah Reviews veröffentlicht praktische Kaufratgeber und Produktbewertungen für Zuhause, Feiertage und Alltag – mit klarer Offenlegung und belegten Empfehlungen.",
   "homeTitle": "Noah Reviews: Kaufratgeber & Produktbewertungen",
@@ -9,17 +13,38 @@
     "kicker": "Kaufratgeber & Bewertungen",
     "lede": "Wir vergleichen Produkttypen, erklären die technischen Daten, auf die es ankommt, und nennen Schwächen ebenso wie Stärken – damit du einmal kaufst und gleich richtig.",
     "trust": [
-      { "title": "Klare Offenlegung", "text": "Partnerlinks sind auf jeder Seite gekennzeichnet." },
-      { "title": "Belegte Empfehlungen", "text": "Angaben zu Sicherheit und technischen Daten verlinken auf ihre Quellen." },
-      { "title": "Regelmäßig aktualisiert", "text": "Jeder Ratgeber zeigt, wann er zuletzt überprüft wurde." }
+      {
+        "title": "Klare Offenlegung",
+        "text": "Partnerlinks sind auf jeder Seite gekennzeichnet."
+      },
+      {
+        "title": "Belegte Empfehlungen",
+        "text": "Angaben zu Sicherheit und technischen Daten verlinken auf ihre Quellen."
+      },
+      {
+        "title": "Regelmäßig aktualisiert",
+        "text": "Jeder Ratgeber zeigt, wann er zuletzt überprüft wurde."
+      }
     ],
     "latest": "Neueste Ratgeber",
     "whyTitle": "Warum Leser Noah Reviews vertrauen",
     "why": [
-      { "title": "Für Europa, Großbritannien und die USA geschrieben", "text": "Maße stehen in Metern und Fuß, und wir weisen auf regionale Unterschiede hin, etwa bei Steckertypen, Netzteilen und Schutzarten für draußen." },
-      { "title": "Offen über Partnerschaften", "text": "Jeder Ratgeber mit Partnerlink sagt das, bevor du zu lesen beginnst – im Einklang mit den Verbraucherschutzregeln der FTC und der EU." },
-      { "title": "Schwächen, nicht nur Highlights", "text": "Wir sagen dir, was ein Produkt nicht kann und wann eine günstigere oder einfachere Lösung die bessere Wahl ist." },
-      { "title": "Kein Tracking", "text": "Keine Cookies, keine Werbenetzwerke, keine Anmeldepflicht." }
+      {
+        "title": "Für Europa, Großbritannien und die USA geschrieben",
+        "text": "Maße stehen in Metern und Fuß, und wir weisen auf regionale Unterschiede hin, etwa bei Steckertypen, Netzteilen und Schutzarten für draußen."
+      },
+      {
+        "title": "Offen über Partnerschaften",
+        "text": "Jeder Ratgeber mit Partnerlink sagt das, bevor du zu lesen beginnst – im Einklang mit den Verbraucherschutzregeln der FTC und der EU."
+      },
+      {
+        "title": "Schwächen, nicht nur Highlights",
+        "text": "Wir sagen dir, was ein Produkt nicht kann und wann eine günstigere oder einfachere Lösung die bessere Wahl ist."
+      },
+      {
+        "title": "Kein Tracking",
+        "text": "Keine Cookies, keine Werbenetzwerke, keine Anmeldepflicht."
+      }
     ],
     "privacyLink": "Unsere Datenschutzerklärung lesen",
     "howLink": "So recherchieren und bewerten wir →",
@@ -27,7 +52,10 @@
     "guidesCount": "{n} Ratgeber →"
   },
   "categories": {
-    "holiday-lighting": { "name": "Weihnachtsbeleuchtung", "blurb": "Lichtervorhänge, animierte Fensterdeko, smarte Lichter und Ideen für den Balkon." }
+    "holiday-lighting": {
+      "name": "Weihnachtsbeleuchtung",
+      "blurb": "Lichtervorhänge, animierte Fensterdeko, smarte Lichter und Ideen für den Balkon."
+    }
   },
   "categoryTitle": "{name}: Ratgeber & Bewertungen",
   "categoryDescription": "{blurb} Praktische Kaufratgeber von Noah Reviews.",
@@ -53,7 +81,9 @@
     "ctaTitle": "Lumalyn Smart Animated Balcony Lights",
     "ctaSpecs": "Pixel-Lichtervorhang mit 400 LEDs · 2 × 2 m (6 ft 7 in) oder 3 × 3 m (9 ft 10 in) · App + Fernbedienung · Musik-Sync · Timer · IP44 für überdachte Außenbereiche.",
     "ctaButton": "Zu lumalyn.store",
-    "readIn": "Auch verfügbar auf"
+    "readIn": "Auch verfügbar auf",
+    "howMadeTitle": "So ist dieser Ratgeber entstanden",
+    "howMade": "Wir haben die Herstellerangaben, Sicherheitshinweise und die hier genannten Quellen ausgewertet, den Text mit Unterstützung von KI-Schreibwerkzeugen entworfen und jede Produktangabe vor der Veröffentlichung mit dem Herstellerangebot abgeglichen. Fehler entdeckt? Sag uns Bescheid, wir korrigieren ihn."
   },
   "footer": {
     "categories": "Kategorien",
@@ -68,5 +98,8 @@
     "contact": "Kontakt",
     "privacy": "Datenschutz"
   },
-  "chooser": { "title": "Wähle deine Sprache", "intro": "Praktische Bewertungen und Kaufratgeber für Zuhause, Feiertage und Alltag." }
+  "chooser": {
+    "title": "Wähle deine Sprache",
+    "intro": "Praktische Bewertungen und Kaufratgeber für Zuhause, Feiertage und Alltag."
+  }
 }

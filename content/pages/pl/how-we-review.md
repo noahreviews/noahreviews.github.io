@@ -23,6 +23,10 @@ Linki partnerskie są ujawniane na górze każdego poradnika i oznaczane jako sp
 
 Każdy poradnik pokazuje datę ostatniej weryfikacji. Aktualizujemy poradniki, gdy zmieniają się produkty, ceny lub zalecenia.
 
+## Wykorzystanie AI
+
+Korzystamy z narzędzi do pisania opartych na AI przy tworzeniu i tłumaczeniu poradników. Poradnik publikujemy dopiero po sprawdzeniu informacji o produkcie z kartą producenta oraz informacji technicznych i dotyczących bezpieczeństwa z podanymi źródłami.
+
 ## Poprawki
 
 Widzisz błąd? [Daj nam znać]({{page:contact}}), a sprawdzimy go i poprawimy poradnik.

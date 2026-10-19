@@ -1,7 +1,11 @@
 {
   "langName": "Português",
   "skip": "Saltar para o conteúdo",
-  "nav": { "howWeReview": "Como analisamos", "about": "Sobre nós", "language": "Idioma" },
+  "nav": {
+    "howWeReview": "Como analisamos",
+    "about": "Sobre nós",
+    "language": "Idioma"
+  },
   "tagline": "Análises práticas e guias de compra para a casa, as festas e o dia a dia",
   "siteDescription": "O Noah Reviews publica guias de compra práticos e análises de produtos para a casa, as festas e o dia a dia, com parcerias assinaladas e conselhos com fontes.",
   "homeTitle": "Noah Reviews: guias de compra e análises de produtos",
@@ -9,17 +13,38 @@
     "kicker": "Guias de compra e análises",
     "lede": "Comparamos tipos de produto, explicamos as especificações que importam e apontamos as limitações, tal como os pontos fortes, para que compre uma vez e compre bem.",
     "trust": [
-      { "title": "Parcerias assinaladas", "text": "As ligações de parceiros estão identificadas em todas as páginas." },
-      { "title": "Conselhos com fontes", "text": "As afirmações sobre segurança e especificações têm ligação para as respetivas fontes." },
-      { "title": "Sempre atualizados", "text": "Cada guia mostra quando foi revisto pela última vez." }
+      {
+        "title": "Parcerias assinaladas",
+        "text": "As ligações de parceiros estão identificadas em todas as páginas."
+      },
+      {
+        "title": "Conselhos com fontes",
+        "text": "As afirmações sobre segurança e especificações têm ligação para as respetivas fontes."
+      },
+      {
+        "title": "Sempre atualizados",
+        "text": "Cada guia mostra quando foi revisto pela última vez."
+      }
     ],
     "latest": "Guias mais recentes",
     "whyTitle": "Porque é que os leitores confiam no Noah Reviews",
     "why": [
-      { "title": "Escrito para os EUA, o Reino Unido e a Europa", "text": "Os tamanhos aparecem em metros e em pés, e assinalamos o que muda de região para região, como os tipos de ficha, os adaptadores de corrente e a proteção para exterior." },
-      { "title": "Transparentes quanto a parcerias", "text": "Todos os guias com ligações para parceiros indicam-no antes de começar a ler, de acordo com as regras de proteção do consumidor da FTC e da UE." },
-      { "title": "Limitações, não só destaques", "text": "Dizemos-lhe o que um produto não consegue fazer e quando uma opção mais barata ou mais simples é a melhor compra." },
-      { "title": "Sem rastreio", "text": "Sem cookies, sem redes de publicidade, sem registos obrigatórios." }
+      {
+        "title": "Escrito para os EUA, o Reino Unido e a Europa",
+        "text": "Os tamanhos aparecem em metros e em pés, e assinalamos o que muda de região para região, como os tipos de ficha, os adaptadores de corrente e a proteção para exterior."
+      },
+      {
+        "title": "Transparentes quanto a parcerias",
+        "text": "Todos os guias com ligações para parceiros indicam-no antes de começar a ler, de acordo com as regras de proteção do consumidor da FTC e da UE."
+      },
+      {
+        "title": "Limitações, não só destaques",
+        "text": "Dizemos-lhe o que um produto não consegue fazer e quando uma opção mais barata ou mais simples é a melhor compra."
+      },
+      {
+        "title": "Sem rastreio",
+        "text": "Sem cookies, sem redes de publicidade, sem registos obrigatórios."
+      }
     ],
     "privacyLink": "Leia a nossa política de privacidade",
     "howLink": "Como pesquisamos e analisamos →",
@@ -27,7 +52,10 @@
     "guidesCount": "{n} guias →"
   },
   "categories": {
-    "holiday-lighting": { "name": "Iluminação de Natal", "blurb": "Cortinas de luzes de Natal, painéis animados para janelas, luzes inteligentes e ideias para varandas." }
+    "holiday-lighting": {
+      "name": "Iluminação de Natal",
+      "blurb": "Cortinas de luzes de Natal, painéis animados para janelas, luzes inteligentes e ideias para varandas."
+    }
   },
   "categoryTitle": "{name}: guias e análises",
   "categoryDescription": "{blurb} Guias de compra práticos do Noah Reviews.",
@@ -53,7 +81,9 @@
     "ctaTitle": "Lumalyn Smart Animated Balcony Lights",
     "ctaSpecs": "Cortina pixel de 400 LEDs · 2 × 2 m (6 ft 7 in) ou 3 × 3 m (9 ft 10 in) · app + comando · sincronização com música · temporizadores · IP44 para locais exteriores cobertos.",
     "ctaButton": "Visitar lumalyn.store",
-    "readIn": "Também disponível em"
+    "readIn": "Também disponível em",
+    "howMadeTitle": "Como fizemos este guia",
+    "howMade": "Analisámos as especificações do fabricante, as recomendações de segurança e as fontes indicadas nesta página, redigimos o guia com a ajuda de ferramentas de escrita com IA e confirmámos cada informação sobre o produto com a ficha do fabricante antes de publicar. Encontrou um erro? Diga-nos e corrigimos."
   },
   "footer": {
     "categories": "Categorias",
@@ -68,5 +98,8 @@
     "contact": "Contacto",
     "privacy": "Privacidade"
   },
-  "chooser": { "title": "Escolha o seu idioma", "intro": "Análises práticas e guias de compra para a casa, as festas e o dia a dia." }
+  "chooser": {
+    "title": "Escolha o seu idioma",
+    "intro": "Análises práticas e guias de compra para a casa, as festas e o dia a dia."
+  }
 }

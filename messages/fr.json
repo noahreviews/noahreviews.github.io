@@ -1,7 +1,11 @@
 {
   "langName": "Français",
   "skip": "Aller au contenu",
-  "nav": { "howWeReview": "Notre méthode", "about": "À propos", "language": "Langue" },
+  "nav": {
+    "howWeReview": "Notre méthode",
+    "about": "À propos",
+    "language": "Langue"
+  },
   "tagline": "Avis pratiques et guides d'achat pour la maison, les fêtes et le quotidien",
   "siteDescription": "Noah Reviews publie des guides d'achat pratiques et des avis produits pour la maison, les fêtes et le quotidien, avec des partenariats clairement signalés et des conseils sourcés.",
   "homeTitle": "Noah Reviews : guides d'achat et avis produits",
@@ -9,17 +13,38 @@
     "kicker": "Guides d'achat et avis",
     "lede": "Nous comparons les types de produits, expliquons les caractéristiques qui comptent et signalons les limites autant que les points forts, pour que vous achetiez une seule fois, et le bon produit.",
     "trust": [
-      { "title": "Partenariats signalés", "text": "Les liens partenaires sont indiqués sur chaque page." },
-      { "title": "Conseils sourcés", "text": "Les affirmations sur la sécurité et les caractéristiques renvoient à leurs sources." },
-      { "title": "Guides à jour", "text": "Chaque guide indique la date de sa dernière révision." }
+      {
+        "title": "Partenariats signalés",
+        "text": "Les liens partenaires sont indiqués sur chaque page."
+      },
+      {
+        "title": "Conseils sourcés",
+        "text": "Les affirmations sur la sécurité et les caractéristiques renvoient à leurs sources."
+      },
+      {
+        "title": "Guides à jour",
+        "text": "Chaque guide indique la date de sa dernière révision."
+      }
     ],
     "latest": "Derniers guides",
     "whyTitle": "Pourquoi les lecteurs font confiance à Noah Reviews",
     "why": [
-      { "title": "Écrit pour les États-Unis, le Royaume-Uni et l'Europe", "text": "Les dimensions sont données en mètres et en pieds, et nous signalons ce qui change d'une région à l'autre, comme les types de prises, les adaptateurs secteur et les indices d'étanchéité pour l'extérieur." },
-      { "title": "Transparents sur nos partenariats", "text": "Chaque guide qui renvoie vers un partenaire le signale avant même que vous commenciez à lire, conformément aux règles de la FTC et au droit européen de la consommation." },
-      { "title": "Les limites, pas seulement les atouts", "text": "Nous vous disons ce qu'un produit ne sait pas faire, et quand une option moins chère ou plus simple est le meilleur achat." },
-      { "title": "Aucun pistage", "text": "Pas de cookies, pas de régies publicitaires, pas d'inscription obligatoire." }
+      {
+        "title": "Écrit pour les États-Unis, le Royaume-Uni et l'Europe",
+        "text": "Les dimensions sont données en mètres et en pieds, et nous signalons ce qui change d'une région à l'autre, comme les types de prises, les adaptateurs secteur et les indices d'étanchéité pour l'extérieur."
+      },
+      {
+        "title": "Transparents sur nos partenariats",
+        "text": "Chaque guide qui renvoie vers un partenaire le signale avant même que vous commenciez à lire, conformément aux règles de la FTC et au droit européen de la consommation."
+      },
+      {
+        "title": "Les limites, pas seulement les atouts",
+        "text": "Nous vous disons ce qu'un produit ne sait pas faire, et quand une option moins chère ou plus simple est le meilleur achat."
+      },
+      {
+        "title": "Aucun pistage",
+        "text": "Pas de cookies, pas de régies publicitaires, pas d'inscription obligatoire."
+      }
     ],
     "privacyLink": "Lire notre politique de confidentialité",
     "howLink": "Notre méthode de recherche et d'évaluation →",
@@ -27,7 +52,10 @@
     "guidesCount": "{n} guides →"
   },
   "categories": {
-    "holiday-lighting": { "name": "Illuminations de fête", "blurb": "Rideaux lumineux de Noël, décorations de fenêtre animées, lumières connectées et idées pour le balcon." }
+    "holiday-lighting": {
+      "name": "Illuminations de fête",
+      "blurb": "Rideaux lumineux de Noël, décorations de fenêtre animées, lumières connectées et idées pour le balcon."
+    }
   },
   "categoryTitle": "{name} : guides d'achat et avis",
   "categoryDescription": "{blurb} Des guides d'achat pratiques signés Noah Reviews.",
@@ -53,7 +81,9 @@
     "ctaTitle": "Lumalyn Smart Animated Balcony Lights",
     "ctaSpecs": "Rideau à pixels de 400 LED · 2 × 2 m (6 pieds 7 pouces) ou 3 × 3 m (9 pieds 10 pouces) · appli + télécommande · synchronisation musicale · minuteries · IP44 pour l'extérieur abrité.",
     "ctaButton": "Visiter lumalyn.store",
-    "readIn": "Également disponible en"
+    "readIn": "Également disponible en",
+    "howMadeTitle": "Comment nous avons réalisé ce guide",
+    "howMade": "Nous avons étudié les caractéristiques du fabricant, les consignes de sécurité et les sources citées sur cette page, rédigé le guide avec l'aide d'outils d'écriture par IA, puis vérifié chaque affirmation sur le produit auprès de la fiche du fabricant avant publication. Une erreur ? Signalez-la-nous et nous la corrigerons."
   },
   "footer": {
     "categories": "Catégories",
@@ -68,5 +98,8 @@
     "contact": "Contact",
     "privacy": "Confidentialité"
   },
-  "chooser": { "title": "Choisissez votre langue", "intro": "Avis pratiques et guides d'achat pour la maison, les fêtes et le quotidien." }
+  "chooser": {
+    "title": "Choisissez votre langue",
+    "intro": "Avis pratiques et guides d'achat pour la maison, les fêtes et le quotidien."
+  }
 }

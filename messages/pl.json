@@ -1,7 +1,11 @@
 {
   "langName": "Polski",
   "skip": "Przejdź do treści",
-  "nav": { "howWeReview": "Jak oceniamy", "about": "O nas", "language": "Język" },
+  "nav": {
+    "howWeReview": "Jak oceniamy",
+    "about": "O nas",
+    "language": "Język"
+  },
   "tagline": "Praktyczne recenzje i poradniki zakupowe: dom, święta i produkty na co dzień",
   "siteDescription": "Noah Reviews publikuje praktyczne poradniki zakupowe i recenzje produktów do domu, na święta i na co dzień – z jasnymi informacjami o współpracy i poradami opartymi na źródłach.",
   "homeTitle": "Noah Reviews: poradniki zakupowe i recenzje produktów",
@@ -9,17 +13,38 @@
     "kicker": "Poradniki zakupowe i recenzje",
     "lede": "Porównujemy rodzaje produktów, wyjaśniamy, które parametry mają znaczenie, i wskazujemy zarówno ograniczenia, jak i mocne strony – żeby zakup był trafiony za pierwszym razem.",
     "trust": [
-      { "title": "Jasne informacje o współpracy", "text": "Linki partnerskie są oznaczone na każdej stronie." },
-      { "title": "Porady oparte na źródłach", "text": "Informacje o bezpieczeństwie i parametrach mają linki do źródeł." },
-      { "title": "Zawsze aktualne", "text": "Każdy poradnik pokazuje datę ostatniej weryfikacji." }
+      {
+        "title": "Jasne informacje o współpracy",
+        "text": "Linki partnerskie są oznaczone na każdej stronie."
+      },
+      {
+        "title": "Porady oparte na źródłach",
+        "text": "Informacje o bezpieczeństwie i parametrach mają linki do źródeł."
+      },
+      {
+        "title": "Zawsze aktualne",
+        "text": "Każdy poradnik pokazuje datę ostatniej weryfikacji."
+      }
     ],
     "latest": "Najnowsze poradniki",
     "whyTitle": "Dlaczego czytelnicy ufają Noah Reviews",
     "why": [
-      { "title": "Dla czytelników z USA, Wielkiej Brytanii i Europy", "text": "Wymiary podajemy w metrach i stopach, a do tego zwracamy uwagę na to, co różni się między regionami, np. typy wtyczek, zasilacze i odporność na warunki zewnętrzne." },
-      { "title": "Otwarcie o współpracy", "text": "Każdy poradnik z linkiem partnerskim informuje o tym, zanim zaczniesz czytać – zgodnie z zasadami FTC i unijnymi przepisami o ochronie konsumentów." },
-      { "title": "Ograniczenia, nie tylko zalety", "text": "Mówimy, czego produkt nie potrafi i kiedy tańsza lub prostsza opcja będzie lepszym wyborem." },
-      { "title": "Bez śledzenia", "text": "Bez plików cookie, bez sieci reklamowych, bez przymusowej rejestracji." }
+      {
+        "title": "Dla czytelników z USA, Wielkiej Brytanii i Europy",
+        "text": "Wymiary podajemy w metrach i stopach, a do tego zwracamy uwagę na to, co różni się między regionami, np. typy wtyczek, zasilacze i odporność na warunki zewnętrzne."
+      },
+      {
+        "title": "Otwarcie o współpracy",
+        "text": "Każdy poradnik z linkiem partnerskim informuje o tym, zanim zaczniesz czytać – zgodnie z zasadami FTC i unijnymi przepisami o ochronie konsumentów."
+      },
+      {
+        "title": "Ograniczenia, nie tylko zalety",
+        "text": "Mówimy, czego produkt nie potrafi i kiedy tańsza lub prostsza opcja będzie lepszym wyborem."
+      },
+      {
+        "title": "Bez śledzenia",
+        "text": "Bez plików cookie, bez sieci reklamowych, bez przymusowej rejestracji."
+      }
     ],
     "privacyLink": "Przeczytaj naszą politykę prywatności",
     "howLink": "Jak sprawdzamy i oceniamy produkty →",
@@ -27,7 +52,10 @@
     "guidesCount": "Poradniki: {n} →"
   },
   "categories": {
-    "holiday-lighting": { "name": "Oświetlenie świąteczne", "blurb": "Kurtyny świetlne, animowane dekoracje okien, inteligentne lampki i pomysły na balkon." }
+    "holiday-lighting": {
+      "name": "Oświetlenie świąteczne",
+      "blurb": "Kurtyny świetlne, animowane dekoracje okien, inteligentne lampki i pomysły na balkon."
+    }
   },
   "categoryTitle": "{name}: poradniki i recenzje",
   "categoryDescription": "{blurb} Praktyczne poradniki zakupowe od Noah Reviews.",
@@ -53,7 +81,9 @@
     "ctaTitle": "Lumalyn Smart Animated Balcony Lights",
     "ctaSpecs": "Pikselowa kurtyna z 400 diodami LED · 2 × 2 m (6 ft 7 in) lub 3 × 3 m (9 ft 10 in) · aplikacja + pilot · synchronizacja z muzyką · timery · IP44 do zadaszonych miejsc na zewnątrz.",
     "ctaButton": "Odwiedź lumalyn.store",
-    "readIn": "Dostępne także w innych językach:"
+    "readIn": "Dostępne także w innych językach:",
+    "howMadeTitle": "Jak powstał ten poradnik",
+    "howMade": "Przeanalizowaliśmy specyfikację producenta, zalecenia bezpieczeństwa i źródła podane na tej stronie, przygotowaliśmy tekst z pomocą narzędzi do pisania opartych na AI, a przed publikacją sprawdziliśmy każdą informację o produkcie z kartą producenta. Widzisz błąd? Daj nam znać, a go poprawimy."
   },
   "footer": {
     "categories": "Kategorie",
@@ -68,5 +98,8 @@
     "contact": "Kontakt",
     "privacy": "Prywatność"
   },
-  "chooser": { "title": "Wybierz język", "intro": "Praktyczne recenzje i poradniki zakupowe: dom, święta i produkty na co dzień." }
+  "chooser": {
+    "title": "Wybierz język",
+    "intro": "Praktyczne recenzje i poradniki zakupowe: dom, święta i produkty na co dzień."
+  }
 }

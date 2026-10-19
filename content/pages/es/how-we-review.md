@@ -23,6 +23,10 @@ Los enlaces de socios se indican al principio de cada guía y se marcan como pat
 
 Cada guía muestra la fecha de su última revisión. Actualizamos las guías cuando cambian los productos, los precios o los consejos.
 
+## Uso de la IA
+
+Usamos herramientas de escritura con IA para ayudar a redactar y traducir las guías. Solo publicamos una guía después de comprobar sus datos del producto con la ficha del fabricante y sus indicaciones técnicas y de seguridad con las fuentes citadas.
+
 ## Correcciones
 
 ¿Has visto un error? [Cuéntanoslo]({{page:contact}}): lo comprobaremos y corregiremos la guía.

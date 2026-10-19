@@ -23,6 +23,10 @@ As ligações de parceiros são indicadas no topo de cada guia e assinaladas com
 
 Cada guia mostra a data da última revisão. Atualizamos os guias quando os produtos, os preços ou os conselhos mudam.
 
+## Utilização de IA
+
+Utilizamos ferramentas de escrita com IA para ajudar a redigir e traduzir os guias. Um guia só é publicado depois de as informações sobre o produto serem confirmadas com a ficha do fabricante e as indicações técnicas e de segurança com as fontes citadas.
+
 ## Correções
 
 Encontrou um erro? [Diga-nos]({{page:contact}}) e vamos verificá-lo e corrigir o guia.

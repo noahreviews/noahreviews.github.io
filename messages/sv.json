@@ -1,7 +1,11 @@
 {
   "langName": "Svenska",
   "skip": "Hoppa till innehållet",
-  "nav": { "howWeReview": "Så granskar vi", "about": "Om oss", "language": "Språk" },
+  "nav": {
+    "howWeReview": "Så granskar vi",
+    "about": "Om oss",
+    "language": "Språk"
+  },
   "tagline": "Praktiska tester och köpguider för hem, högtider och vardag",
   "siteDescription": "Noah Reviews publicerar praktiska köpguider och produkttester för hem, högtider och vardag, med tydlig redovisning av samarbeten och råd med källor.",
   "homeTitle": "Noah Reviews: köpguider och produkttester",
@@ -9,17 +13,38 @@
     "kicker": "Köpguider och tester",
     "lede": "Vi jämför produkttyper, förklarar specifikationerna som spelar roll och visar begränsningarna lika väl som styrkorna, så att du kan köpa rätt från början.",
     "trust": [
-      { "title": "Tydlig redovisning", "text": "Partnerlänkar är märkta på varje sida." },
-      { "title": "Råd med källor", "text": "Påståenden om säkerhet och specifikationer länkar till sina källor." },
-      { "title": "Hålls aktuella", "text": "Varje guide visar när den senast granskades." }
+      {
+        "title": "Tydlig redovisning",
+        "text": "Partnerlänkar är märkta på varje sida."
+      },
+      {
+        "title": "Råd med källor",
+        "text": "Påståenden om säkerhet och specifikationer länkar till sina källor."
+      },
+      {
+        "title": "Hålls aktuella",
+        "text": "Varje guide visar när den senast granskades."
+      }
     ],
     "latest": "Senaste guiderna",
     "whyTitle": "Därför litar läsarna på Noah Reviews",
     "why": [
-      { "title": "Skrivet för USA, Storbritannien och Europa", "text": "Mått anges i både meter och fot, och vi lyfter fram det som skiljer sig mellan regioner, som kontakttyper, strömadaptrar och klassning för utomhusbruk." },
-      { "title": "Öppna med samarbeten", "text": "Varje guide som länkar till en partner säger det innan du börjar läsa, i linje med FTC:s och EU:s konsumentskyddsregler." },
-      { "title": "Begränsningar, inte bara höjdpunkter", "text": "Vi berättar vad en produkt inte klarar och när ett billigare eller enklare alternativ är det bättre köpet." },
-      { "title": "Ingen spårning", "text": "Inga cookies, inga annonsnätverk, inga registreringsväggar." }
+      {
+        "title": "Skrivet för USA, Storbritannien och Europa",
+        "text": "Mått anges i både meter och fot, och vi lyfter fram det som skiljer sig mellan regioner, som kontakttyper, strömadaptrar och klassning för utomhusbruk."
+      },
+      {
+        "title": "Öppna med samarbeten",
+        "text": "Varje guide som länkar till en partner säger det innan du börjar läsa, i linje med FTC:s och EU:s konsumentskyddsregler."
+      },
+      {
+        "title": "Begränsningar, inte bara höjdpunkter",
+        "text": "Vi berättar vad en produkt inte klarar och när ett billigare eller enklare alternativ är det bättre köpet."
+      },
+      {
+        "title": "Ingen spårning",
+        "text": "Inga cookies, inga annonsnätverk, inga registreringsväggar."
+      }
     ],
     "privacyLink": "Läs vår integritetspolicy",
     "howLink": "Så researchar och granskar vi →",
@@ -27,7 +52,10 @@
     "guidesCount": "{n} guider →"
   },
   "categories": {
-    "holiday-lighting": { "name": "Julbelysning", "blurb": "Ljusgardiner, animerade fönsterdekorationer, smart belysning och idéer för balkongen." }
+    "holiday-lighting": {
+      "name": "Julbelysning",
+      "blurb": "Ljusgardiner, animerade fönsterdekorationer, smart belysning och idéer för balkongen."
+    }
   },
   "categoryTitle": "{name}: guider och tester",
   "categoryDescription": "{blurb} Praktiska köpguider från Noah Reviews.",
@@ -53,7 +81,9 @@
     "ctaTitle": "Lumalyn Smart Animated Balcony Lights",
     "ctaSpecs": "Pixelgardin med 400 LED · 2 × 2 m (6 ft 7 in) eller 3 × 3 m (9 ft 10 in) · app + fjärrkontroll · musiksynk · timer · IP44 för platser utomhus under tak.",
     "ctaButton": "Besök lumalyn.store",
-    "readIn": "Finns även på"
+    "readIn": "Finns även på",
+    "howMadeTitle": "Så har vi tagit fram guiden",
+    "howMade": "Vi har gått igenom tillverkarens specifikationer, säkerhetsråd och källorna på den här sidan, skrivit guiden med hjälp av AI-baserade skrivverktyg och kontrollerat varje produktuppgift mot tillverkarens produktsida före publicering. Hittar du ett fel? Säg till så rättar vi det."
   },
   "footer": {
     "categories": "Kategorier",
@@ -68,5 +98,8 @@
     "contact": "Kontakt",
     "privacy": "Integritet"
   },
-  "chooser": { "title": "Välj språk", "intro": "Praktiska tester och köpguider för hem, högtider och vardag." }
+  "chooser": {
+    "title": "Välj språk",
+    "intro": "Praktiska tester och köpguider för hem, högtider och vardag."
+  }
 }

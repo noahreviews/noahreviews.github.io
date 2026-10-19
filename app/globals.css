@@ -175,3 +175,6 @@ code { font-size: .9em; background: var(--tint); padding: 1px 5px; border-radius
 .lang-grid { list-style: none; padding: 0; margin: 32px auto 0; max-width: 640px; display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 12px; }
 .lang-grid a { display: flex; align-items: center; gap: 12px; padding: 14px 16px; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; text-decoration: none; color: var(--ink); font-weight: 600; box-shadow: var(--shadow); }
 .lang-grid a:hover { border-color: var(--gold-ink); }
+
+.how-made { margin-top: 28px; }
+.how-made p { margin: 0; font-size: 15px; line-height: 1.6; color: var(--muted); }
