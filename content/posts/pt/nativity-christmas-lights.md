@@ -2,6 +2,7 @@
 slug: "presepio-luminoso"
 title: "Presépio luminoso: ideias de luzes de Natal cristãs para janelas e varandas"
 keyword: "presépio luminoso"
+updated: "2026-10-20"
 date: "2026-10-15"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-1-hero.jpg?width=1200"
 imageAlt: "Cortina LED pixel numa varanda a mostrar um presépio sob a Estrela de Belém"
@@ -47,6 +48,16 @@ Textos curtos leem-se melhor da rua:
 ## Uma nota sobre a opção pixel
 
 Somos afiliados da Lumalyn, por isso eis a nossa opinião honesta. A [cortina Lumalyn]({{store#christian}}) tem um modo de desenho livre, que é a forma de pôr nela um presépio, um anjo, uma estrela ou uma mensagem de fé. A biblioteca incluída tem sobretudo cenas natalícias genéricas, por isso os desenhos cristãos são algo que cria (ou copia de uma imagem) na app, e não algo que se escolhe com um só toque. É uma cortina de 400 LEDs em 2 × 2 m ou 3 × 3 m, com classificação IP44 para locais exteriores cobertos.
+
+## Como criar um presépio luminoso numa cortina pixel
+
+Se as suas luzes têm um modo de desenho livre, um desenho simples é o que resulta melhor numa grelha de baixa resolução:
+
+1. **Comece por uma silhueta.** O telhado de um estábulo, duas figuras ajoelhadas e uma manjedoura leem-se bem da rua.
+2. **Use poucas cores.** Branco quente, dourado e um azul profundo costumam chegar.
+3. **Acrescente a estrela no fim.** Uma estrela dourada e brilhante por cima do estábulo é o elemento mais reconhecível ao longe.
+4. **Veja-o do lado de fora.** Vá até à rua e olhe antes de guardar o desenho; ajuste o que parecer desfocado.
+5. **Guarde uma versão calma e outra festiva**, por exemplo uma cena fixa para o fim da noite e uma estrela a cintilar para o início da noite.
 
 ## Com respeito
 

@@ -2,6 +2,7 @@
 slug: "lichtgordijn-kerst"
 title: "Lichtgordijn kerst: zo kies je het juiste voor je raam, binnen en buiten"
 keyword: "lichtgordijn kerst"
+updated: "2026-10-20"
 date: "2026-10-20"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-v2-1-hero.jpg?width=1200"
 imageAlt: "Led-lichtgordijn op een balkon dat 's avonds een bewegende kerstscène toont"
@@ -63,6 +64,29 @@ Meer ideeën voor je ramen vind je in onze gids over [kerstverlichting voor het 
 2. Laat de strengen recht naar beneden hangen. Trek ze niet strak, anders vervormt het beeld van een bewegend gordijn.
 3. Hang de lampjes dicht tegen het glas. Hoe dichterbij, hoe minder weerspiegeling je binnen ziet.
 4. Verstop de controller op de vensterbank en leid de kabel naar een stopcontact.
+
+## Lichtgordijn kerst kopen: checklist
+
+Loop deze punten na in de productomschrijving voordat je bestelt:
+
+1. **Breedte en hoogte** passen bij het raam, de deur of het balkonhek dat je wilt bedekken.
+2. **Type leds**: gewoon (één kleur tegelijk) of adresseerbare pixels (afbeeldingen en tekst).
+3. **Waterdichtheid**: IP44 voor overdekte plekken, IP65 of hoger voor directe regen.
+4. **Stroom**: USB of stopcontact, en of de stekker of adapter die je nodig hebt in de doos zit.
+5. **Bediening**: afstandsbediening, app of allebei, en of de app een timer heeft.
+6. **Kabellengte** van de controller tot het dichtstbijzijnde stopcontact.
+7. **Retourbeleid en garantie**, voor het geval de maat toch niet klopt.
+
+## Veelgemaakte fouten om te vermijden
+
+- **De grootste maat kopen.** Een te breed gordijn hangt in plooien en dan vervormt het beeld.
+- **Het ver van het glas ophangen.** Dan verlicht je vooral je eigen kamer en krijg je weerspiegelingen.
+- **De adapter vergeten.** Veel USB-sets worden alleen met een kabel geleverd.
+- **De controller in de regen laten liggen.** De strengen kunnen spatwaterdicht zijn terwijl het kastje van de controller dat niet is.
+
+## Je lichtgordijn opbergen na kerst
+
+Leg het gordijn plat neer, vouw de strengen in één richting samen en rol de bundel om een stuk karton voordat hij terug in de doos gaat. Bewaar de controller en de afstandsbediening in een apart zakje. Zo raken de strengen niet in de knoop en kun je de set volgend jaar meteen weer ophangen.
 
 ## Onze keuze voor een bewegend lichtgordijn
 

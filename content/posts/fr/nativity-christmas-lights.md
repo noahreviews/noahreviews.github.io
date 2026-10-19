@@ -2,6 +2,7 @@
 slug: "creche-de-noel-lumineuse"
 title: "Crèche de Noël lumineuse : idées d'illuminations chrétiennes pour fenêtres et balcons"
 keyword: "crèche de noël lumineuse"
+updated: "2026-10-20"
 date: "2026-10-15"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-1-hero.jpg?width=1200"
 imageAlt: "Rideau LED à pixels sur un balcon affichant une crèche sous l'étoile de Bethléem"
@@ -47,6 +48,16 @@ Un texte court se lit mieux depuis la rue :
 ## Un mot sur l'option à pixels
 
 Nous sommes affiliés à Lumalyn, alors voici notre avis en toute franchise. Le [rideau Lumalyn]({{store#christian}}) dispose d'un mode dessin : c'est ce qui vous permet d'y afficher une crèche, un ange, une étoile ou un message de foi. Sa bibliothèque intégrée propose surtout des scènes de fêtes généralistes : les motifs chrétiens sont donc à créer vous-même dans l'appli (ou à reproduire à partir d'une image), et non à sélectionner d'un simple geste. Il s'agit d'un rideau de 400 LED en 2 × 2 m ou 3 × 3 m, classé IP44 pour les emplacements extérieurs couverts.
+
+## Créer une crèche de Noël lumineuse sur un rideau à pixels
+
+Si vos lumières disposent d'un mode dessin, un motif simple rend mieux sur une grille basse résolution :
+
+1. **Commencez par une silhouette.** Un toit d'étable, deux personnages agenouillés et une mangeoire se lisent clairement depuis la rue.
+2. **Limitez les couleurs.** Du blanc chaud, du doré et un bleu profond suffisent généralement.
+3. **Ajoutez l'étoile en dernier.** Une étoile dorée bien lumineuse au-dessus de l'étable est l'élément le plus reconnaissable de loin.
+4. **Vérifiez le rendu depuis l'extérieur.** Sortez dans la rue et regardez avant d'enregistrer le motif ; corrigez tout ce qui paraît flou.
+5. **Enregistrez une version paisible et une version festive**, par exemple une scène fixe pour la fin de soirée et une étoile scintillante pour le début de soirée.
 
 ## Rester dans le respect
 

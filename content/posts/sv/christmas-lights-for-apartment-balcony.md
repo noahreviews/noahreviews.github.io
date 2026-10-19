@@ -2,6 +2,7 @@
 slug: "julbelysning-balkong"
 title: "Julbelysning balkong: 9 idéer för lägenheten och så hänger du upp ljusen"
 keyword: "julbelysning balkong"
+updated: "2026-10-20"
 date: "2026-10-18"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-s1-hang.jpg?width=1200"
 imageAlt: "Kvinna som fäster en LED-ljusgardin på ett svart balkongräcke i skymningen"
@@ -41,6 +42,19 @@ Du behöver inga verktyg:
 - **Dra kabeln genom dörrens tätningslist** eller en springa vid fönstret i stället för att klämma den hårt i dörren.
 
 Kolla också reglerna i ditt hus. Vissa fastigheter begränsar vad som får hänga på räckets utsida.
+
+## Mät balkongen först
+
+Mät längden på räcket du vill lysa upp och höjden från räckets överkant ner till balkonggolvet. En ljusgardin ser bäst ut när den hänger rakt och täcker större delen av räcket, så välj den storlek som ligger närmast måtten snarare än den största. Notera också var närmaste uttag inomhus sitter och hur långt kabeln måste dras.
+
+## Säkerhetschecklista för julbelysning på balkongen
+
+- **Använd belysning avsedd för utomhusbruk** (IP44 eller högre för balkonger under tak).
+- **Håll kontakter, adaptrar och styrenheter torra**, helst inomhus eller under balkongtaket.
+- **Kläm inte kablar hårt i en dörr eller ett fönster.** Dra dem försiktigt genom tätningslisten eller använd en platt kabel.
+- **Använd förlängningssladdar avsedda för utomhusbruk** om kabeln inte räcker.
+- **Använd ett skyddat uttag för nätdriven belysning utomhus**: ett GFCI-uttag i USA eller en krets skyddad av jordfelsbrytare i Storbritannien och Europa.
+- **Släck belysningen när du är borta länge**, eller använd en timer.
 
 ## Bästa julbelysningen för en balkong i lägenhet
 

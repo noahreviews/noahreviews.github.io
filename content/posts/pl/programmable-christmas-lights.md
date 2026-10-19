@@ -2,6 +2,7 @@
 slug: "inteligentne-lampki-choinkowe"
 title: "Inteligentne lampki choinkowe i programowalne LED: poradnik bez technicznego żargonu"
 keyword: "inteligentne lampki choinkowe"
+updated: "2026-10-20"
 date: "2026-10-17"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-s2-app.jpg?width=1200"
 imageAlt: "Mężczyzna na kanapie steruje z aplikacji w telefonie tęczową kurtyną świetlną na balkonie"
@@ -49,6 +50,25 @@ Na zewnątrz, zanim zaczniesz porównywać funkcje aplikacji, sprawdź trzy rzec
 Programowalna kurtyna to najłatwiejszy domowy wyświetlacz pikselowy: nie trzeba budować stelaża ani uczyć się oprogramowania. Powieś ją w oknie albo na balustradzie i wybieraj wzory w aplikacji.
 
 Jesteśmy partnerem afiliacyjnym marki Lumalyn, więc oceniaj naszą opinię z tą świadomością. Jej [programowalna kurtyna balkonowa]({{store}}) to siatka 400 diod LED (2 × 2 m lub 3 × 3 m) z ponad 100 wbudowanymi scenami, trybem rysowania własnych obrazków i napisów, synchronizacją z muzyką, timerami i pilotem. Łączy się przez Bluetooth, więc sterujesz nią z pokoju, a nie z biura.
+
+## Inteligentne lampki choinkowe: słowniczek pojęć
+
+| Pojęcie | Co oznacza |
+|---|---|
+| RGB | Każda dioda może mieszać czerwony, zielony i niebieski, żeby pokazać prawie dowolny kolor. |
+| Adresowalne / pikselowe | Każdą diodę można ustawić osobno, więc lampki mogą pokazywać kształty i napisy. |
+| Sterownik | Małe pudełko, które przechowuje efekty i wysyła dane do diod LED. |
+| Bluetooth | Sterowanie z telefonu z bliskiej odległości: w tym samym pokoju lub w pobliżu. |
+| Wi-Fi | Sterowanie z dowolnego miejsca, o ile lampki mają zasięg. |
+| Klasa IP | Jak dobrze lampki są chronione przed pyłem i wodą (IP44 = odporność na bryzgi wody). |
+| Synchronizacja z muzyką | Tryb, w którym lampki reagują na dźwięk z mikrofonu lub aplikacji. |
+
+## Co może pójść nie tak z inteligentnymi lampkami
+
+- **Aplikacja przestaje być aktualizowana.** Przed zakupem sprawdź w sklepie z aplikacjami na telefonie, czy aplikacja jest aktualna.
+- **Problemy z zasięgiem.** Lampki Bluetooth na balkonie mogą nie reagować, gdy jesteś w głębi mieszkania.
+- **Za dużo aplikacji.** Lampki różnych marek zwykle wymagają osobnych aplikacji i nie współpracują ze sobą.
+- **Przerwa w dostawie prądu resetuje niektóre sterowniki.** Wbudowany timer, który przetrwa zanik zasilania, to plus.
 
 ## Które lampki wybrać?
 

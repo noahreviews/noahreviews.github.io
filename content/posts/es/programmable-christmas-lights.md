@@ -2,6 +2,7 @@
 slug: "luces-de-navidad-inteligentes"
 title: "Luces de Navidad inteligentes y programables: guía clara y sin tecnicismos"
 keyword: "luces de navidad inteligentes"
+updated: "2026-10-20"
 date: "2026-10-17"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-s2-app.jpg?width=1200"
 imageAlt: "Hombre en un sofá controlando con una app del móvil una cortina de luces arcoíris en su balcón"
@@ -49,6 +50,25 @@ En exterior, revisa tres cosas antes que las funciones de la app:
 Una cortina programable es la pantalla de píxeles más sencilla para casa: no hay que montar ningún bastidor ni aprender ningún software. Cuélgala en una ventana o en una barandilla y elige diseños en la app.
 
 Tenemos un acuerdo de afiliación con Lumalyn, así que valora nuestra opinión en consecuencia. Su [cortina programable para balcón]({{store}}) es una cuadrícula de 400 LED (2 × 2 m o 3 × 3 m) con más de 100 escenas integradas, un modo para dibujar tus propias imágenes y textos, sincronización con la música, temporizadores y mando a distancia. Se conecta por Bluetooth, así que la controlas desde la habitación, no desde la oficina.
+
+## Glosario de luces de Navidad inteligentes
+
+| Término | Qué significa |
+|---|---|
+| RGB | Cada LED puede mezclar rojo, verde y azul para mostrar casi cualquier color. |
+| Direccionable / píxel | Cada LED se puede ajustar por separado, así que las luces pueden mostrar formas y texto. |
+| Controlador | La cajita que guarda los efectos y envía los datos a los LED. |
+| Bluetooth | Control de corto alcance desde un móvil que está en la misma habitación o cerca. |
+| Wifi | Control desde cualquier sitio, siempre que las luces tengan cobertura. |
+| Grado IP | Lo bien que resisten las luces el polvo y el agua (IP44 = resistentes a salpicaduras). |
+| Sincronización con música | Un modo en el que las luces reaccionan al sonido que les llega a través de un micrófono o de la app. |
+
+## Qué puede fallar con las luces inteligentes
+
+- **La app deja de actualizarse.** Antes de comprar, comprueba en la tienda de aplicaciones de tu móvil que la app esté al día.
+- **Problemas de alcance.** Puede que unas luces Bluetooth en el balcón no respondan desde el fondo del piso.
+- **Demasiadas apps.** Las luces de marcas distintas suelen necesitar apps diferentes y no funcionan juntas.
+- **Los cortes de luz reinician algunos controladores.** Un temporizador integrado que no se pierda con un corte de luz es un punto a favor.
 
 ## ¿Cuál deberías comprar?
 

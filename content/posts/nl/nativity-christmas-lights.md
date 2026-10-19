@@ -2,6 +2,7 @@
 slug: "kerststal-verlichting"
 title: "Kerststal verlichting: christelijke lichtideeën voor raam en balkon"
 keyword: "kerststal verlichting"
+updated: "2026-10-20"
 date: "2026-10-15"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-1-hero.jpg?width=1200"
 imageAlt: "Pixelgordijn van leds op een balkon met een kerststal onder de ster van Bethlehem"
@@ -47,6 +48,16 @@ Korte tekst is vanaf de straat het best te lezen:
 ## Even over de pixeloptie
 
 We hebben een affiliate-samenwerking met Lumalyn, dus hier is onze eerlijke mening. Het [Lumalyn-gordijn]({{store#christian}}) heeft een tekenmodus, en daarmee zet je er een kerststal, een engel, een ster of een geloofstekst op. De ingebouwde bibliotheek bestaat vooral uit algemene kerstscènes, dus christelijke ontwerpen maak je zelf in de app (of neem je over van een afbeelding) in plaats van ze met één tik te kiezen. Het is een gordijn met 400 leds in 2 × 2 m of 3 × 3 m, met IP44 voor overdekte plekken buiten.
+
+## Zo ontwerp je kerststal verlichting op een pixelgordijn
+
+Heeft je verlichting een tekenmodus, dan werkt een eenvoudig ontwerp het best op een raster met lage resolutie:
+
+1. **Begin met een silhouet.** Een staldak, twee knielende figuren en een kribbe zijn vanaf de straat goed te herkennen.
+2. **Gebruik weinig kleuren.** Warmwit, goud en één diepblauw zijn meestal genoeg.
+3. **Voeg de ster als laatste toe.** Een felle gouden ster boven de stal is van ver het herkenbaarste element.
+4. **Bekijk het van buitenaf.** Loop naar de straat en kijk voordat je het ontwerp opslaat; pas alles aan wat wazig oogt.
+5. **Sla een rustige en een feestelijke versie op**, bijvoorbeeld een stilstaand tafereel voor laat op de avond en een twinkelende ster voor de vroege avond.
 
 ## Houd het respectvol
 

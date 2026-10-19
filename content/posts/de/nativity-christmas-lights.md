@@ -2,6 +2,7 @@
 slug: "krippe-beleuchtung"
 title: "Krippe Beleuchtung: Christliche Lichterideen für Fenster und Balkon"
 keyword: "krippe beleuchtung"
+updated: "2026-10-20"
 date: "2026-10-15"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-1-hero.jpg?width=1200"
 imageAlt: "Pixel-LED-Vorhang auf einem Balkon zeigt eine Krippenszene unter dem Stern von Bethlehem"
@@ -47,6 +48,16 @@ Kurze Texte sind von der Straße aus am besten lesbar:
 ## Ein Wort zur Pixel-Variante
 
 Wir sind Affiliate-Partner von Lumalyn, deshalb hier unsere ehrliche Einschätzung. Der [Lumalyn-Vorhang]({{store#christian}}) hat einen Zeichenmodus – damit bringst du eine Krippe, einen Engel, einen Stern oder eine Glaubensbotschaft auf den Vorhang. Die integrierte Bibliothek enthält vor allem allgemeine Weihnachtsszenen. Christliche Motive gestaltest du also selbst in der App (oder zeichnest sie von einem Bild ab), statt sie mit einem Fingertipp auszuwählen. Es handelt sich um einen Vorhang mit 400 LEDs in 2 × 2 m oder 3 × 3 m, nach IP44 geschützt für überdachte Plätze im Freien.
+
+## So gestaltest du ein Krippenmotiv auf einem Pixel-Vorhang
+
+Wenn deine Lichter einen Zeichenmodus haben, funktioniert auf einem Raster mit niedriger Auflösung ein schlichtes Motiv am besten:
+
+1. **Fang mit einer Silhouette an.** Ein Stalldach, zwei kniende Figuren und eine Futterkrippe sind von der Straße aus klar zu erkennen.
+2. **Nimm wenige Farben.** Warmweiß, Gold und ein tiefes Blau reichen meistens.
+3. **Setz den Stern zuletzt.** Ein heller goldener Stern über dem Stall ist aus der Ferne das Element, das man am leichtesten erkennt.
+4. **Prüf es von draußen.** Geh auf die Straße und schau es dir an, bevor du das Motiv speicherst; korrigiere alles, was verschwommen wirkt.
+5. **Speichere eine ruhige und eine festliche Version**, zum Beispiel ein Standbild für den späten Abend und einen funkelnden Stern für den frühen Abend.
 
 ## Mit Respekt gestalten
 

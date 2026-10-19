@@ -2,6 +2,7 @@
 slug: "cortina-de-luces-navidad"
 title: "Cortina de luces Navidad: cómo elegirla para ventanas, interior y exterior"
 keyword: "cortina de luces navidad"
+updated: "2026-10-20"
 date: "2026-10-20"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-v2-1-hero.jpg?width=1200"
 imageAlt: "Cortina LED en un balcón mostrando una escena navideña animada por la noche"
@@ -63,6 +64,29 @@ Si quieres más ideas para ventanas, consulta nuestra guía de [luces de Navidad
 2. Deja caer las tiras rectas. No las estires o, en una cortina animada, la imagen se deformará.
 3. Acerca las luces al cristal. Cuanto más cerca estén, menos reflejos tendrás dentro de la habitación.
 4. Esconde el controlador en el alféizar y lleva el cable hasta un enchufe.
+
+## Cortina de luces Navidad: qué revisar antes de comprarla
+
+Antes de hacer el pedido, comprueba estos puntos en la ficha del producto:
+
+1. **Ancho y alto** adecuados a la ventana, la puerta o la barandilla que quieres cubrir.
+2. **Tipo de LED**: lisos (un solo color a la vez) o píxeles direccionables (imágenes y texto).
+3. **Protección contra el agua**: IP44 para zonas cubiertas; IP65 o superior para lluvia directa.
+4. **Alimentación**: USB o red eléctrica, y si el enchufe o el adaptador que necesitas viene en la caja.
+5. **Control**: mando, app o ambos, y si la app tiene temporizador.
+6. **Longitud del cable** desde el controlador hasta el enchufe más cercano.
+7. **Devoluciones y garantía**, por si el tamaño resulta no ser el adecuado.
+
+## Errores habituales que conviene evitar
+
+- **Comprar el tamaño más grande.** Una cortina demasiado ancha se arruga y la imagen se deforma.
+- **Colgarla lejos del cristal.** Acabas iluminando sobre todo tu propia habitación y aparecen reflejos.
+- **Olvidarte del adaptador.** Muchos juegos USB vienen solo con el cable.
+- **Dejar el controlador bajo la lluvia.** Puede que las tiras resistan las salpicaduras y que la caja del controlador no.
+
+## Cómo guardar la cortina de luces después de Navidad
+
+Extiende la cortina sobre una superficie plana, pliega las tiras juntas en un mismo sentido y enrolla el conjunto alrededor de un trozo de cartón antes de volver a meterlo en la caja. Guarda el controlador y el mando en una bolsa aparte. Guardadas así, las tiras no se enredan y el juego queda listo para colgarlo de nuevo el año que viene.
 
 ## Nuestra elección para una cortina animada
 

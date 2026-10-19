@@ -2,6 +2,7 @@
 slug: "kerstverlichting-raam"
 title: "Kerstverlichting raam: ideeën voor binnen die vanaf de straat opvallen"
 keyword: "kerstverlichting raam"
+updated: "2026-10-20"
 date: "2026-10-14"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-s3-show.jpg?width=1200"
 imageAlt: "Mensen in een besneeuwde straat kijken omhoog naar een balkon met een stralende sneeuwpop van licht"
@@ -32,11 +33,29 @@ Je kerstverlichting raam voor raam aan de binnenkant ophangen is de makkelijkste
 - **Kies de juiste helderheid.** Te fel geeft schittering en weerspiegeling; zo'n 50 tot 70% helderheid ziet er 's avonds meestal het mooist uit.
 - **Denk aan de kijkhoek.** Bij ramen op een verdieping kijken mensen omhoog, dus zet het display in het midden van de onderste helft van het raam.
 
+## Veelgemaakte fouten met raamverlichting
+
+- **Lampjes te ver van het glas.** Van buitenaf oogt het display dan flauw, en het verlicht vooral je kamer.
+- **Een felle lamp achter het display.** Daardoor verbleekt het beeld; zet de lamp uit of doe de gordijnen achter de verlichting dicht.
+- **Volle helderheid in het donker.** Dat geeft schittering en weerspiegeling; zet de helderheid 's avonds lager.
+- **Het raam blokkeren dat je open moet kunnen doen.** Houd één raam vrij om te ventileren, of gebruik verlichting die je aan het kozijn klemt en er zo weer af haalt.
+
 ## Stroom en veiligheid binnen
 
 - Verlichting op USB (5 V) is binnen het simpelst en blijft koel.
 - Houd snoeren uit de buurt van radiatoren en van gordijnen bij warmtebronnen.
 - Gebruik een timer, zodat het display alleen 's avonds aan staat.
+
+## Meet je raam op
+
+Meet de binnenbreedte van het kozijn en de hoogte van de bovenkant van het kozijn tot de vensterbank. Kies bij een lichtgordijn een maat die dicht bij die breedte ligt, zodat de strengen recht hangen. Voor één vorm, zoals een ster, ziet een formaat van ongeveer een derde van de raambreedte er vanaf de straat evenwichtig uit.
+
+## Kerstverlichting raam: ideeën per kamer
+
+- **Woonkamer:** een lichtgordijn of een bewegend display, want dit is meestal het grootste raam aan de straatkant.
+- **Slaapkamer:** een zachte warmwitte ster of langzaam twinkelende lampjes; vermijd snelle animaties als je ze vanuit bed kunt zien.
+- **Keuken:** een eenvoudig silhouet of elektrische kaarsen op de vensterbank, uit de buurt van warmte en water.
+- **Kinderkamer:** verlichting op batterijen met een timer, en kabels buiten bereik.
 
 ## Onze keuze voor een bewegend raam
 

@@ -2,6 +2,7 @@
 slug: "szopka-swiecaca"
 title: "Szopka świecąca i chrześcijańskie dekoracje świetlne: pomysły na okno i balkon"
 keyword: "szopka świecąca"
+updated: "2026-10-20"
 date: "2026-10-15"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-1-hero.jpg?width=1200"
 imageAlt: "Pikselowa kurtyna LED na balkonie wyświetlająca szopkę pod Gwiazdą Betlejemską"
@@ -47,6 +48,16 @@ Z ulicy najlepiej czytają się krótkie teksty:
 ## Kilka słów o opcji pikselowej
 
 Jesteśmy partnerem afiliacyjnym marki Lumalyn, więc oto nasza szczera opinia. [Kurtyna Lumalyn]({{store#christian}}) ma tryb rysowania własnych wzorów – właśnie w ten sposób umieścisz na niej szopkę, anioła, gwiazdę albo religijny napis. Wbudowana biblioteka to głównie ogólne sceny świąteczne, więc chrześcijańskie wzory trzeba stworzyć samodzielnie w aplikacji (albo odwzorować z obrazka) – nie wybierzesz ich jednym dotknięciem. To kurtyna z 400 diodami LED w rozmiarze 2 × 2 m lub 3 × 3 m, z klasą IP44 do zadaszonych miejsc na zewnątrz.
+
+## Szopka świecąca na kurtynie pikselowej: jak stworzyć własny wzór
+
+Jeśli twoje lampki mają tryb rysowania własnych wzorów, na siatce o niskiej rozdzielczości najlepiej sprawdza się prosty projekt:
+
+1. **Zacznij od sylwetki.** Dach stajenki, dwie klęczące postacie i żłóbek są dobrze czytelne z ulicy.
+2. **Użyj niewielu kolorów.** Ciepła biel, złoto i jeden głęboki odcień niebieskiego zwykle wystarczą.
+3. **Gwiazdę dodaj na końcu.** Jasna złota gwiazda nad stajenką to element najłatwiej rozpoznawalny z daleka.
+4. **Sprawdź efekt z zewnątrz.** Zanim zapiszesz wzór, wyjdź na ulicę i popatrz; popraw wszystko, co wygląda na rozmyte.
+5. **Zapisz wersję spokojną i wersję odświętną**, np. nieruchomą scenę na późny wieczór i migoczącą gwiazdę na wczesny wieczór.
 
 ## Z należytym szacunkiem
 

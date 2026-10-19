@@ -2,6 +2,7 @@
 slug: "smart-julbelysning"
 title: "Smart julbelysning och programmerbara ljus: en guide på vanlig svenska"
 keyword: "smart julbelysning"
+updated: "2026-10-20"
 date: "2026-10-17"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-s2-app.jpg?width=1200"
 imageAlt: "Man i en soffa som styr regnbågsfärgade ljusgardiner på balkongen med en mobilapp"
@@ -49,6 +50,25 @@ Utomhus ska du kolla tre saker innan du tittar på appens funktioner:
 En programmerbar ljusgardin är den enklaste pixelskärmen för hemmet: ingen ram att bygga och ingen programvara att lära sig. Häng den i ett fönster eller på ett räcke och välj motiv i appen.
 
 Vi har ett samarbete med Lumalyn, så väg in det när du läser vår bedömning. Lumalyns [programmerbara balkonggardin]({{store}}) är ett rutnät med 400 LED (2 × 2 m eller 3 × 3 m) med 100+ inbyggda scener, ett ritläge för egna bilder och texter, musiksynk, timer och fjärrkontroll. Den ansluter via Bluetooth, så du styr den från rummet, inte från kontoret.
+
+## Smart julbelysning: begreppen förklarade
+
+| Begrepp | Vad det betyder |
+|---|---|
+| RGB | Varje LED kan blanda rött, grönt och blått och visa nästan vilken färg som helst. |
+| Adresserbar / pixel | Varje LED kan ställas in för sig, så att ljusen kan visa former och text. |
+| Styrenhet | Den lilla dosan som lagrar effekter och skickar data till lysdioderna. |
+| Bluetooth | Styrning på kort avstånd från en mobil i samma rum eller i närheten. |
+| Wifi | Styrning var du än är, så länge ljusen har signal. |
+| IP-klass | Hur väl ljusen tål damm och vatten (IP44 = stänkskyddad). |
+| Musiksynk | Ett läge där ljusen reagerar på ljud från en mikrofon eller appen. |
+
+## Det här kan gå fel med smarta ljus
+
+- **Appen slutar uppdateras.** Kolla i mobilens appbutik att appen är aktuell innan du köper.
+- **Problem med räckvidden.** Bluetooth-ljus på en balkong kanske inte svarar när du är längst in i lägenheten.
+- **För många appar.** Ljus från olika märken kräver oftast separata appar och fungerar inte tillsammans.
+- **Strömavbrott nollställer vissa styrenheter.** En inbyggd timer som klarar ett strömavbrott är ett plus.
 
 ## Vilken ska du köpa?
 

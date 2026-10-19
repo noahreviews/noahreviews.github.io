@@ -2,6 +2,7 @@
 slug: "bewegende-kerstverlichting"
 title: "Bewegende kerstverlichting voor raam en buiten: wat echt werkt"
 keyword: "bewegende kerstverlichting"
+updated: "2026-10-20"
 date: "2026-10-19"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-f1-designs.jpg?width=1200"
 imageAlt: "Pixelgordijn van leds met een bewegende kerstboom op het balkon van een appartement"
@@ -50,6 +51,23 @@ Check de weerbestendigheid van alles wat buiten hangt. IP44 is prima onder een b
 - **Een app met een ontwerpbibliotheek** en liefst een manier om zelf een ontwerp te tekenen of te typen.
 - **Een timer**, zodat je er nooit aan hoeft te denken om de verlichting aan te zetten.
 - **Een afstandsbediening**, voor gasten of kinderen die de app niet hebben.
+
+## Bewegende kerstverlichting en je buren
+
+Bewegend licht trekt de aandacht, en daar draait het ook om, maar met een paar gewoontes blijft iedereen tevreden:
+
+- **Stel een schema in.** De meeste mensen genieten in de vroege avond van een display; bijna niemand vindt knipperende lampjes om middernacht leuk.
+- **Zet de helderheid lager als het donker is.** Rond de halve helderheid is 's avonds meestal ruim genoeg.
+- **Kies laat op de avond rustigere scènes.** Langzaam vallende sneeuw of zacht twinkelen is prettiger om naast te wonen dan snel geflits.
+- **Check de lokale regels en die van je gebouw.** Sommige appartementsgebouwen en VvE's beperken buitenversiering of de uren waarop die aan mag staan.
+
+## Checklist voordat je koopt
+
+1. Bepaal waar het display komt: in het raam, aan het balkonhek of op de muur.
+2. Meet die plek op en kies de maat die er het dichtst bij ligt.
+3. Check de waterdichtheid als het display buiten komt.
+4. Zorg dat de app een timer heeft en een ontwerpbibliotheek die je mooi vindt.
+5. Ga na waarop het werkt en welke stekker of adapter je in jouw land nodig hebt.
 
 ## Onze keuze
 

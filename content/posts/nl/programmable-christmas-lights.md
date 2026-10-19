@@ -2,6 +2,7 @@
 slug: "slimme-kerstverlichting"
 title: "Slimme kerstverlichting en programmeerbare lampjes: een heldere uitleg"
 keyword: "slimme kerstverlichting"
+updated: "2026-10-20"
 date: "2026-10-17"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-s2-app.jpg?width=1200"
 imageAlt: "Man op de bank die met een app op zijn telefoon een lichtgordijn in regenboogkleuren op zijn balkon bedient"
@@ -49,6 +50,25 @@ Buiten check je drie dingen voordat je naar de functies van de app kijkt:
 Een programmeerbaar gordijn is het makkelijkste pixeldisplay voor thuis: geen frame om te bouwen en geen software om te leren. Hang het in een raam of aan een balkonhek en kies ontwerpen in de app.
 
 We hebben een affiliate-samenwerking met Lumalyn, dus weeg onze mening daarop af. Het [programmeerbare balkongordijn]({{store}}) van dit merk is een raster van 400 leds (2 × 2 m of 3 × 3 m) met 100+ ingebouwde scènes, een tekenmodus voor eigen afbeeldingen en tekst, muzieksynchronisatie, timers en een afstandsbediening. Het maakt verbinding via Bluetooth, dus je bedient het vanuit de kamer, niet vanaf kantoor.
+
+## Slimme kerstverlichting: de termen uitgelegd
+
+| Term | Wat het betekent |
+|---|---|
+| RGB | Elke led kan rood, groen en blauw mengen en zo bijna elke kleur tonen. |
+| Adresseerbaar / pixel | Elke led is apart in te stellen, zodat de verlichting vormen en tekst kan tonen. |
+| Controller | Het kastje dat de effecten opslaat en de gegevens naar de leds stuurt. |
+| Bluetooth | Bediening op korte afstand vanaf een telefoon in dezelfde kamer of vlakbij. |
+| Wifi | Bediening van overal, zolang de verlichting bereik heeft. |
+| IP-waarde | Hoe goed de verlichting bestand is tegen stof en water (IP44 = spatwaterdicht). |
+| Muzieksync | Een stand waarin de verlichting reageert op geluid via een microfoon of de app. |
+
+## Wat er mis kan gaan met slimme verlichting
+
+- **De app wordt niet meer bijgewerkt.** Kijk voordat je koopt in de appwinkel van je telefoon of de app nog actueel is.
+- **Problemen met het bereik.** Bluetooth-verlichting op een balkon reageert misschien niet als je achter in het appartement zit.
+- **Te veel apps.** Verlichting van verschillende merken heeft meestal elk een eigen app nodig en werkt niet samen.
+- **Bij een stroomstoring resetten sommige controllers.** Een ingebouwde timer die een stroomstoring overleeft, is een pluspunt.
 
 ## Wat moet je kopen?
 

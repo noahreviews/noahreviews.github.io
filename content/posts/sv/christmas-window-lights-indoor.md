@@ -2,6 +2,7 @@
 slug: "julbelysning-fonster"
 title: "Julbelysning fönster: idéer inomhus som syns snyggt från gatan"
 keyword: "julbelysning fönster"
+updated: "2026-10-20"
 date: "2026-10-14"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-s3-show.jpg?width=1200"
 imageAlt: "Människor på en snöig gata som tittar upp mot en balkong med en lysande snögubbe av ljus"
@@ -32,11 +33,29 @@ Att sätta upp julbelysning fönster för fönster, på insidan av glaset, är d
 - **Använd rätt ljusstyrka.** För starkt ger bländning och reflexer; omkring 50–70 % ljusstyrka ser oftast bäst ut på kvällen.
 - **Tänk på vinkeln.** Vid fönster på övervåningen tittar folk uppåt, så centrera motivet i fönstrets nedre halva.
 
+## Vanliga misstag med julbelysning i fönstret
+
+- **Ljusen sitter för långt från glaset.** Motivet ser svagt ut utifrån och lyser i stället upp rummet.
+- **En stark lampa bakom motivet.** Den bleker bilden; släck den eller dra för gardinerna bakom ljusen.
+- **Full ljusstyrka när det är mörkt.** Det ger bländning och reflexer; dra ner ljusstyrkan på kvällen.
+- **Ljusen blockerar fönstret du behöver öppna.** Lämna ett fönster fritt för vädring, eller använd ljus som fästs på karmen och går att lyfta bort.
+
 ## Ström och säkerhet inomhus
 
 - USB-drivna ljus (5 V) är enklast inomhus och förblir svala.
 - Håll sladdar borta från element och från gardiner nära värmekällor.
 - Använd en timer så att motivet bara är tänt på kvällen.
+
+## Mät fönstret
+
+Mät fönsterkarmens innerbredd och höjden från karmens överkant ner till fönsterbrädan. För en ljusgardin väljer du en storlek nära bredden så att slingorna hänger rakt. För en enskild form, till exempel en stjärna, ser en storlek på ungefär en tredjedel av fönstrets bredd balanserad ut från gatan.
+
+## Idéer för fönsterbelysning rum för rum
+
+- **Vardagsrum:** en ljusgardin eller ett animerat motiv, eftersom det oftast är det största fönstret mot gatan.
+- **Sovrum:** en mjuk varmvit stjärna eller ett långsamt glitter; undvik snabba animationer om du ser dem från sängen.
+- **Kök:** en enkel siluett eller elektriska ljusstakar på fönsterbrädan, borta från värme och vatten.
+- **Barnrum:** batteridrivna ljus med timer, och sladdar utom räckhåll.
 
 ## Vårt val för ett animerat fönster
 

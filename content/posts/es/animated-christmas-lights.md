@@ -2,6 +2,7 @@
 slug: "luces-de-navidad-animadas"
 title: "Luces de Navidad animadas para ventanas y exterior: lo que de verdad funciona"
 keyword: "luces de navidad animadas"
+updated: "2026-10-20"
 date: "2026-10-19"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-f1-designs.jpg?width=1200"
 imageAlt: "Cortina LED de píxeles mostrando un árbol de Navidad animado en el balcón de un piso"
@@ -50,6 +51,23 @@ Revisa la protección contra la intemperie de todo lo que pongas fuera. IP44 bas
 - **Una app con biblioteca de diseños** y, a ser posible, una forma de dibujar o escribir tus propios diseños.
 - **Un temporizador**, para no tener que acordarte nunca de encenderlas.
 - **Un mando a distancia**, para invitados o niños que no tienen la app.
+
+## Las luces de Navidad animadas y tus vecinos
+
+Las luces en movimiento llaman la atención, que es justo lo que se busca, pero unas pocas costumbres hacen que todo el mundo esté contento:
+
+- **Programa un horario.** A casi todo el mundo le gusta ver la decoración al caer la tarde; a muy poca gente le gustan las luces parpadeando a medianoche.
+- **Baja el brillo cuando anochezca.** Por la noche, más o menos la mitad del brillo suele ser más que suficiente.
+- **Elige escenas más tranquilas a última hora.** Una nevada lenta o un parpadeo suave se llevan mejor con quien vive al lado que unos destellos rápidos.
+- **Consulta las normas locales y las de tu edificio.** Algunos edificios de pisos y comunidades de propietarios limitan la decoración exterior o las horas en que puede estar encendida.
+
+## Lista de comprobación antes de comprar
+
+1. Decide dónde irá la decoración: en la ventana, en la barandilla del balcón o en una pared.
+2. Mide ese espacio y elige el tamaño más parecido.
+3. Revisa la protección contra el agua si va a estar en el exterior.
+4. Asegúrate de que la app tenga temporizador y una biblioteca de diseños que te guste.
+5. Confirma cómo se alimenta y qué enchufe o adaptador necesitas en tu país.
 
 ## Nuestra elección
 

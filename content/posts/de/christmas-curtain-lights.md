@@ -2,6 +2,7 @@
 slug: "lichtervorhang-weihnachten"
 title: "Lichtervorhang Weihnachten: So wählst du den richtigen für Fenster, drinnen und draußen"
 keyword: "lichtervorhang weihnachten"
+updated: "2026-10-20"
 date: "2026-10-20"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-v2-1-hero.jpg?width=1200"
 imageAlt: "LED-Lichtervorhang auf einem Balkon, der nachts eine animierte Weihnachtsszene zeigt"
@@ -63,6 +64,29 @@ Weitere Ideen fürs Fenster findest du in unserem Ratgeber zur [Fensterbeleuchtu
 2. Lass die Stränge gerade herabhängen. Zieh sie nicht straff, sonst verzerrt sich das Bild bei einem animierten Vorhang.
 3. Rück die Lichter nah an die Scheibe. Je näher sie hängen, desto weniger spiegelt es im Zimmer.
 4. Versteck den Controller auf der Fensterbank und führ das Kabel zu einer Steckdose.
+
+## Lichtervorhang Weihnachten: Checkliste für den Kauf
+
+Bevor du bestellst, prüf diese Punkte in der Produktbeschreibung:
+
+1. **Breite und Höhe** passen zu Fenster, Tür oder Geländer, die du abdecken willst.
+2. **LED-Typ**: schlicht (immer nur eine Farbe gleichzeitig) oder adressierbare Pixel (Bilder und Text).
+3. **Schutzart**: IP44 für überdachte Plätze, IP65 oder höher bei direktem Regen.
+4. **Stromversorgung**: USB oder Netzstecker – und ob der Stecker bzw. das Netzteil, das du brauchst, im Lieferumfang ist.
+5. **Steuerung**: Fernbedienung, App oder beides – und ob die App einen Timer hat.
+6. **Kabellänge** vom Controller bis zur nächsten Steckdose.
+7. **Rückgabe und Garantie**, falls sich die Größe als falsch herausstellt.
+
+## Häufige Fehler, die du vermeiden solltest
+
+- **Einfach das größte Modell kaufen.** Ein zu breiter Vorhang hängt zusammengeschoben, und das Bild verzerrt sich.
+- **Mit großem Abstand zur Scheibe aufhängen.** Dann beleuchtest du vor allem dein eigenes Zimmer und bekommst Spiegelungen.
+- **Das Netzteil vergessen.** Viele USB-Sets werden nur mit Kabel geliefert.
+- **Den Controller im Regen stehen lassen.** Die Stränge können spritzwassergeschützt sein, während die Controller-Box es nicht ist.
+
+## Lichtervorhang nach Weihnachten verstauen
+
+Leg den Vorhang flach hin, leg die Stränge in einer Richtung zusammen und wickle das Bündel um ein Stück Pappe, bevor es zurück in den Karton kommt. Bewahr Controller und Fernbedienung in einem separaten Beutel auf. So verheddern sich die Stränge nicht, und das Set ist im nächsten Jahr sofort wieder bereit zum Aufhängen.
 
 ## Unsere Empfehlung für einen animierten Lichtervorhang
 

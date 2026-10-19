@@ -2,6 +2,7 @@
 slug: "presepe-luminoso"
 title: "Presepe luminoso e luci di Natale cristiane: idee per finestre e balconi"
 keyword: "presepe luminoso"
+updated: "2026-10-20"
 date: "2026-10-15"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-1-hero.jpg?width=1200"
 imageAlt: "Tenda LED a pixel su un balcone che mostra un presepe sotto la stella di Betlemme"
@@ -47,6 +48,16 @@ Dalla strada si leggono meglio i testi brevi:
 ## Una nota sull'opzione a pixel
 
 Siamo affiliati di Lumalyn, quindi ecco la nostra opinione sincera. La [tenda Lumalyn]({{store#christian}}) ha una modalità per disegnare a mano libera, ed è così che ci metti un presepe, un angelo, una stella o un messaggio di fede. La sua libreria integrata comprende soprattutto scene natalizie generiche, quindi i disegni cristiani li crei tu nell'app (o li ricalchi da un'immagine) invece di sceglierli con un solo tocco. È una tenda da 400 LED in 2 × 2 m o 3 × 3 m, con grado IP44 per i punti all'aperto coperti.
+
+## Come creare un presepe luminoso su una tenda a pixel
+
+Se le tue luci hanno una modalità per disegnare a mano libera, su una griglia a bassa risoluzione rende meglio un disegno semplice:
+
+1. **Parti da una sagoma.** Il tetto di una capanna, due figure inginocchiate e una mangiatoia si riconoscono bene dalla strada.
+2. **Usa pochi colori.** Bianco caldo, oro e un solo blu intenso di solito bastano.
+3. **Aggiungi la stella per ultima.** Una stella dorata e luminosa sopra la capanna è l'elemento più riconoscibile da lontano.
+4. **Controlla il risultato da fuori.** Esci in strada e guarda il disegno prima di salvarlo; correggi tutto ciò che sembra sfocato.
+5. **Salva una versione sobria e una più festosa**, per esempio una scena fissa per la tarda serata e una stella scintillante per la prima serata.
 
 ## Un allestimento rispettoso
 

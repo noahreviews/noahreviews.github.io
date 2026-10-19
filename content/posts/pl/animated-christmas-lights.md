@@ -2,6 +2,7 @@
 slug: "kurtyna-led"
 title: "Animowana kurtyna LED a inne ruchome lampki świąteczne: co działa w oknie i na zewnątrz"
 keyword: "kurtyna led"
+updated: "2026-10-20"
 date: "2026-10-19"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-f1-designs.jpg?width=1200"
 imageAlt: "Pikselowa kurtyna LED z animowaną choinką na balkonie w bloku"
@@ -50,6 +51,23 @@ Sprawdź klasę szczelności wszystkiego, co wisi na zewnątrz. IP44 wystarczy p
 - **Aplikacja z biblioteką wzorów** i najlepiej możliwość narysowania lub wpisania własnego projektu.
 - **Timer**, żeby nie trzeba było pamiętać o włączaniu.
 - **Pilot** dla gości lub dzieci, które nie mają aplikacji.
+
+## Animowane lampki a sąsiedzi
+
+Ruchome światło przyciąga uwagę – i właśnie o to chodzi – ale kilka nawyków sprawi, że wszyscy będą zadowoleni:
+
+- **Ustaw harmonogram.** Większość ludzi lubi oglądać dekoracje wczesnym wieczorem; mało kto cieszy się z migających lampek o północy.
+- **Po zmroku zmniejsz jasność.** W nocy zwykle w zupełności wystarczy ok. połowa jasności.
+- **Późnym wieczorem wybieraj spokojniejsze sceny.** Wolno padający śnieg albo delikatne migotanie są dla sąsiadów znacznie mniej uciążliwe niż szybkie miganie.
+- **Sprawdź lokalne przepisy i zasady w budynku.** Niektóre budynki wielorodzinne i wspólnoty mieszkaniowe ograniczają dekoracje na zewnątrz albo godziny, w których mogą świecić.
+
+## Lista kontrolna przed zakupem
+
+1. Zdecyduj, gdzie zawiśnie dekoracja: w oknie, na balustradzie balkonu czy na ścianie.
+2. Zmierz to miejsce i wybierz najbliższy rozmiar.
+3. Sprawdź klasę szczelności, jeśli dekoracja ma wisieć na zewnątrz.
+4. Upewnij się, że aplikacja ma timer i bibliotekę wzorów, która ci się podoba.
+5. Sprawdź, jak dekoracja jest zasilana i jakiej wtyczki lub zasilacza potrzebujesz w swoim kraju.
 
 ## Nasz wybór
 

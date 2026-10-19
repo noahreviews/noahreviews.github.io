@@ -2,6 +2,7 @@
 slug: "lampki-na-balkon"
 title: "Lampki na balkon w bloku: 9 pomysłów i jak je powiesić"
 keyword: "lampki na balkon"
+updated: "2026-10-20"
 date: "2026-10-18"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-s1-hang.jpg?width=1200"
 imageAlt: "Kobieta przypina kurtynę świetlną LED do czarnej balustrady balkonu o zmierzchu"
@@ -41,6 +42,19 @@ Nie potrzebujesz narzędzi:
 - **Poprowadź przewód przez uszczelkę drzwi** lub szparę w oknie, zamiast mocno przyciskać go drzwiami.
 
 Sprawdź też zasady obowiązujące w budynku. Niektóre budynki ograniczają to, co można wieszać po zewnętrznej stronie balustrady.
+
+## Najpierw zmierz balkon
+
+Zmierz długość balustrady, którą chcesz oświetlić, i wysokość od górnej poręczy do podłogi balkonu. Kurtyna świetlna wygląda najlepiej, gdy wisi prosto i zakrywa większą część balustrady, więc wybierz rozmiar najbliższy tym wymiarom, a nie po prostu największy. Zanotuj też, gdzie jest najbliższe gniazdko w mieszkaniu i jak daleko musi biec przewód.
+
+## Lampki na balkon: lista kontrolna bezpieczeństwa
+
+- **Używaj lampek przeznaczonych do użytku na zewnątrz** (IP44 lub wyższa klasa na zadaszone balkony).
+- **Trzymaj wtyczki, zasilacze i sterowniki w suchym miejscu**, najlepiej w mieszkaniu albo pod daszkiem balkonu.
+- **Nie przyciskaj mocno przewodów drzwiami ani oknem.** Delikatnie przeprowadź je przez uszczelkę albo użyj płaskiego przewodu.
+- **Używaj przedłużaczy przeznaczonych do użytku na zewnątrz**, jeśli potrzebujesz dłuższego przewodu.
+- **Lampki zasilane z sieci podłączaj na zewnątrz do zabezpieczonego gniazdka**: w USA do gniazdka z GFCI, a w Wielkiej Brytanii i Europie do obwodu chronionego wyłącznikiem różnicowoprądowym.
+- **Wyłączaj lampki, gdy wyjeżdżasz na dłużej**, albo używaj timera.
 
 ## Najlepsze lampki na balkon w bloku
 

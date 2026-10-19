@@ -2,6 +2,7 @@
 slug: "decoration-noel-balcon"
 title: "Décoration Noël balcon : 9 idées lumineuses pour appartement et comment les accrocher"
 keyword: "décoration noël balcon"
+updated: "2026-10-20"
 date: "2026-10-18"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-s1-hang.jpg?width=1200"
 imageAlt: "Femme fixant un rideau lumineux LED sur une rambarde de balcon noire à la tombée du jour"
@@ -41,6 +42,19 @@ Pas besoin d'outils :
 - **Faites passer le câble par le joint de la porte** ou par l'entrebâillement d'une fenêtre, plutôt que de l'écraser dans la porte.
 
 Vérifiez aussi le règlement de votre immeuble : certains limitent ce qui peut être accroché à l'extérieur d'une rambarde.
+
+## Mesurez d'abord votre balcon
+
+Mesurez la longueur de la rambarde à illuminer et la hauteur entre la main courante et le sol du balcon. Un rideau lumineux rend mieux lorsqu'il pend bien droit et couvre la majeure partie de la rambarde : choisissez donc la taille la plus proche de ces mesures plutôt que la plus grande. Notez aussi où se trouve la prise intérieure la plus proche et la distance que le câble devra parcourir.
+
+## Décoration Noël balcon : la check-list sécurité
+
+- **Choisissez des lumières prévues pour l'extérieur** (IP44 ou plus pour un balcon couvert).
+- **Gardez les prises, adaptateurs et contrôleurs au sec**, idéalement à l'intérieur ou sous l'avancée du balcon.
+- **N'écrasez pas les câbles dans une porte ou une fenêtre.** Faites-les passer délicatement par le joint, ou utilisez un câble plat.
+- **Prenez des rallonges adaptées à l'extérieur** si vous avez besoin de longueur supplémentaire.
+- **En extérieur, branchez les lumières sur secteur à une prise protégée** : une prise GFCI aux États-Unis, ou un circuit protégé par un disjoncteur différentiel au Royaume-Uni et en Europe.
+- **Éteignez les lumières si vous vous absentez longtemps**, ou programmez une minuterie.
 
 ## Les meilleures lumières de Noël pour un balcon d'appartement
 

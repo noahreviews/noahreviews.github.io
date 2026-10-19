@@ -2,6 +2,7 @@
 slug: "ljusgardin"
 title: "Ljusgardin till jul: så väljer du rätt för fönster, inomhus och utomhus"
 keyword: "ljusgardin"
+updated: "2026-10-20"
 date: "2026-10-20"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-v2-1-hero.jpg?width=1200"
 imageAlt: "Ljusgardin med LED på en balkong som visar en animerad julscen i kvällsmörkret"
@@ -63,6 +64,29 @@ Fler idéer för fönstret hittar du i guiden om [julbelysning i fönster inomhu
 2. Låt slingorna hänga rakt. Sträck dem inte, annars blir bilden på en animerad gardin förvrängd.
 3. Placera ljusen nära glaset. Ju närmare de sitter, desto mindre reflexer får du inne i rummet.
 4. Göm styrenheten på fönsterbrädan och dra kabeln till ett uttag.
+
+## Checklista innan du köper en ljusgardin
+
+Kolla de här punkterna i produktbeskrivningen innan du beställer:
+
+1. **Bredd och höjd** passar fönstret, dörren eller räcket du vill täcka.
+2. **Typ av LED**: vanlig (en färg i taget) eller adresserbara pixlar (bilder och text).
+3. **Vattenklassning**: IP44 för platser under tak, IP65 eller högre för regn rakt på.
+4. **Ström**: USB eller nätström, och om kontakten eller adaptern du behöver ingår i förpackningen.
+5. **Styrning**: fjärrkontroll, app eller båda, och om appen har en timer.
+6. **Kabellängd** från styrenheten till närmaste uttag.
+7. **Returrätt och garanti**, ifall storleken visar sig vara fel.
+
+## Vanliga misstag att undvika
+
+- **Att köpa den största storleken.** En gardin som är för bred blir ihopsamlad och bilden förvrängs.
+- **Att hänga den långt från glaset.** Då lyser du mest upp ditt eget rum och får reflexer.
+- **Att glömma adaptern.** Många USB-set levereras bara med en kabel.
+- **Att lämna styrenheten i regnet.** Slingorna kan vara stänkskyddade medan styrenhetens dosa inte är det.
+
+## Så förvarar du gardinen efter jul
+
+Lägg ut gardinen plant, vik slingorna tillsammans åt samma håll och rulla upp knippet runt en kartongbit innan det åker tillbaka i lådan. Förvara styrenheten och fjärrkontrollen i en separat påse. Förvarar du den så här trasslar slingorna inte ihop sig, och setet är redo att hängas upp igen nästa år.
 
 ## Vårt val av animerad ljusgardin
 

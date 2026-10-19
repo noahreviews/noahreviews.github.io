@@ -2,6 +2,7 @@
 slug: "guirlande-lumineuse-connectee"
 title: "Guirlande lumineuse connectée et programmable : le guide sans jargon"
 keyword: "guirlande lumineuse connectée"
+updated: "2026-10-20"
 date: "2026-10-17"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-s2-app.jpg?width=1200"
 imageAlt: "Homme sur un canapé pilotant avec une appli un rideau lumineux arc-en-ciel installé sur son balcon"
@@ -49,6 +50,25 @@ En extérieur, vérifiez trois choses avant même les fonctions de l'appli :
 Un rideau programmable est l'écran à pixels le plus simple pour la maison : pas de cadre à construire, pas de logiciel à apprendre. Accrochez-le à une fenêtre ou à une rambarde et choisissez vos motifs dans l'appli.
 
 Nous sommes affiliés à Lumalyn : pondérez notre avis en conséquence. Son [rideau programmable pour balcon]({{store}}) est une grille de 400 LED (2 × 2 m ou 3 × 3 m) avec plus de 100 scènes intégrées, un mode dessin pour créer vos propres images et textes, la synchronisation musicale, des minuteries et une télécommande. Il se connecte en Bluetooth : vous le pilotez depuis la pièce, pas depuis le bureau.
+
+## Guirlande lumineuse connectée : le vocabulaire expliqué simplement
+
+| Terme | Ce que cela signifie |
+|---|---|
+| RGB | Chaque LED peut mélanger le rouge, le vert et le bleu pour afficher presque n'importe quelle couleur. |
+| Adressable / pixel | Chaque LED peut être réglée séparément, ce qui permet aux lumières d'afficher des formes et du texte. |
+| Contrôleur | Le petit boîtier qui stocke les effets et envoie les données aux LED. |
+| Bluetooth | Un pilotage à courte portée depuis un téléphone situé dans la même pièce ou à proximité. |
+| Wi-Fi | Un pilotage depuis n'importe où, tant que les lumières captent le signal. |
+| Indice IP | La résistance des lumières à la poussière et à l'eau (IP44 = résistant aux projections d'eau). |
+| Synchronisation musicale | Un mode dans lequel les lumières réagissent au son capté par un micro ou par l'appli. |
+
+## Ce qui peut mal tourner avec des lumières connectées
+
+- **L'appli n'est plus mise à jour.** Avant d'acheter, vérifiez dans la boutique d'applications de votre téléphone que l'appli est à jour.
+- **Des problèmes de portée.** Des lumières Bluetooth installées sur un balcon peuvent ne pas répondre depuis le fond de l'appartement.
+- **Trop d'applis.** Des lumières de marques différentes nécessitent généralement des applis distinctes et ne fonctionnent pas ensemble.
+- **Les coupures de courant réinitialisent certains contrôleurs.** Une minuterie intégrée qui résiste à une coupure de courant est un plus.
 
 ## Lequel acheter ?
 

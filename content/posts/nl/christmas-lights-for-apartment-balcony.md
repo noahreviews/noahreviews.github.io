@@ -2,6 +2,7 @@
 slug: "kerstverlichting-balkon"
 title: "Kerstverlichting balkon: 9 ideeën en zo hang je het op"
 keyword: "kerstverlichting balkon"
+updated: "2026-10-20"
 date: "2026-10-18"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-s1-hang.jpg?width=1200"
 imageAlt: "Vrouw klemt in de schemering een led-lichtgordijn aan een zwart balkonhek"
@@ -41,6 +42,19 @@ Je hebt geen gereedschap nodig:
 - **Leid de kabel langs het deurrubber** of door een kier bij een raam, in plaats van hem hard in de deur te klemmen.
 
 Check ook de regels van je gebouw. Sommige gebouwen beperken wat er aan de buitenkant van een hek mag hangen.
+
+## Meet eerst je balkon op
+
+Meet de lengte van het balkonhek dat je wilt verlichten en de hoogte van de leuning tot de balkonvloer. Een lichtgordijn ziet er het mooist uit als het recht hangt en het grootste deel van het hek bedekt, dus kies de maat die daar het dichtst bij ligt in plaats van de grootste. Noteer ook waar het dichtstbijzijnde stopcontact binnen zit en hoe ver de kabel moet lopen.
+
+## Kerstverlichting balkon: veiligheidschecklist
+
+- **Gebruik verlichting die geschikt is voor buiten** (IP44 of hoger voor overdekte balkons).
+- **Houd stekkers, adapters en controllers droog**, het liefst binnen of onder de balkonoverkapping.
+- **Klem kabels niet hard in een deur of raam.** Leid ze voorzichtig langs het rubber of gebruik een platte kabel.
+- **Gebruik verlengsnoeren die geschikt zijn voor buiten** als je extra lengte nodig hebt.
+- **Gebruik buiten voor verlichting op netstroom een beveiligd stopcontact**: een GFCI-stopcontact in de VS of een groep met een aardlekschakelaar in het VK en Europa.
+- **Zet de verlichting uit als je lang weg bent**, of gebruik een timer.
 
 ## De beste kerstverlichting voor je balkon
 

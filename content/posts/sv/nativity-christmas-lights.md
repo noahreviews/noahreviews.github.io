@@ -2,6 +2,7 @@
 slug: "julkrubba-med-belysning"
 title: "Julkrubba med belysning: kristna ljusidéer för fönster och balkong"
 keyword: "julkrubba med belysning"
+updated: "2026-10-20"
 date: "2026-10-15"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-1-hero.jpg?width=1200"
 imageAlt: "Pixelgardin med LED på en balkong som visar en julkrubba under Betlehemsstjärnan"
@@ -47,6 +48,16 @@ Kort text syns bäst från gatan:
 ## En kommentar om pixelalternativet
 
 Vi har ett samarbete med Lumalyn, så här är vår ärliga bedömning. [Lumalyn-gardinen]({{store#christian}}) har ett ritläge, och det är så du får en julkrubba, en ängel, en stjärna eller ett trosbudskap på den. Det inbyggda biblioteket består främst av allmänna julmotiv, så kristna motiv är något du skapar (eller kopierar från en bild) i appen snarare än väljer med ett enda tryck. Det är en gardin med 400 LED i 2 × 2 m eller 3 × 3 m, IP44-klassad för platser utomhus under tak.
+
+## Så ritar du en julkrubba på en pixelgardin
+
+Har din belysning ett ritläge fungerar ett enkelt motiv bäst på ett rutnät med låg upplösning:
+
+1. **Börja med en siluett.** Ett stalltak, två knäböjande figurer och en krubba syns tydligt från gatan.
+2. **Använd få färger.** Varmvitt, guld och en djupblå nyans räcker oftast.
+3. **Lägg till stjärnan sist.** En klar guldstjärna ovanför stallet är det som känns igen bäst på långt håll.
+4. **Titta på det utifrån.** Gå ut på gatan och titta innan du sparar motivet; justera allt som ser suddigt ut.
+5. **Spara en lugn och en festlig version**, till exempel en stillastående scen sent på kvällen och en glittrande stjärna tidigt på kvällen.
 
 ## Visa julkrubban med respekt
 

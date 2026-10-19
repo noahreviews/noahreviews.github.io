@@ -2,6 +2,7 @@
 slug: "luces-de-navidad-para-balcon"
 title: "Luces de Navidad para balcón: 9 ideas para pisos y cómo colgarlas"
 keyword: "luces de navidad para balcón"
+updated: "2026-10-20"
 date: "2026-10-18"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-s1-hang.jpg?width=1200"
 imageAlt: "Mujer enganchando una cortina de luces LED a la barandilla negra de un balcón al atardecer"
@@ -41,6 +42,19 @@ No necesitas herramientas:
 - **Pasa el cable por la junta de la puerta** o por una rendija de la ventana, en lugar de pillarlo con fuerza al cerrar la puerta.
 
 Revisa también las normas de tu edificio. Algunas comunidades limitan lo que se puede colgar por fuera de la barandilla.
+
+## Mide primero tu balcón
+
+Antes de elegir tus luces de Navidad para balcón, mide el largo de la barandilla que quieres iluminar y la altura desde el pasamanos hasta el suelo del balcón. Las cortinas de luces quedan mejor cuando cuelgan rectas y cubren casi toda la barandilla, así que elige el tamaño más parecido a esas medidas en lugar del más grande. Apunta también dónde está el enchufe interior más cercano y cuánto tiene que recorrer el cable.
+
+## Seguridad en el balcón: lista de comprobación
+
+- **Usa luces aptas para exterior** (IP44 o superior en balcones cubiertos).
+- **Mantén secos los enchufes, los adaptadores y los controladores**, a ser posible dentro de casa o bajo el techo del balcón.
+- **No pilles los cables con fuerza en una puerta o una ventana.** Pásalos con cuidado por la junta o usa un cable plano.
+- **Usa alargadores aptos para exterior** si necesitas más longitud.
+- **Si usas luces conectadas a la red eléctrica en el exterior, enchúfalas a una toma protegida**: una toma GFCI en EE. UU. o un circuito protegido por un interruptor diferencial en el Reino Unido y en Europa.
+- **Apaga las luces cuando vayas a estar fuera mucho tiempo**, o usa un temporizador.
 
 ## Las mejores luces para el balcón de un piso
 

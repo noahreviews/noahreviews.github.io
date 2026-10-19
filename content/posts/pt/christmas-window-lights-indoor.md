@@ -2,6 +2,7 @@
 slug: "luzes-de-natal-para-janela"
 title: "Luzes de Natal para janela: ideias de interior que se veem bem da rua"
 keyword: "luzes de natal para janela"
+updated: "2026-10-20"
 date: "2026-10-14"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-s3-show.jpg?width=1200"
 imageAlt: "Pessoas numa rua com neve a olhar para uma varanda com um boneco de neve luminoso"
@@ -32,11 +33,29 @@ Decorar a partir do interior é a forma mais fácil e segura de iluminar a casa 
 - **Use o brilho certo.** Brilho a mais provoca encandeamento e reflexos; cerca de 50–70% de brilho costuma resultar melhor à noite.
 - **Pense no ângulo.** Nas janelas dos andares de cima, as pessoas olham para cima, por isso centre o painel na metade inferior da janela.
 
+## Erros comuns com luzes de Natal para janela
+
+- **Luzes demasiado afastadas do vidro.** Visto de fora, o painel parece fraco e acaba por iluminar a divisão.
+- **Um candeeiro forte atrás do painel.** Desbota a imagem; apague-o ou feche os cortinados atrás das luzes.
+- **Brilho máximo à noite.** Provoca encandeamento e reflexos; baixe-o ao fim do dia.
+- **Tapar a janela que precisa de abrir.** Deixe uma janela livre para arejar ou use luzes que se prendem ao caixilho e se podem retirar.
+
 ## Alimentação e segurança no interior
 
 - As luzes alimentadas por USB (5 V) são as mais simples no interior e não aquecem.
 - Mantenha os cabos longe de radiadores e de cortinados perto de fontes de calor.
 - Use um temporizador para que o painel só funcione ao fim do dia.
+
+## Meça a janela
+
+Meça a largura interior do caixilho e a altura desde o topo do caixilho até ao parapeito. Para cortinas de luzes, escolha um tamanho próximo da largura, para que os fios pendam a direito. Para uma única forma, como uma estrela, um tamanho de cerca de um terço da largura da janela fica equilibrado visto da rua.
+
+## Ideias de luzes para janela, divisão a divisão
+
+- **Sala:** uma cortina de luzes ou um painel animado, porque costuma ser a maior janela virada para a rua.
+- **Quarto:** uma estrela suave em branco quente ou um cintilar lento; evite animações rápidas se as conseguir ver da cama.
+- **Cozinha:** uma silhueta simples ou velas elétricas no parapeito, longe do calor e da água.
+- **Quartos das crianças:** luzes a pilhas com temporizador e cabos fora do alcance.
 
 ## A nossa escolha para uma janela animada
 

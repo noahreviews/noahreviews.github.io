@@ -2,6 +2,7 @@
 slug: "dekoracje-swietlne-na-okno"
 title: "Dekoracje świetlne na okno od środka: pomysły, które pięknie wyglądają z ulicy"
 keyword: "dekoracje świetlne na okno"
+updated: "2026-10-20"
 date: "2026-10-14"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-s3-show.jpg?width=1200"
 imageAlt: "Ludzie na zaśnieżonej ulicy patrzą na balkon ze świecącym bałwanem z lampek"
@@ -32,11 +33,29 @@ Dekorowanie okna od środka to najłatwiejszy i najbezpieczniejszy sposób, żeb
 - **Dobierz jasność.** Zbyt jasne lampki dają olśnienie i odbicia; ok. 50–70% jasności zwykle wygląda wieczorem najlepiej.
 - **Pomyśl o kącie patrzenia.** Na okna na piętrze ludzie patrzą z dołu, więc umieść dekorację w dolnej połowie okna.
 
+## Dekoracje świetlne na okno: najczęstsze błędy
+
+- **Lampki za daleko od szyby.** Z zewnątrz dekoracja wygląda blado, a światło trafia głównie do pokoju.
+- **Jasna lampa za dekoracją.** Przez nią obraz blednie; zgaś ją albo zasuń zasłony za lampkami.
+- **Pełna jasność po zmroku.** Powoduje olśnienie i odbicia; wieczorem zmniejsz jasność.
+- **Zasłonięte okno, które trzeba otwierać.** Zostaw jedno okno wolne do wietrzenia albo użyj lampek, które przypina się do ramy i łatwo zdejmuje.
+
 ## Zasilanie i bezpieczeństwo w domu
 
 - Lampki zasilane z USB (5 V) to najprostsze rozwiązanie w domu i się nie nagrzewają.
 - Trzymaj przewody z dala od kaloryferów i od zasłon w pobliżu źródeł ciepła.
 - Używaj timera, żeby dekoracja świeciła tylko wieczorem.
+
+## Zmierz okno
+
+Zmierz wewnętrzną szerokość ramy okna i wysokość od górnej krawędzi ramy do parapetu. W przypadku kurtyny świetlnej wybierz rozmiar zbliżony do tej szerokości, żeby sznury wisiały prosto. Pojedynczy kształt, np. gwiazda, o wielkości ok. jednej trzeciej szerokości okna wygląda z ulicy proporcjonalnie.
+
+## Pomysły na lampki w oknie w zależności od pokoju
+
+- **Salon:** kurtyna świetlna albo animowana dekoracja, bo to zwykle największe okno od strony ulicy.
+- **Sypialnia:** delikatna ciepłobiała gwiazda albo powolne migotanie; unikaj szybkich animacji, jeśli widzisz je z łóżka.
+- **Kuchnia:** prosta sylwetka albo elektryczne świece na parapecie, z dala od ciepła i wody.
+- **Pokój dziecięcy:** lampki na baterie z timerem i przewody poza zasięgiem dzieci.
 
 ## Nasz wybór: animowana dekoracja świetlna na okno
 

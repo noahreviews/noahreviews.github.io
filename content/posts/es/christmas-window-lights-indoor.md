@@ -2,6 +2,7 @@
 slug: "luces-de-navidad-para-ventanas"
 title: "Luces de Navidad para ventanas: ideas de interior que lucen desde la calle"
 keyword: "luces de navidad para ventanas"
+updated: "2026-10-20"
 date: "2026-10-14"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-s3-show.jpg?width=1200"
 imageAlt: "Gente en una calle nevada mirando hacia un balcón con un muñeco de nieve luminoso"
@@ -32,11 +33,29 @@ Colocar luces de Navidad para ventanas desde dentro es la forma más fácil y se
 - **Usa el brillo adecuado.** Si es demasiado alto, aparecen deslumbramientos y reflejos; de noche, un brillo de entre el 50 y el 70 % suele quedar mejor.
 - **Piensa en el ángulo.** En las ventanas de los pisos de arriba la gente mira hacia arriba, así que centra la decoración en la mitad inferior de la ventana.
 
+## Errores habituales con las luces de Navidad para ventanas
+
+- **Luces demasiado lejos del cristal.** Desde fuera la decoración se ve apagada y, en cambio, ilumina tu habitación.
+- **Una lámpara potente detrás de la decoración.** Le quita contraste a la imagen; apágala o cierra las cortinas que quedan detrás de las luces.
+- **Brillo al máximo por la noche.** Provoca deslumbramientos y reflejos; bájalo por la tarde-noche.
+- **Tapar la ventana que necesitas abrir.** Deja una ventana libre para ventilar o usa luces que se enganchen al marco y se puedan retirar fácilmente.
+
 ## Alimentación y seguridad en interior
 
 - Las luces con alimentación USB (5 V) son lo más sencillo en interior y no se calientan.
 - Mantén los cables lejos de los radiadores y de las cortinas que estén cerca de fuentes de calor.
 - Usa un temporizador para que la decoración solo funcione por la tarde-noche.
+
+## Mide tu ventana
+
+Mide el ancho interior del marco de la ventana y la altura desde la parte superior del marco hasta el alféizar. Si eliges una cortina de luces, busca un tamaño parecido a ese ancho para que las tiras cuelguen rectas. Para una sola forma, como una estrella, un tamaño de alrededor de un tercio del ancho de la ventana se ve equilibrado desde la calle.
+
+## Ideas de luces para ventanas según la habitación
+
+- **Salón:** una cortina de luces o una decoración animada, porque suele ser la ventana más grande que da a la calle.
+- **Dormitorio:** una estrella en blanco cálido suave o un parpadeo lento; evita las animaciones rápidas si las ves desde la cama.
+- **Cocina:** una silueta sencilla o velas eléctricas en el alféizar, lejos del calor y del agua.
+- **Habitaciones infantiles:** luces de pilas con temporizador y los cables fuera del alcance de los niños.
 
 ## Nuestra elección para una ventana animada
 

@@ -2,6 +2,7 @@
 slug: "cortina-led"
 title: "Cortina LED de Natal: como escolher para janelas, interior e exterior"
 keyword: "cortina led"
+updated: "2026-10-20"
 date: "2026-10-20"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-v2-1-hero.jpg?width=1200"
 imageAlt: "Cortina de luzes LED numa varanda a mostrar uma cena de Natal animada à noite"
@@ -63,6 +64,29 @@ Para mais ideias para janelas, veja as nossas [luzes de Natal para janela]({{pos
 2. Deixe os fios cair a direito. Não os estique, senão a imagem de uma cortina animada fica distorcida.
 3. Encoste as luzes ao vidro. Quanto mais perto estiverem, menos reflexos terá dentro da divisão.
 4. Esconda o controlador no parapeito e leve o cabo até uma tomada.
+
+## Lista de verificação para comprar uma cortina LED de Natal
+
+Antes de encomendar, confirme estes pontos na descrição do produto:
+
+1. **Largura e altura** adequadas à janela, à porta ou ao gradeamento que quer cobrir.
+2. **Tipo de LED**: simples (uma cor de cada vez) ou pixels endereçáveis (imagens e texto).
+3. **Índice de proteção contra a água**: IP44 para locais cobertos, IP65 ou superior para chuva direta.
+4. **Alimentação**: USB ou corrente elétrica, e se a ficha ou o adaptador de que precisa vem incluído na caixa.
+5. **Controlo**: comando, app ou ambos, e se a app tem temporizador.
+6. **Comprimento do cabo** desde o controlador até à tomada mais próxima.
+7. **Devoluções e garantia**, para o caso de o tamanho não ser o certo.
+
+## Erros comuns a evitar
+
+- **Comprar o tamanho maior.** Uma cortina demasiado larga fica franzida e a imagem distorce-se.
+- **Pendurá-la longe do vidro.** Ilumina sobretudo a sua própria divisão e fica com reflexos.
+- **Esquecer o adaptador.** Muitos conjuntos USB vêm apenas com o cabo.
+- **Deixar o controlador à chuva.** Os fios podem ser resistentes a salpicos, mas a caixa do controlador pode não ser.
+
+## Como guardar a cortina de luzes depois do Natal
+
+Estenda a cortina numa superfície plana, dobre os fios todos juntos no mesmo sentido e enrole o conjunto à volta de um pedaço de cartão antes de o voltar a pôr na caixa. Guarde o controlador e o comando num saco à parte. Arrumados assim, os fios não se emaranham e o conjunto fica pronto a pendurar outra vez no próximo ano.
 
 ## A nossa escolha de cortina LED animada
 

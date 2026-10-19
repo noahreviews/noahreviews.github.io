@@ -2,6 +2,7 @@
 slug: "luzes-de-natal-animadas"
 title: "Luzes de Natal animadas para janelas e exterior: o que funciona mesmo"
 keyword: "luzes de natal animadas"
+updated: "2026-10-20"
 date: "2026-10-19"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-f1-designs.jpg?width=1200"
 imageAlt: "Cortina LED pixel a mostrar uma árvore de Natal animada na varanda de um apartamento"
@@ -50,6 +51,23 @@ Verifique o índice de proteção de tudo o que fica no exterior. IP44 serve deb
 - **Uma app com biblioteca de desenhos** e, idealmente, uma forma de desenhar ou escrever o seu próprio design.
 - **Um temporizador**, para nunca ter de se lembrar de as ligar.
 - **Um comando**, para convidados ou crianças que não têm a app.
+
+## Luzes de Natal animadas e os vizinhos
+
+As luzes em movimento chamam a atenção, e é esse o objetivo, mas alguns hábitos deixam toda a gente satisfeita:
+
+- **Defina um horário.** A maioria das pessoas gosta de ver as decorações luminosas ao início da noite; muito poucas gostam de luzes a piscar à meia-noite.
+- **Baixe o brilho depois de escurecer.** Cerca de metade do brilho costuma bastar à noite.
+- **Escolha cenas mais calmas ao fim da noite.** Neve a cair devagar ou um cintilar suave incomodam muito menos quem vive ao lado do que um piscar rápido.
+- **Confirme as regras locais e as do prédio.** Alguns prédios de apartamentos e condomínios limitam as decorações no exterior ou as horas a que podem estar ligadas.
+
+## Lista de verificação antes de comprar
+
+1. Decida onde vai ficar o painel: janela, gradeamento da varanda ou parede.
+2. Meça esse espaço e escolha o tamanho mais próximo.
+3. Verifique o índice de proteção contra a água, se for para o exterior.
+4. Certifique-se de que a app tem um temporizador e uma biblioteca de desenhos de que goste.
+5. Confirme a forma de alimentação e que ficha ou adaptador precisa para o seu país.
 
 ## A nossa escolha
 

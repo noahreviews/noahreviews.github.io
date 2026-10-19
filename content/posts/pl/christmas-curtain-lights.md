@@ -2,6 +2,7 @@
 slug: "kurtyna-swietlna"
 title: "Kurtyna świetlna na święta: jak ją wybrać na okno, do domu i na zewnątrz"
 keyword: "kurtyna świetlna"
+updated: "2026-10-20"
 date: "2026-10-20"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-v2-1-hero.jpg?width=1200"
 imageAlt: "Kurtyna świetlna LED na balkonie wyświetlająca nocą animowaną scenę świąteczną"
@@ -63,6 +64,29 @@ Więcej pomysłów znajdziesz w poradniku [dekoracje świetlne na okno]({{post:c
 2. Pozwól sznurom opaść prosto. Nie naciągaj ich, bo obraz na animowanej kurtynie się zniekształci.
 3. Przysuń lampki blisko szyby. Im bliżej, tym mniej odbić wewnątrz pokoju.
 4. Schowaj sterownik na parapecie i poprowadź kabel do gniazdka.
+
+## Kurtyna świetlna na święta: lista kontrolna przed zakupem
+
+Zanim złożysz zamówienie, sprawdź w opisie produktu te punkty:
+
+1. **Szerokość i wysokość** pasują do okna, drzwi lub balustrady, które chcesz zakryć.
+2. **Rodzaj diod LED**: zwykłe (jeden kolor naraz) albo adresowalne piksele (obrazki i napisy).
+3. **Klasa szczelności**: IP44 do miejsc zadaszonych, IP65 lub wyższa tam, gdzie deszcz pada bezpośrednio.
+4. **Zasilanie**: USB czy z gniazdka i czy potrzebna wtyczka lub zasilacz są w zestawie.
+5. **Sterowanie**: pilot, aplikacja albo jedno i drugie oraz czy aplikacja ma timer.
+6. **Długość przewodu** od sterownika do najbliższego gniazdka.
+7. **Zwroty i gwarancja** – na wypadek, gdyby rozmiar okazał się nietrafiony.
+
+## Najczęstsze błędy, których warto unikać
+
+- **Kupowanie największego rozmiaru.** Za szeroka kurtyna układa się w fałdy, a obraz się zniekształca.
+- **Wieszanie kurtyny daleko od szyby.** Oświetlasz wtedy głównie własny pokój i masz odbicia w szybie.
+- **Zapominanie o zasilaczu.** Wiele zestawów USB ma w komplecie tylko kabel.
+- **Zostawianie sterownika na deszczu.** Sznury mogą być odporne na bryzgi wody, a skrzynka sterownika już nie.
+
+## Jak przechowywać kurtynę świetlną po świętach
+
+Rozłóż kurtynę płasko, złóż sznury razem w jednym kierunku i nawiń cały pakiet na kawałek tektury, zanim schowasz go z powrotem do pudełka. Sterownik i pilot trzymaj w osobnym woreczku. Przechowywane w ten sposób sznury się nie plączą, a zestaw jest gotowy do powieszenia w kolejnym roku.
 
 ## Nasz wybór: animowana kurtyna świetlna
 

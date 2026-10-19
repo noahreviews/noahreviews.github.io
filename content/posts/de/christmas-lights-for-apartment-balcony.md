@@ -2,6 +2,7 @@
 slug: "weihnachtsbeleuchtung-balkon"
 title: "Weihnachtsbeleuchtung Balkon: 9 Ideen für Mieter – und so hängst du alles auf"
 keyword: "weihnachtsbeleuchtung balkon"
+updated: "2026-10-20"
 date: "2026-10-18"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-s1-hang.jpg?width=1200"
 imageAlt: "Frau klipst in der Abenddämmerung einen LED-Lichtervorhang an ein schwarzes Balkongeländer"
@@ -41,6 +42,19 @@ Werkzeug brauchst du keins:
 - **Führ das Kabel durch die Türdichtung** oder einen Fensterspalt, statt es fest in der Tür einzuklemmen.
 
 Prüf auch die Hausordnung. Manche Gebäude schränken ein, was außen am Geländer hängen darf.
+
+## Miss zuerst deinen Balkon aus
+
+Miss die Länge des Geländers, das du beleuchten willst, und die Höhe vom Handlauf bis zum Balkonboden. Lichtervorhänge sehen am besten aus, wenn sie gerade herabhängen und den Großteil des Geländers abdecken. Nimm also die Größe, die diesen Maßen am nächsten kommt, statt einfach die größte. Notier dir außerdem, wo die nächste Steckdose drinnen ist und wie weit das Kabel reichen muss.
+
+## Sicherheits-Checkliste für die Weihnachtsbeleuchtung am Balkon
+
+- **Nutz Lichter, die für den Außenbereich geeignet sind** (IP44 oder höher bei überdachten Balkonen).
+- **Halte Stecker, Netzteile und Controller trocken** – am besten drinnen oder unter dem Balkondach.
+- **Klemm Kabel nicht fest in Tür oder Fenster ein.** Führ sie vorsichtig durch die Dichtung oder nimm ein Flachkabel.
+- **Verwende Verlängerungskabel für den Außenbereich**, wenn du mehr Länge brauchst.
+- **Schließ Lichter mit Netzstecker draußen an eine abgesicherte Steckdose an**: in den USA an eine GFCI-Steckdose, in Großbritannien und Europa an einen Stromkreis mit FI-Schutzschalter.
+- **Schalte die Lichter aus, wenn du länger weg bist**, oder nutz einen Timer.
 
 ## Weihnachtsbeleuchtung Balkon: Darauf kommt es an
 

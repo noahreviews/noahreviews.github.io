@@ -2,6 +2,7 @@
 slug: "luzes-de-natal-inteligentes"
 title: "Luzes de Natal inteligentes e programáveis: um guia sem jargão"
 keyword: "luzes de natal inteligentes"
+updated: "2026-10-20"
 date: "2026-10-17"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-s2-app.jpg?width=1200"
 imageAlt: "Homem no sofá a usar uma app no telemóvel para controlar uma cortina de luzes com as cores do arco-íris na varanda"
@@ -49,6 +50,25 @@ No exterior, verifique três coisas antes das funções da app:
 Uma cortina programável é o painel pixel mais fácil de ter em casa: não há estrutura para montar nem software para aprender. Pendure-a numa janela ou num gradeamento e escolha os desenhos na app.
 
 Somos afiliados da Lumalyn, por isso pese a nossa opinião em conformidade. A sua [cortina programável para varanda]({{store}}) é uma grelha de 400 LEDs (2 × 2 m ou 3 × 3 m) com mais de 100 cenas incluídas, um modo de desenho livre para imagens e texto personalizados, sincronização com música, temporizadores e comando. Liga-se por Bluetooth, por isso controla-a a partir da divisão onde está, e não a partir do escritório.
+
+## Luzes de Natal inteligentes: os termos explicados
+
+| Termo | O que significa |
+|---|---|
+| RGB | Cada LED consegue misturar vermelho, verde e azul para mostrar quase qualquer cor. |
+| Endereçável / pixel | Cada LED pode ser controlado em separado, por isso as luzes conseguem mostrar formas e texto. |
+| Controlador | A pequena caixa que guarda os efeitos e envia dados para os LEDs. |
+| Bluetooth | Controlo de curto alcance a partir de um telemóvel na mesma divisão ou ali perto. |
+| Wi-Fi | Controlo a partir de qualquer lado, desde que as luzes tenham rede. |
+| Índice IP | O grau de resistência das luzes ao pó e à água (IP44 = resistente a salpicos). |
+| Sincronização com música | Um modo em que as luzes reagem ao som captado por um microfone ou pela app. |
+
+## O que pode correr mal com luzes inteligentes
+
+- **A app deixa de ser atualizada.** Antes de comprar, confirme na loja de apps do telemóvel que a app está atualizada.
+- **Problemas de alcance.** Luzes Bluetooth numa varanda podem não responder a partir do fundo do apartamento.
+- **Demasiadas apps.** Luzes de marcas diferentes costumam precisar de apps separadas e não funcionam em conjunto.
+- **Os cortes de energia apagam as definições de alguns controladores.** Um temporizador incorporado que se mantém após um corte de energia é uma vantagem.
 
 ## Quais deve comprar?
 

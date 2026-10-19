@@ -2,6 +2,7 @@
 slug: "belen-luminoso"
 title: "Belén luminoso: ideas de luces de Navidad cristianas para ventanas y balcones"
 keyword: "belén luminoso"
+updated: "2026-10-20"
 date: "2026-10-15"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-1-hero.jpg?width=1200"
 imageAlt: "Cortina LED de píxeles en un balcón mostrando un belén bajo la estrella de Belén"
@@ -47,6 +48,16 @@ Los textos cortos se leen mejor desde la calle:
 ## Una nota sobre la opción de píxeles
 
 Tenemos un acuerdo de afiliación con Lumalyn, así que esta es nuestra opinión sincera. La [cortina de Lumalyn]({{store#christian}}) tiene un modo para dibujar tus propios diseños, que es como puedes poner en ella un belén, un ángel, una estrella o un mensaje de fe. Su biblioteca integrada recoge sobre todo escenas navideñas generales, así que los diseños cristianos los creas tú (o los copias de una imagen) en la app: no se ponen con un solo toque. Es una cortina de 400 LED de 2 × 2 m o 3 × 3 m, con protección IP44 para zonas exteriores cubiertas.
+
+## Cómo crear un belén luminoso en una cortina de píxeles
+
+Si tus luces tienen un modo para dibujar tus propios diseños, en una cuadrícula de baja resolución lo que mejor funciona es un diseño sencillo:
+
+1. **Empieza por una silueta.** El tejado de un establo, dos figuras arrodilladas y un pesebre se distinguen con claridad desde la calle.
+2. **Usa pocos colores.** Blanco cálido, dorado y un solo azul intenso suelen bastar.
+3. **Añade la estrella al final.** Una estrella dorada y brillante sobre el establo es el elemento que más se reconoce de lejos.
+4. **Compruébalo desde fuera.** Sal a la calle y míralo antes de guardar el diseño; corrige todo lo que se vea borroso.
+5. **Guarda una versión tranquila y otra festiva**, por ejemplo una escena fija para última hora de la noche y una estrella que centellea al caer la tarde.
 
 ## Móntalo con respeto
 
