@@ -74,7 +74,7 @@ export default async function LangLayout({ children, params }: Props) {
               <Link href={`/${lang}/how-we-review/`}>{m.nav.howWeReview}</Link>
               <Link href={`/${lang}/about/`}>{m.nav.about}</Link>
               <details className="lang-menu">
-                <summary aria-label={m.nav.language}><Flag lang={lang} /> <span>{lang.toUpperCase()}</span></summary>
+                <summary><span className="sr-only">{m.nav.language}: </span><Flag lang={lang} /> <span>{lang.toUpperCase()}</span></summary>
                 <ul>
                   {ACTIVE.map((l) => (
                     <li key={l}>

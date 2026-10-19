@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { fmtDate, fill, t } from '@/lib/i18n';
+import { cdnSrcSet } from '@/lib/img';
 import { postPath, type Post } from '@/lib/posts';
 
 export default function PostCard({ p, big = false }: { p: Post; big?: boolean }) {
@@ -8,7 +9,16 @@ export default function PostCard({ p, big = false }: { p: Post; big?: boolean })
   return (
     <article className={big ? 'card card--big' : 'card'}>
       <Link href={href} className="card-img" tabIndex={-1} aria-hidden="true">
-        <img src={p.image} alt="" loading={big ? 'eager' : 'lazy'} width={p.imageW} height={p.imageH} />
+        <img
+          src={p.image}
+          srcSet={cdnSrcSet(p.image)}
+          sizes={big ? '(max-width: 760px) calc(100vw - 32px), 590px' : '(max-width: 640px) calc(100vw - 32px), 360px'}
+          alt=""
+          loading={big ? 'eager' : 'lazy'}
+          fetchPriority={big ? 'high' : undefined}
+          width={p.imageW}
+          height={p.imageH}
+        />
       </Link>
       <div className="card-body">
         <p className="kicker">{(m.categories as Record<string, { name: string }>)[p.category]?.name}</p>

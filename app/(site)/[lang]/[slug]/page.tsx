@@ -6,6 +6,7 @@ import PostCard from '@/components/PostCard';
 import { ACTIVE, fill, fmtDate, langInfo, storeUrl, t, type Lang } from '@/lib/i18n';
 import { findPostBySlug, getPage, getPost, getPosts, postAlternates, postKeys, slugOf, STATIC_PAGES } from '@/lib/posts';
 import { alternatesFrom, sharedAlternates } from '@/lib/seo';
+import { cdnSrcSet } from '@/lib/img';
 import { SITE } from '@/lib/site';
 
 type Props = { params: Promise<{ lang: string; slug: string }> };
@@ -115,7 +116,7 @@ export default async function SlugPage({ params }: Props) {
         </p>
 
         <figure className="lead">
-          <img src={p.image} alt={p.imageAlt} width={p.imageW} height={p.imageH} fetchPriority="high" />
+          <img src={p.image} srcSet={cdnSrcSet(p.image)} sizes="(max-width: 740px) calc(100vw - 32px), 708px" alt={p.imageAlt} width={p.imageW} height={p.imageH} fetchPriority="high" />
           <figcaption>{p.imageAlt}. {m.post.imageCredit}</figcaption>
         </figure>
 

@@ -2,6 +2,7 @@
 slug: "christmas-curtain-lights"
 title: "Christmas Curtain Lights: How to Choose Them for Windows, Indoors and Outdoors"
 keyword: "christmas curtain lights"
+updated: "2026-10-20"
 date: "2026-10-20"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-v2-1-hero.jpg?width=1200"
 imageAlt: "LED curtain lights on a balcony showing an animated Christmas scene at night"
@@ -63,6 +64,29 @@ For more window ideas, see [indoor Christmas window lights]({{post:christmas-win
 2. Let the strands drop straight. Do not stretch them, or the picture on an animated curtain will distort.
 3. Push the lights close to the glass. The closer they are, the less reflection you get inside the room.
 4. Hide the controller on the window sill and run the cable to a socket.
+
+## Buying checklist for Christmas curtain lights
+
+Before you order, check these points on the listing:
+
+1. **Width and height** match the window, door or railing you want to cover.
+2. **LED type**: plain (one color at a time) or addressable pixels (pictures and text).
+3. **Water rating**: IP44 for covered spots, IP65 or higher for direct rain.
+4. **Power**: USB or mains, and whether the plug or adapter you need is in the box.
+5. **Control**: remote, app, or both, and whether the app has a timer.
+6. **Cable length** from the controller to the nearest socket.
+7. **Returns and warranty**, in case the size turns out wrong.
+
+## Common mistakes to avoid
+
+- **Buying the biggest size.** A curtain that is too wide bunches up and the picture distorts.
+- **Hanging it far from the glass.** You mostly light your own room and get reflections.
+- **Forgetting the adapter.** Many USB sets ship with a cable only.
+- **Leaving the controller in the rain.** The strands may be splash resistant while the controller box is not.
+
+## Storing curtain lights after Christmas
+
+Lay the curtain flat, fold the strands together in one direction, and roll the bundle around a piece of cardboard before it goes back into the box. Keep the controller and remote in a separate bag. Stored this way, the strands do not tangle and the set is ready to hang again next year.
 
 ## Our pick for an animated curtain
 

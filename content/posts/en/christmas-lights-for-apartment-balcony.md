@@ -2,6 +2,7 @@
 slug: "christmas-lights-for-apartment-balcony"
 title: "Christmas Lights for an Apartment Balcony: 9 Ideas and How to Hang Them"
 keyword: "christmas lights for apartment balcony"
+updated: "2026-10-20"
 date: "2026-10-18"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-s1-hang.jpg?width=1200"
 imageAlt: "Woman clipping LED curtain lights onto a black balcony railing at dusk"
@@ -41,6 +42,19 @@ You do not need tools:
 - **Route the cable through the door seal** or a window gap rather than pinching it hard in the door.
 
 Check your building rules too. Some buildings limit what can hang on the outside of a railing.
+
+## Measure your balcony first
+
+Measure the length of the railing you want to light and the height from the top rail to the balcony floor. Curtain lights look best when they hang straight and cover most of the railing, so pick the size closest to those measurements rather than the largest one. Also note where the nearest indoor socket is and how far the cable has to travel.
+
+## Balcony lighting safety checklist
+
+- **Use lights rated for outdoor use** (IP44 or higher for covered balconies).
+- **Keep plugs, adapters and controllers dry**, ideally indoors or under the balcony roof.
+- **Do not pinch cables hard in a door or window.** Run them through the seal gently or use a flat cable.
+- **Use outdoor-rated extension cords** if you need extra length.
+- **For mains-powered lights outdoors, use a protected socket**: a GFCI outlet in the US or an RCD-protected circuit in the UK and Europe.
+- **Switch lights off when you are away for a long time**, or use a timer.
 
 ## Best Christmas lights for an apartment balcony
 

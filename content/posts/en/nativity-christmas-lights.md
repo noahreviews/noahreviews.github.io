@@ -2,6 +2,7 @@
 slug: "nativity-christmas-lights"
 title: "Nativity Christmas Lights: Christian Light Display Ideas for Windows and Balconies"
 keyword: "nativity christmas lights"
+updated: "2026-10-20"
 date: "2026-10-15"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-1-hero.jpg?width=1200"
 imageAlt: "Pixel LED curtain on a balcony showing a nativity scene under the Star of Bethlehem"
@@ -47,6 +48,16 @@ Short text reads best from the street:
 ## A note on the pixel option
 
 We are affiliated with Lumalyn, so here is our honest take. The [Lumalyn curtain]({{store#christian}}) has a draw-your-own mode, which is how you put a nativity, an angel, a star or a faith message on it. Its built-in library is mainly general holiday scenes, so Christian designs are something you create (or copy from an image) in the app rather than a single tap. It is a 400-LED curtain in 2 × 2 m or 3 × 3 m, rated IP44 for covered outdoor spots.
+
+## How to create a nativity design on a pixel curtain
+
+If your lights have a draw-your-own mode, a simple design works best on a low-resolution grid:
+
+1. **Start with a silhouette.** A stable roof, two kneeling figures and a manger read clearly from the street.
+2. **Use few colors.** Warm white, gold and one deep blue are usually enough.
+3. **Add the star last.** A bright gold star above the stable is the most recognizable element from far away.
+4. **Check it from outside.** Walk to the street and look before you save the design; adjust anything that looks blurred.
+5. **Save a calm version and a festive version**, for example a still scene for late evening and a twinkling star for early evening.
 
 ## Keep it respectful
 

@@ -2,6 +2,7 @@
 slug: "programmable-christmas-lights"
 title: "Programmable and Smart Christmas Lights: A Plain-English Guide"
 keyword: "programmable christmas lights"
+updated: "2026-10-20"
 date: "2026-10-17"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-s2-app.jpg?width=1200"
 imageAlt: "Man on a sofa using a phone app to control rainbow curtain lights on his balcony"
@@ -49,6 +50,25 @@ Outdoors, check three things before the app features:
 A programmable curtain is the easiest pixel display for a home: no frame to build and no software to learn. Hang it in a window or on a railing and choose designs in the app.
 
 We are affiliated with Lumalyn, so weigh our opinion accordingly. Its [programmable balcony curtain]({{store}}) is a 400-LED grid (2 × 2 m or 3 × 3 m) with 100+ built-in scenes, a draw-your-own mode for custom pictures and text, music sync, timers and a remote. It connects over Bluetooth, so you control it from the room, not from the office.
+
+## Smart Christmas light terms, explained
+
+| Term | What it means |
+|---|---|
+| RGB | Each LED can mix red, green and blue to show almost any color. |
+| Addressable / pixel | Each LED can be set separately, so the lights can show shapes and text. |
+| Controller | The small box that stores effects and sends data to the LEDs. |
+| Bluetooth | Short-range control from a phone in the same room or nearby. |
+| Wi-Fi | Control from anywhere, as long as the lights have a signal. |
+| IP rating | How well the lights resist dust and water (IP44 = splash resistant). |
+| Music sync | A mode where the lights react to sound from a microphone or the app. |
+
+## What can go wrong with smart lights
+
+- **The app stops being updated.** Check that the app is current in your phone's app store before you buy.
+- **Range problems.** Bluetooth lights on a balcony may not respond from the back of the apartment.
+- **Too many apps.** Lights from different brands usually need separate apps and do not work together.
+- **Power cuts reset some controllers.** A built-in timer that survives a power cut is a plus.
 
 ## Which should you buy?
 

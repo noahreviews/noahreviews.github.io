@@ -2,6 +2,7 @@
 slug: "christmas-window-lights-indoor"
 title: "Indoor Christmas Window Lights: Ideas That Look Great From the Street"
 keyword: "christmas window lights indoor"
+updated: "2026-10-20"
 date: "2026-10-14"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-s3-show.jpg?width=1200"
 imageAlt: "People on a snowy street looking up at a balcony with a glowing snowman light display"
@@ -32,11 +33,29 @@ Decorating from inside the window is the easiest and safest way to light up your
 - **Use the right brightness.** Too bright and you get glare and reflections; around 50–70% brightness usually looks best at night.
 - **Think about the angle.** For upstairs windows, people look up, so center the display in the lower half of the window.
 
+## Common mistakes with window lights
+
+- **Lights too far from the glass.** The display looks faint from outside and lights up your room instead.
+- **A bright lamp behind the display.** It washes out the picture; switch it off or close the curtains behind the lights.
+- **Full brightness at night.** It causes glare and reflections; lower it in the evening.
+- **Blocking the window you need to open.** Leave one window free for ventilation, or use lights that clip to the frame and can be lifted away.
+
 ## Power and safety indoors
 
 - USB-powered lights (5 V) are the simplest indoors and stay cool.
 - Keep cords away from radiators and curtains near heat sources.
 - Use a timer so the display runs only in the evening.
+
+## Measure your window
+
+Measure the inside width of the window frame and the height from the top of the frame to the sill. For curtain lights, pick a size close to the width so the strands hang straight. For a single shape such as a star, a size around a third of the window width looks balanced from the street.
+
+## Window light ideas by room
+
+- **Living room:** a curtain light or an animated display, since this is usually the largest window facing the street.
+- **Bedroom:** a soft warm-white star or a slow twinkle; avoid fast animations if you can see them from bed.
+- **Kitchen:** a simple silhouette or electric candles on the sill, away from heat and water.
+- **Kids' rooms:** battery lights with a timer, and cables kept out of reach.
 
 ## Our pick for an animated window
 
