@@ -13,7 +13,7 @@ imageH: 1200
 description: "Tre sätt att få julbelysning med musik: synk via inbyggd mikrofon, synk via app och full sekvensering – med kostnad och arbetsinsats för varje alternativ."
 takeaways: ["Lägen med inbyggd mikrofon reagerar på takten helt utan inställningar.", "Synk via app ger fler effekter att välja mellan direkt i mobilen.", "Koreograferade ljusshower på hus kräver sekvenseringsprogram och många timmars arbete per låt."]
 faq: [{"q": "Hur synkas julbelysning till musik?", "a": "Enkla set använder en mikrofon som reagerar på takt och volym. Fullständiga ljusshower programmeras bildruta för bildruta i en programvara så att varje ljus följer låten."}, {"q": "Behöver jag en FM-sändare för en ljusshow med musik?", "a": "Bara för stora utomhusshower där besökarna lyssnar från bilen. För en balkong eller ett vardagsrum räcker musiken som spelas i rummet."}, {"q": "Varför flimrar min musikstyrda belysning hela tiden?", "a": "Mikrofonens känslighet är för hög, eller så spelar högtalaren bredvid för högt. Sänk känsligheten eller flytta styrenheten en bit längre från högtalaren."}]
-sources: [{"title": "xLights: gratis programvara för att sekvensera ljusshower", "url": "https://xlights.org/"}]
+sources: [{"title": "xLights: gratis programvara för att sekvensera ljusshower", "url": "https://github.com/xLightsSequencer/xLights"}]
 ---
 
 De berömda husen som blinkar i takt med Trans-Siberian Orchestra bygger på timmar av handgjord sekvensering. Det behövs inte för att få julbelysning med musik, alltså ljus som rör sig i takt med låtarna. Det finns tre nivåer.

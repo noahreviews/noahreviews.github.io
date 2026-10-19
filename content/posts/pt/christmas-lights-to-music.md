@@ -13,7 +13,7 @@ imageH: 1200
 description: "Três formas de ter luzes de Natal com música: microfone incorporado, sincronização pela app e sequenciação completa, com o custo e o esforço de cada uma."
 takeaways: ["Os modos com microfone incorporado reagem ao ritmo sem qualquer configuração.", "A sincronização pela app dá mais efeitos à escolha a partir do telemóvel.", "Os espetáculos coreografados em moradias exigem software de sequenciação e muitas horas por música."]
 faq: [{"q": "Como é que as luzes de Natal sincronizam com a música?", "a": "Os conjuntos simples usam um microfone que reage ao ritmo e ao volume. Os espetáculos de luzes completos são programados fotograma a fotograma em software, para que cada luz siga a música."}, {"q": "Preciso de um transmissor FM para um espetáculo de luzes com música?", "a": "Só para grandes espetáculos no exterior, em que os visitantes ouvem a música a partir do carro. Para uma varanda ou uma sala, a música que está a tocar na divisão chega."}, {"q": "Porque é que as minhas luzes com sincronização musical estão sempre a tremeluzir?", "a": "A sensibilidade do microfone está demasiado alta ou a coluna está demasiado alta mesmo ao lado dele. Baixe a sensibilidade ou afaste um pouco o controlador da coluna."}]
-sources: [{"title": "xLights: software gratuito de sequenciação de espetáculos de luz", "url": "https://xlights.org/"}]
+sources: [{"title": "xLights: software gratuito de sequenciação de espetáculos de luz", "url": "https://github.com/xLightsSequencer/xLights"}]
 ---
 
 As casas famosas que piscam ao ritmo da Trans-Siberian Orchestra exigem horas de sequenciação feita à mão. Não precisa de nada disso para ter luzes de Natal com música. Há três níveis.

@@ -13,7 +13,7 @@ imageH: 1200
 description: "Tres formas de tener luces de Navidad con música: micrófono integrado, sincronización por app o secuenciación completa, con su coste y su esfuerzo."
 takeaways: ["Los modos con micrófono integrado reaccionan al ritmo sin ninguna configuración.", "La sincronización por app te da más efectos para elegir desde el móvil.", "Los espectáculos coreografiados en toda la casa necesitan software de secuenciación y muchas horas por canción."]
 faq: [{"q": "¿Cómo se sincronizan las luces de Navidad con la música?", "a": "Los juegos sencillos usan un micrófono que reacciona al ritmo y al volumen. Los espectáculos de luces completos se programan fotograma a fotograma con software para que cada luz siga la canción."}, {"q": "¿Necesito un transmisor FM para un espectáculo de luces con música?", "a": "Solo para grandes espectáculos al aire libre en los que el público escucha desde el coche. Para un balcón o un salón, basta con la música que suena en la habitación."}, {"q": "¿Por qué mis luces con sincronización musical parpadean sin parar?", "a": "La sensibilidad del micrófono es demasiado alta o el altavoz suena demasiado fuerte justo al lado. Baja la sensibilidad o aleja un poco el controlador del altavoz."}]
-sources: [{"title": "xLights: software gratuito para secuenciar espectáculos de luces", "url": "https://xlights.org/"}]
+sources: [{"title": "xLights: software gratuito para secuenciar espectáculos de luces", "url": "https://github.com/xLightsSequencer/xLights"}]
 ---
 
 Las casas famosas que parpadean al compás de Trans-Siberian Orchestra se apoyan en horas de secuenciación hecha a mano. No necesitas nada de eso para tener luces de Navidad con música que se muevan al ritmo. Hay tres niveles.

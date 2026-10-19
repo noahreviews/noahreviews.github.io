@@ -13,7 +13,7 @@ imageH: 1200
 description: "Lichterkette mit Musik: drei Wege zu musiksynchroner Weihnachtsbeleuchtung – per Mikrofon, per App oder per Sequenzierung, jeweils mit Kosten und Aufwand."
 takeaways: ["Lichter mit eingebautem Mikrofon reagieren ganz ohne Einrichtung auf den Beat.", "Musik-Sync per App bietet dir mehr Effekte direkt vom Smartphone aus.", "Choreografierte Lichtshows am Haus brauchen Sequenzier-Software und viele Stunden pro Song."]
 faq: [{"q": "Wie synchronisiert sich eine Lichterkette mit Musik?", "a": "Einfache Sets nutzen ein Mikrofon, das auf Beat und Lautstärke reagiert. Große Lichtshows werden in einer Software Bild für Bild programmiert, sodass jedes Licht dem Song folgt."}, {"q": "Brauche ich für eine Lichtshow mit Musik einen FM-Transmitter?", "a": "Nur bei großen Shows im Freien, bei denen die Besucher im Auto zuhören. Auf dem Balkon oder im Wohnzimmer reicht die Musik, die im Raum läuft."}, {"q": "Warum flackern meine Lichter mit Musik-Sync ständig?", "a": "Die Mikrofonempfindlichkeit ist zu hoch eingestellt oder der Lautsprecher direkt daneben ist zu laut. Senk die Empfindlichkeit oder stell den Controller etwas weiter vom Lautsprecher weg."}]
-sources: [{"title": "xLights: kostenlose Software zum Programmieren von Lichtshows", "url": "https://xlights.org/"}]
+sources: [{"title": "xLights: kostenlose Software zum Programmieren von Lichtshows", "url": "https://github.com/xLightsSequencer/xLights"}]
 ---
 
 Hinter den berühmten Häusern, die im Takt von Trans-Siberian Orchestra blinken, stecken Stunden an handgemachter Sequenzierung. Für Lichter, die sich zur Musik bewegen, brauchst du das nicht – eine Lichterkette mit Musik-Sync bekommst du viel einfacher. Es gibt drei Stufen.

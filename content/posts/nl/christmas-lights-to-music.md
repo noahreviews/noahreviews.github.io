@@ -13,7 +13,7 @@ imageH: 1200
 description: "Drie manieren om kerstverlichting met muziek te laten meebewegen: een ingebouwde microfoon, sync via een app of volledige sequencing, met kosten en moeite."
 takeaways: ["Ingebouwde microfoonstanden reageren op de beat, zonder dat je iets hoeft in te stellen.", "Sync via een app geeft je vanaf je telefoon meer effecten om uit te kiezen.", "Gechoreografeerde lichtshows aan je huis vragen sequencing-software en vele uren werk per nummer."]
 faq: [{"q": "Hoe synchroniseert kerstverlichting met muziek?", "a": "Eenvoudige sets gebruiken een microfoon die reageert op beat en volume. Volledige lichtshows worden frame voor frame in software geprogrammeerd, zodat elk lampje het nummer volgt."}, {"q": "Heb ik een FM-zender nodig voor een lichtshow met muziek?", "a": "Alleen voor grote shows buiten, waar bezoekers vanuit hun auto meeluisteren. Voor een balkon of woonkamer is de muziek die in de ruimte speelt genoeg."}, {"q": "Waarom flikkert mijn verlichting met muzieksync constant?", "a": "De gevoeligheid van de microfoon staat te hoog of de speaker ernaast staat te hard. Zet de gevoeligheid lager of zet de controller iets verder van de speaker af."}]
-sources: [{"title": "xLights: gratis software om lichtshows te programmeren", "url": "https://xlights.org/"}]
+sources: [{"title": "xLights: gratis software om lichtshows te programmeren", "url": "https://github.com/xLightsSequencer/xLights"}]
 ---
 
 De beroemde huizen die in de maat van Trans-Siberian Orchestra knipperen, zijn het resultaat van urenlang handmatig sequencen. Dat heb je niet nodig voor kerstverlichting met muziek die meebeweegt. Er zijn drie niveaus.

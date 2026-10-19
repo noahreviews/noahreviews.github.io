@@ -14,7 +14,7 @@ imageH: 1200
 description: "Three ways to get music-synchronized Christmas lights: built-in microphone sync, app sync and full sequencing, with the cost and effort of each."
 takeaways: ["Built-in microphone modes react to beats with no setup at all.", "App sync gives more effect choices from your phone.", "Choreographed house shows need sequencing software and many hours per song."]
 faq: [{"q": "How do Christmas lights sync to music?", "a": "Simple sets use a microphone that reacts to the beat and volume. Full light shows are programmed frame by frame in software so every light follows the song."}, {"q": "Do I need an FM transmitter for a music light show?", "a": "Only for large outdoor shows where visitors listen from their cars. For a balcony or living room, the music playing in the room is enough."}, {"q": "Why do my music-sync lights flicker constantly?", "a": "The microphone sensitivity is too high or the speaker is too loud next to it. Lower the sensitivity or move the controller a little further from the speaker."}]
-sources: [{"title": "xLights: free light show sequencing software", "url": "https://xlights.org/"}]
+sources: [{"title": "xLights: free light show sequencing software", "url": "https://github.com/xLightsSequencer/xLights"}]
 ---
 
 The famous houses that flash in time to Trans-Siberian Orchestra use hours of hand-made sequencing. You do not need that to get lights that move with music. There are three levels.

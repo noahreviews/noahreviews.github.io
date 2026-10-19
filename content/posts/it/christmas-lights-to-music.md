@@ -13,7 +13,7 @@ imageH: 1200
 description: "Luci di Natale musicali: tre modi per sincronizzarle con la musica, cioè microfono integrato, app e sequenze complete, con costi e impegno di ognuno."
 takeaways: ["Le modalità con microfono integrato reagiscono al ritmo senza alcuna configurazione.", "La sincronizzazione via app offre più effetti tra cui scegliere, direttamente dal telefono.", "Gli spettacoli coreografati su tutta la casa richiedono un software di sequenziamento e molte ore di lavoro per ogni canzone."]
 faq: [{"q": "Come si sincronizzano le luci di Natale con la musica?", "a": "I set più semplici usano un microfono che reagisce al ritmo e al volume. I veri spettacoli di luci vengono programmati fotogramma per fotogramma con un software, così ogni luce segue la canzone."}, {"q": "Serve un trasmettitore FM per uno spettacolo di luci con musica?", "a": "Solo per i grandi spettacoli all'aperto, in cui i visitatori ascoltano la musica dall'auto. Per un balcone o un soggiorno basta la musica che suona nella stanza."}, {"q": "Perché le mie luci a tempo di musica sfarfallano di continuo?", "a": "La sensibilità del microfono è troppo alta oppure la cassa accanto suona troppo forte. Abbassa la sensibilità o allontana un po' il controller dalla cassa."}]
-sources: [{"title": "xLights: software gratuito per sequenziare spettacoli di luci", "url": "https://xlights.org/"}]
+sources: [{"title": "xLights: software gratuito per sequenziare spettacoli di luci", "url": "https://github.com/xLightsSequencer/xLights"}]
 ---
 
 Le case famose che lampeggiano a tempo con la Trans-Siberian Orchestra sono il frutto di ore di sequenze programmate a mano. Per avere luci di Natale musicali, che si muovono insieme alla musica, non ti serve tutto questo. Ci sono tre livelli.

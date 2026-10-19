@@ -13,7 +13,7 @@ imageH: 1200
 description: "Lampki świąteczne z muzyką na trzy sposoby: synchronizacja przez wbudowany mikrofon, przez aplikację i pełne sekwencjonowanie – z kosztem i nakładem pracy."
 takeaways: ["Tryby z wbudowanym mikrofonem reagują na rytm bez żadnej konfiguracji.", "Synchronizacja przez aplikację daje więcej efektów do wyboru prosto z telefonu.", "Choreografie świetlne na całym domu wymagają oprogramowania do sekwencjonowania i wielu godzin pracy nad każdą piosenką."]
 faq: [{"q": "Jak lampki świąteczne synchronizują się z muzyką?", "a": "Proste zestawy mają mikrofon, który reaguje na rytm i głośność. Pełne pokazy świetlne programuje się klatka po klatce w specjalnym oprogramowaniu, tak żeby każda lampka podążała za piosenką."}, {"q": "Czy do pokazu świetlnego z muzyką potrzebny jest nadajnik FM?", "a": "Tylko przy dużych pokazach na zewnątrz, kiedy widzowie słuchają muzyki w samochodach. Na balkonie czy w salonie wystarczy muzyka grająca w pomieszczeniu."}, {"q": "Dlaczego moje lampki z synchronizacją muzyki cały czas migoczą?", "a": "Czułość mikrofonu jest za wysoka albo głośnik obok gra za głośno. Zmniejsz czułość lub odsuń sterownik nieco dalej od głośnika."}]
-sources: [{"title": "xLights: darmowe oprogramowanie do programowania pokazów świetlnych", "url": "https://xlights.org/"}]
+sources: [{"title": "xLights: darmowe oprogramowanie do programowania pokazów świetlnych", "url": "https://github.com/xLightsSequencer/xLights"}]
 ---
 
 Słynne domy, które migają w rytm Trans-Siberian Orchestra, to efekt wielu godzin ręcznego sekwencjonowania. Nie potrzebujesz tego, żeby mieć lampki świąteczne z muzyką, które ruszają się w jej rytm. Są trzy poziomy.
