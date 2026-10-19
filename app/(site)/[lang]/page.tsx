@@ -1,7 +1,8 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import PostCard from '@/components/PostCard';
-import { fill, t, type Lang } from '@/lib/i18n';
+import { fill, storeUrl, t, type Lang } from '@/lib/i18n';
+import { cdnSrcSet } from '@/lib/img';
 import { getPosts } from '@/lib/posts';
 import { sharedAlternates } from '@/lib/seo';
 import { CATEGORY_KEYS } from '@/lib/site';
@@ -36,6 +37,27 @@ export default async function Home({ params }: Props) {
           <div className="grid">{rest.map((p) => <PostCard key={p.key} p={p} />)}</div>
         </section>
       )}
+
+      <aside className="pick" aria-label={m.post.ctaTitle}>
+        <a className="pick-img" href={storeUrl(lang)} rel="sponsored noopener" tabIndex={-1} aria-hidden="true">
+          <img
+            src="https://lumalyn.store/cdn/shop/files/lumalyn-v2-1-hero.jpg?width=800"
+            srcSet={cdnSrcSet('https://lumalyn.store/cdn/shop/files/lumalyn-v2-1-hero.jpg?width=800', [480, 640, 800])}
+            sizes="(max-width: 760px) calc(100vw - 32px), 420px"
+            alt=""
+            loading="lazy"
+            width={800}
+            height={800}
+          />
+        </a>
+        <div className="pick-body">
+          <p className="kicker">{m.post.ctaKicker}</p>
+          <p className="cta-title">{m.post.ctaTitle}</p>
+          <p>{m.post.ctaSpecs}</p>
+          <a className="btn" href={storeUrl(lang)} rel="sponsored noopener">{m.post.ctaButton}</a>
+          <p className="pick-note">{m.footer.disclosure} <Link href={`/${lang}/affiliate-disclosure/`}>{m.footer.disclosureLink}</Link>.</p>
+        </div>
+      </aside>
 
       <section aria-labelledby="why" className="why">
         <h2 id="why" className="section-h">{m.home.whyTitle}</h2>

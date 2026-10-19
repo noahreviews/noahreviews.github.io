@@ -193,3 +193,15 @@ code { font-size: .9em; background: var(--tint); padding: 1px 5px; border-radius
   .prose table { font-size: 13.5px; }
   .prose th, .prose td { min-width: 0; padding: 7px 8px; overflow-wrap: normal; hyphens: auto; -webkit-hyphens: auto; }
 }
+
+/* home: top pick */
+.pick { display: grid; grid-template-columns: 420px 1fr; gap: 28px; align-items: center; margin: 40px 0 8px; padding: 22px; border-radius: 20px; background: var(--brand); color: #fff; }
+.pick-img img { width: 100%; border-radius: 14px; }
+.pick-body p { margin: 6px 0; color: rgba(255, 255, 255, .85); }
+.pick-body .kicker { color: var(--gold); }
+.pick-body .cta-title { font-size: 26px; line-height: 1.25; color: #fff; font-weight: 600; margin: 6px 0 10px; }
+.pick-body .btn { margin: 12px 0 6px; }
+.pick-note { font-size: 13px; }
+.pick-note a { color: inherit; }
+@media (max-width: 760px) { .pick { grid-template-columns: 1fr; padding: 16px; } }
+@media (prefers-color-scheme: dark) { .pick { color: #0e1613; } .pick-body p, .pick-body .cta-title { color: #0e1613; } .pick-body .kicker { color: #12261f; } }
