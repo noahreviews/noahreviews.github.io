@@ -240,11 +240,6 @@ export default async function SlugPage({ params }: Props) {
         )}
       </article>
 
-      <div className="sticky-cta" role="complementary" aria-label={m.post.pickInline}>
-        <p><strong>Lumalyn · {m.nav.topPick}</strong>{m.post.partnerLink}</p>
-        <a className="btn btn-sm" href={storeUrl(lang, p.christian)} rel="sponsored noopener">{m.post.ctaShort} →</a>
-      </div>
-
       {related.length > 0 && (
         <section className="related" aria-labelledby="rel">
           <h2 id="rel" className="section-h">{m.post.related}</h2>

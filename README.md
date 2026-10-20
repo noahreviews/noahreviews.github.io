@@ -111,34 +111,6 @@ whole house, and whether you want a warm glow, a **music-synchronized** show or 
 <li><a href="https://noahreviews.github.io/en-gb/how-to-hang-curtain-lights/">How to Hang Curtain Lights Without Drilling: UK Guide</a></li>
 </ul>
 
-## Our top pick for windows & balconies
-
-<table>
-<tr>
-<td width="45%" valign="top">
-<a href="https://lumalyn.store/"><img src="https://lumalyn.store/cdn/shop/files/lumalyn-v2-1-hero.jpg?width=800" alt="Lumalyn Smart Animated Balcony Lights showing an animated Santa and Christmas tree on a balcony" width="100%"></a>
-</td>
-<td valign="top">
-
-### Lumalyn Smart Animated Balcony Lights
-
-An app-controlled LED pixel curtain that turns a window or balcony railing into an animated Christmas display.
-
-| | |
-|---|---|
-| **LEDs** | 400 individually controlled RGB LEDs |
-| **Sizes** | 2 × 2 m (6 ft 7 in) or 3 × 3 m (9 ft 10 in) |
-| **Control** | Phone app + included remote, timers and schedules |
-| **Designs** | 100+ built-in scenes, plus draw-your-own pictures and text |
-| **Music** | Built-in music sync modes |
-| **Outdoor use** | IP44 splash resistant, for covered balconies and porches |
-| **Power** | 5 V USB, works in the US, UK and EU (wall adapter not included) |
-
-**[👉 See it at lumalyn.store](https://lumalyn.store/)**
-
-</td>
-</tr>
-</table>
 
 ## Christmas lighting ideas by situation
 
@@ -155,9 +127,9 @@ An app-controlled LED pixel curtain that turns a window or balcony railing into 
 <p>Indoor window lights that stay safe and dry yet stand out from the street. <a href="https://noahreviews.github.io/en/christmas-window-lights-indoor/">Read the window guide →</a></p>
 </td>
 <td width="33%" valign="top">
-<a href="https://lumalyn.store/pages/christian-christmas-lights"><img src="https://lumalyn.store/cdn/shop/files/lumalyn-christian-f1-designs.jpg?width=640&height=400&crop=center" alt="Christian Christmas lights showing a herald angel and the Star of Bethlehem" width="100%"></a>
+<a href="https://noahreviews.github.io/en/nativity-christmas-lights/"><img src="https://lumalyn.store/cdn/shop/files/lumalyn-christian-f1-designs.jpg?width=640&height=400&crop=center" alt="Christian Christmas lights showing a herald angel and the Star of Bethlehem" width="100%"></a>
 <h4>Christian families</h4>
-<p>Nativity scenes, angels and the Star of Bethlehem for a faith-filled Christmas. <a href="https://lumalyn.store/pages/christian-christmas-lights">See the nativity designs →</a></p>
+<p>Nativity scenes, angels and the Star of Bethlehem for a faith-filled Christmas. <a href="https://noahreviews.github.io/en/nativity-christmas-lights/">Read the nativity lights guide →</a></p>
 </td>
 </tr>
 </table>
@@ -205,17 +177,17 @@ The easiest way is lights with a built-in music mode or app sync. Fully choreogr
 <details>
 <summary><b>Where can I find nativity Christmas lights for an apartment?</b></summary>
 
-A window star or a pixel curtain showing a nativity scene works without a yard. See our <a href="https://noahreviews.github.io/en/nativity-christmas-lights/">nativity Christmas lights ideas</a> or <a href="https://lumalyn.store/pages/christian-christmas-lights">the nativity designs at lumalyn.store</a>.
+A window star or a pixel curtain showing a nativity scene works without a yard. See our <a href="https://noahreviews.github.io/en/nativity-christmas-lights/">nativity Christmas lights ideas</a> or <a href="https://noahreviews.github.io/en/nativity-christmas-lights/">Read the nativity lights guide →</a>.
 </details>
 
 ## Disclosure
 
-Noah Reviews is reader-supported and affiliated with [Lumalyn](https://lumalyn.store/). We may earn from purchases made
+Noah Reviews is reader-supported and affiliated with Lumalyn. We may earn from purchases made
 through partner links, at no extra cost to you. Partnerships never decide what we recommend.
 Read our full [affiliate disclosure](https://noahreviews.github.io/en/affiliate-disclosure/).
 
 ---
 
 <p align="center">
-  <a href="https://noahreviews.github.io"><b>Read all guides at noahreviews.github.io</b></a> · <a href="https://lumalyn.store/"><b>Shop our top pick at lumalyn.store</b></a>
+  <a href="https://noahreviews.github.io"><b>Read all guides at noahreviews.github.io</b></a>
 </p>

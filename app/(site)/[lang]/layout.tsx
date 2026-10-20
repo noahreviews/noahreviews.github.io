@@ -4,7 +4,7 @@ import { notFound } from 'next/navigation';
 import { Inter, Source_Serif_4 } from 'next/font/google';
 import Flag from '@/components/Flag';
 import JsonLd from '@/components/JsonLd';
-import { ACTIVE, isLang, langInfo, storeUrl, t } from '@/lib/i18n';
+import { ACTIVE, isLang, langInfo, t } from '@/lib/i18n';
 import { CATEGORY_KEYS, SITE } from '@/lib/site';
 import '../../globals.css';
 
@@ -72,7 +72,6 @@ export default async function LangLayout({ children, params }: Props) {
               {CATEGORY_KEYS.map((k) => <Link key={k} href={`/${lang}/category/${k}/`}>{m.categories[k].name}</Link>)}
               <Link href={`/${lang}/how-we-review/`}>{m.nav.howWeReview}</Link>
               <Link href={`/${lang}/about/`}>{m.nav.about}</Link>
-              <a className="btn btn-sm" href={storeUrl(lang)} rel="sponsored noopener" title={m.post.partnerLink}>{m.nav.topPick} →</a>
               <details className="lang-menu">
                 <summary><span className="sr-only">{m.nav.language}: </span><Flag lang={lang} /> <span>{langInfo(lang).short}</span></summary>
                 <ul>
