@@ -4,7 +4,8 @@
   "nav": {
     "howWeReview": "Så granskar vi",
     "about": "Om oss",
-    "language": "Språk"
+    "language": "Språk",
+    "topPick": "Vårt val"
   },
   "tagline": "Praktiska tester och köpguider för hem, högtider och vardag",
   "siteDescription": "Noah Reviews publicerar praktiska köpguider och produkttester för hem, högtider och vardag, med tydlig redovisning av samarbeten och råd med källor.",
@@ -49,7 +50,13 @@
     "privacyLink": "Läs vår integritetspolicy",
     "howLink": "Så researchar och granskar vi →",
     "browse": "Bläddra efter kategori",
-    "guidesCount": "{n} guider →"
+    "guidesCount": "{n} guider →",
+    "ctaPrimary": "Se vårt val",
+    "ctaSecondary": "Bläddra bland guiderna",
+    "statGuides": "{n} utförliga guider",
+    "statLangs": "{n} språk",
+    "statSources": "Källor anges",
+    "statUpdated": "Uppdaterad {date}"
   },
   "categories": {
     "holiday-lighting": {
@@ -86,7 +93,11 @@
     "howMade": "Vi har gått igenom tillverkarens specifikationer, säkerhetsråd och källorna på den här sidan, skrivit guiden med hjälp av AI-baserade skrivverktyg och kontrollerat varje produktuppgift mot tillverkarens produktsida före publicering. Hittar du ett fel? Säg till så rättar vi det.",
     "ctaMore": "Fler idéer hos Lumalyn",
     "seeAlso": "Läs vidare",
-    "checked": "Kontrollerat mot tillverkarens uppgifter"
+    "checked": "Kontrollerat mot tillverkarens uppgifter",
+    "pickInline": "Vårt val för den här guiden",
+    "ctaCheck": "Se pris hos Lumalyn",
+    "partnerLink": "Partnerlänk",
+    "ctaShort": "Se pris"
   },
   "footer": {
     "categories": "Kategorier",

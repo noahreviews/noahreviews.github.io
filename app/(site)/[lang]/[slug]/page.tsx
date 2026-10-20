@@ -129,6 +129,27 @@ export default async function SlugPage({ params }: Props) {
           </section>
         )}
 
+        <aside className="pick-inline" aria-label={m.post.pickInline}>
+          <a href={storeUrl(lang, p.christian)} rel="sponsored noopener" tabIndex={-1} aria-hidden="true">
+            <img
+              src={`https://lumalyn.store/cdn/shop/files/${p.christian ? 'lumalyn-christian-1-hero' : 'lumalyn-v2-1-hero'}.jpg?width=240&height=240&crop=center`}
+              alt=""
+              width={120}
+              height={120}
+              loading="lazy"
+            />
+          </a>
+          <div>
+            <p className="kicker">{m.post.pickInline}</p>
+            <p className="pick-title">{m.post.ctaTitle}</p>
+            <p className="pick-specs">{m.post.ctaSpecs}</p>
+          </div>
+          <div className="pick-side">
+            <a className="btn" href={storeUrl(lang, p.christian)} rel="sponsored noopener">{m.post.ctaCheck} →</a>
+            <span className="partner-tag">{m.post.partnerLink}</span>
+          </div>
+        </aside>
+
         {p.toc.length > 2 && (
           <nav className="box toc" aria-labelledby="toc-h">
             <p id="toc-h" className="box-h">{m.post.toc}</p>
@@ -171,7 +192,8 @@ export default async function SlugPage({ params }: Props) {
             <p>{m.post.ctaSpecs}</p>
           </div>
           <div className="cta-actions">
-            <a className="btn" href={storeUrl(lang, p.christian)} rel="sponsored noopener">{m.post.ctaButton}</a>
+            <a className="btn" href={storeUrl(lang, p.christian)} rel="sponsored noopener">{m.post.ctaCheck} →</a>
+            <span className="partner-tag">{m.post.partnerLink}</span>
             {p.storePage && <a className="cta-more" href={storePageUrl(lang, p.storePage)} rel="sponsored noopener">{m.post.ctaMore} →</a>}
           </div>
         </aside>
@@ -207,6 +229,11 @@ export default async function SlugPage({ params }: Props) {
           </nav>
         )}
       </article>
+
+      <div className="sticky-cta" role="complementary" aria-label={m.post.pickInline}>
+        <p><strong>Lumalyn · {m.nav.topPick}</strong>{m.post.partnerLink}</p>
+        <a className="btn btn-sm" href={storeUrl(lang, p.christian)} rel="sponsored noopener">{m.post.ctaShort} →</a>
+      </div>
 
       {related.length > 0 && (
         <section className="related" aria-labelledby="rel">

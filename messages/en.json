@@ -4,7 +4,8 @@
   "nav": {
     "howWeReview": "How we review",
     "about": "About",
-    "language": "Language"
+    "language": "Language",
+    "topPick": "Our top pick"
   },
   "tagline": "Practical reviews and buying guides for home, holiday and everyday products",
   "siteDescription": "Noah Reviews publishes practical buying guides and product reviews for home, holiday and everyday products, with clear disclosures and sourced advice.",
@@ -49,7 +50,13 @@
     "privacyLink": "Read our privacy policy",
     "howLink": "How we research and review →",
     "browse": "Browse by category",
-    "guidesCount": "{n} guides →"
+    "guidesCount": "{n} guides →",
+    "ctaPrimary": "See our top pick",
+    "ctaSecondary": "Browse the guides",
+    "statGuides": "{n} in-depth guides",
+    "statLangs": "{n} languages",
+    "statSources": "Sources cited",
+    "statUpdated": "Updated {date}"
   },
   "categories": {
     "holiday-lighting": {
@@ -86,7 +93,11 @@
     "howMade": "We researched the manufacturer's specifications, the safety guidance and the sources listed on this page, drafted the guide with the help of AI writing tools, and checked every product claim against the manufacturer's listing before publishing. Spotted something wrong? Tell us and we will correct it.",
     "ctaMore": "More ideas at Lumalyn",
     "seeAlso": "Keep reading",
-    "checked": "Checked against manufacturer specs"
+    "checked": "Checked against manufacturer specs",
+    "pickInline": "Our pick for this guide",
+    "ctaCheck": "Check price at Lumalyn",
+    "partnerLink": "Partner link",
+    "ctaShort": "Check price"
   },
   "footer": {
     "categories": "Categories",

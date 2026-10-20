@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import PostCard from '@/components/PostCard';
-import { fill, storeUrl, t, type Lang } from '@/lib/i18n';
+import { ACTIVE, fill, fmtDate, storeUrl, t, type Lang } from '@/lib/i18n';
 import { cdnSrcSet } from '@/lib/img';
 import { getPosts } from '@/lib/posts';
 import { sharedAlternates } from '@/lib/seo';
@@ -22,13 +22,41 @@ export default async function Home({ params }: Props) {
   return (
     <main className="wrap wide">
       <section className="hero">
-        <p className="kicker">{m.home.kicker}</p>
-        <h1>{m.tagline}</h1>
-        <p className="lede">{m.home.lede}</p>
-        <ul className="trust">
-          {m.home.trust.map((x) => <li key={x.title}><strong>{x.title}</strong><span>{x.text}</span></li>)}
-        </ul>
+        <div>
+          <p className="kicker">{m.home.kicker}</p>
+          <h1>{m.tagline}</h1>
+          <p className="lede">{m.home.lede}</p>
+          <div className="hero-ctas">
+            <a className="btn btn-primary" href={storeUrl(lang)} rel="sponsored noopener">{m.home.ctaPrimary} →</a>
+            <a className="btn btn-ghost" href="#latest">{m.home.ctaSecondary}</a>
+          </div>
+          <p className="hero-note">{m.post.partnerLink} · <Link href={`/${lang}/affiliate-disclosure/`}>{m.footer.disclosureLink}</Link></p>
+        </div>
+        <div className="hero-media">
+          <img
+            src="https://lumalyn.store/cdn/shop/files/lumalyn-f1-designs.jpg?width=900"
+            srcSet={cdnSrcSet('https://lumalyn.store/cdn/shop/files/lumalyn-f1-designs.jpg?width=900', [480, 720, 900])}
+            sizes="(max-width: 860px) calc(100vw - 32px), 500px"
+            alt={m.home.kicker}
+            width={900}
+            height={765}
+            fetchPriority="high"
+          />
+          <a className="hero-badge" href={storeUrl(lang)} rel="sponsored noopener">
+            <span>
+              <span>{m.nav.topPick}</span>
+              <strong>{m.post.ctaTitle}</strong>
+            </span>
+            <em>{m.post.ctaShort} →</em>
+          </a>
+        </div>
       </section>
+      <ul className="stats" aria-label={m.home.whyTitle}>
+        <li>{fill(m.home.statGuides, { n: posts.length })}</li>
+        <li>{fill(m.home.statLangs, { n: ACTIVE.length })}</li>
+        <li>{m.home.statSources}</li>
+        <li>{fill(m.home.statUpdated, { date: fmtDate(posts.map((p) => p.updated || p.date).sort().pop() || '', lang) })}</li>
+      </ul>
 
       {lead && (
         <section aria-labelledby="latest">

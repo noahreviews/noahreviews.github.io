@@ -4,7 +4,8 @@
   "nav": {
     "howWeReview": "Zo beoordelen we",
     "about": "Over ons",
-    "language": "Taal"
+    "language": "Taal",
+    "topPick": "Onze keuze"
   },
   "tagline": "Praktische reviews en koopgidsen voor in huis, de feestdagen en het dagelijks leven",
   "siteDescription": "Noah Reviews publiceert praktische koopgidsen en productreviews voor in huis, de feestdagen en het dagelijks leven, met duidelijke openheid over partners en onderbouwd advies.",
@@ -49,7 +50,13 @@
     "privacyLink": "Lees ons privacybeleid",
     "howLink": "Zo onderzoeken en beoordelen we →",
     "browse": "Bekijk per categorie",
-    "guidesCount": "{n} gidsen →"
+    "guidesCount": "{n} gidsen →",
+    "ctaPrimary": "Bekijk onze keuze",
+    "ctaSecondary": "Bekijk de gidsen",
+    "statGuides": "{n} uitgebreide gidsen",
+    "statLangs": "{n} talen",
+    "statSources": "Bronnen vermeld",
+    "statUpdated": "Bijgewerkt op {date}"
   },
   "categories": {
     "holiday-lighting": {
@@ -86,7 +93,11 @@
     "howMade": "We hebben de specificaties van de fabrikant, veiligheidsadviezen en de bronnen op deze pagina bestudeerd, de gids opgesteld met hulp van AI-schrijftools en elke productclaim vóór publicatie gecontroleerd aan de hand van de productpagina van de fabrikant. Zie je een fout? Laat het ons weten, dan passen we het aan.",
     "ctaMore": "Meer ideeën bij Lumalyn",
     "seeAlso": "Lees ook",
-    "checked": "Gecontroleerd met fabrikantgegevens"
+    "checked": "Gecontroleerd met fabrikantgegevens",
+    "pickInline": "Onze keuze bij deze gids",
+    "ctaCheck": "Bekijk de prijs bij Lumalyn",
+    "partnerLink": "Partnerlink",
+    "ctaShort": "Bekijk prijs"
   },
   "footer": {
     "categories": "Categorieën",

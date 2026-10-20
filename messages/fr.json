@@ -4,7 +4,8 @@
   "nav": {
     "howWeReview": "Notre méthode",
     "about": "À propos",
-    "language": "Langue"
+    "language": "Langue",
+    "topPick": "Notre choix"
   },
   "tagline": "Avis pratiques et guides d'achat pour la maison, les fêtes et le quotidien",
   "siteDescription": "Noah Reviews publie des guides d'achat pratiques et des avis produits pour la maison, les fêtes et le quotidien, avec des partenariats clairement signalés et des conseils sourcés.",
@@ -49,7 +50,13 @@
     "privacyLink": "Lire notre politique de confidentialité",
     "howLink": "Notre méthode de recherche et d'évaluation →",
     "browse": "Parcourir par catégorie",
-    "guidesCount": "{n} guides →"
+    "guidesCount": "{n} guides →",
+    "ctaPrimary": "Voir notre choix",
+    "ctaSecondary": "Parcourir les guides",
+    "statGuides": "{n} guides détaillés",
+    "statLangs": "{n} langues",
+    "statSources": "Sources citées",
+    "statUpdated": "Mis à jour le {date}"
   },
   "categories": {
     "holiday-lighting": {
@@ -86,7 +93,11 @@
     "howMade": "Nous avons étudié les caractéristiques du fabricant, les consignes de sécurité et les sources citées sur cette page, rédigé le guide avec l'aide d'outils d'écriture par IA, puis vérifié chaque affirmation sur le produit auprès de la fiche du fabricant avant publication. Une erreur ? Signalez-la-nous et nous la corrigerons.",
     "ctaMore": "Plus d'idées chez Lumalyn",
     "seeAlso": "À lire aussi",
-    "checked": "Vérifié avec les données du fabricant"
+    "checked": "Vérifié avec les données du fabricant",
+    "pickInline": "Notre choix pour ce guide",
+    "ctaCheck": "Voir le prix chez Lumalyn",
+    "partnerLink": "Lien partenaire",
+    "ctaShort": "Voir le prix"
   },
   "footer": {
     "categories": "Catégories",
