@@ -4,12 +4,12 @@ title: "Weihnachtsbeleuchtung Balkon: 9 Ideen für Mieter – und so hängst du 
 keyword: "weihnachtsbeleuchtung balkon"
 updated: "2026-10-20"
 date: "2026-10-18"
-image: "https://lumalyn.store/cdn/shop/files/lumalyn-s1-hang.jpg?width=1200"
-imageAlt: "Frau klipst in der Abenddämmerung einen LED-Lichtervorhang an ein schwarzes Balkongeländer"
+image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-f1-designs.jpg?width=1200"
+imageAlt: "Animierter Lichtervorhang mit Engel und Stern auf einem Glasbalkon bei Nacht"
 category: "holiday-lighting"
 seoTitle: "Weihnachtsbeleuchtung Balkon: 9 Ideen für Mietwohnungen"
-imageW: 1086
-imageH: 1448
+imageW: 1024
+imageH: 1024
 description: "Weihnachtsbeleuchtung Balkon: 9 Ideen für Mieter, Lichter ohne Bohren am Geländer befestigen und worauf es bei Balkonbeleuchtung für draußen ankommt."
 takeaways: ["Klammern und Kabelbinder am Geländer halten Lichter ganz ohne Bohren.", "Häng Lichtervorhänge an die Außenseite des Geländers, damit sie zur Straße zeigen.", "Niedervolt-Lichter mit Timer und mindestens IP44 passen zu den meisten überdachten Balkonen."]
 faq: [{"q": "Wie befestige ich Weihnachtsbeleuchtung am Balkon ohne Bohren?", "a": "Nimm transparente Kunststoffklammern oder Kabelbinder um die Geländerstäbe oder Klebehaken unter dem Balkondach. Beides lässt sich am Ende der Saison sauber wieder entfernen."}, {"q": "Ist Weihnachtsbeleuchtung auf dem Balkon einer Mietwohnung erlaubt?", "a": "Meistens ja, aber die Regeln sind von Haus zu Haus verschieden. Manche Gebäude schränken ein, was außen am Geländer hängen darf – wirf also zuerst einen Blick in deinen Mietvertrag oder frag die Hausverwaltung."}, {"q": "Was tun, wenn mein Balkon keine Außensteckdose hat?", "a": "Führ ein Niedervolt- oder USB-Kabel durch die Türdichtung zu einer Steckdose drinnen, oder setz Solar- bzw. Batterielichter als Akzente ein."}]

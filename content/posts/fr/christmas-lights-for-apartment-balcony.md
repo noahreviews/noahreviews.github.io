@@ -4,12 +4,12 @@ title: "Décoration Noël balcon : 9 idées lumineuses pour appartement et comm
 keyword: "décoration noël balcon"
 updated: "2026-10-20"
 date: "2026-10-18"
-image: "https://lumalyn.store/cdn/shop/files/lumalyn-s1-hang.jpg?width=1200"
-imageAlt: "Femme fixant un rideau lumineux LED sur une rambarde de balcon noire à la tombée du jour"
+image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-f1-designs.jpg?width=1200"
+imageAlt: "Rideau lumineux animé avec ange et étoile sur un balcon vitré la nuit"
 category: "holiday-lighting"
 seoTitle: "Décoration Noël balcon d'appartement : 9 idées lumineuses"
-imageW: 1086
-imageH: 1448
+imageW: 1024
+imageH: 1024
 description: "Décoration Noël balcon pour locataires : 9 idées lumineuses, fixer une guirlande à la rambarde sans percer et bien choisir ses lumières d'extérieur."
 takeaways: ["Des clips et des colliers de serrage autour de la rambarde tiennent les lumières sans percer.", "Accrochez le rideau lumineux sur la face extérieure de la rambarde pour qu'il soit tourné vers la rue.", "Des lumières basse tension avec minuterie, classées au moins IP44, conviennent à la plupart des balcons couverts."]
 faq: [{"q": "Comment accrocher des lumières de Noël sur un balcon sans percer ?", "a": "Utilisez des clips en plastique transparent ou des colliers de serrage autour des barreaux de la rambarde, ou des crochets adhésifs sous l'avancée du balcon. Les deux s'enlèvent proprement à la fin de la saison."}, {"q": "Les lumières de Noël sont-elles autorisées sur un balcon d'appartement ?", "a": "En général oui, mais les règles varient d'un immeuble à l'autre. Certains limitent ce qui peut être accroché à l'extérieur d'une rambarde : vérifiez d'abord votre bail ou renseignez-vous auprès du gestionnaire de l'immeuble."}, {"q": "Et si mon balcon n'a pas de prise extérieure ?", "a": "Faites passer un câble basse tension ou USB par le joint de la porte jusqu'à une prise intérieure, ou utilisez des lumières solaires ou à piles en touches d'appoint."}]

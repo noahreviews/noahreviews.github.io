@@ -4,12 +4,12 @@ title: "Julbelysning balkong: 9 idéer för lägenheten och så hänger du upp l
 keyword: "julbelysning balkong"
 updated: "2026-10-20"
 date: "2026-10-18"
-image: "https://lumalyn.store/cdn/shop/files/lumalyn-s1-hang.jpg?width=1200"
-imageAlt: "Kvinna som fäster en LED-ljusgardin på ett svart balkongräcke i skymningen"
+image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-f1-designs.jpg?width=1200"
+imageAlt: "Animerad ljusgardin med ängel och stjärna på en glasbalkong i mörkret"
 category: "holiday-lighting"
 seoTitle: "Julbelysning balkong: 9 idéer för lägenheten"
-imageW: 1086
-imageH: 1448
+imageW: 1024
+imageH: 1024
 description: "Julbelysning balkong: idéer för dig som hyr, så hänger du ljus på räcket utan att borra och det här ska du titta efter i belysning för balkongen."
 takeaways: ["Klämmor och buntband runt räcket håller ljusen på plats utan att du behöver borra.", "Häng ljusgardinen på räckets utsida så att den är vänd mot gatan.", "Lågvoltsbelysning med timer och minst IP44 passar de flesta balkonger under tak."]
 faq: [{"q": "Hur hänger jag upp julbelysning på balkongen utan att borra?", "a": "Använd genomskinliga plastklämmor eller buntband runt räckets pinnar, eller självhäftande krokar under balkongtaket. Båda går att ta bort utan spår när säsongen är slut."}, {"q": "Får man ha julbelysning på balkongen i en lägenhet?", "a": "Oftast, men reglerna varierar mellan fastigheter. Vissa begränsar vad som får hänga på räckets utsida, så kolla ditt hyresavtal eller fråga hyresvärden först."}, {"q": "Vad gör jag om balkongen saknar eluttag?", "a": "Dra en lågvolts- eller USB-kabel genom dörrens tätningslist till ett uttag inomhus, eller använd sol- eller batteridrivna ljus som komplement."}]

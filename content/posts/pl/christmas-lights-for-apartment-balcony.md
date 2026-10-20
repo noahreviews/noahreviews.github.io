@@ -4,12 +4,12 @@ title: "Lampki na balkon w bloku: 9 pomysłów i jak je powiesić"
 keyword: "lampki na balkon"
 updated: "2026-10-20"
 date: "2026-10-18"
-image: "https://lumalyn.store/cdn/shop/files/lumalyn-s1-hang.jpg?width=1200"
-imageAlt: "Kobieta przypina kurtynę świetlną LED do czarnej balustrady balkonu o zmierzchu"
+image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-f1-designs.jpg?width=1200"
+imageAlt: "Animowana kurtyna świetlna z aniołem i gwiazdą na szklanym balkonie nocą"
 category: "holiday-lighting"
 seoTitle: "Lampki na balkon w bloku: 9 świątecznych pomysłów"
-imageW: 1086
-imageH: 1448
+imageW: 1024
+imageH: 1024
 description: "Lampki na balkon dla najemców: świąteczne pomysły, montaż na balustradzie bez wiercenia i na co zwrócić uwagę przy wyborze lampek do użytku na zewnątrz."
 takeaways: ["Klipsy i opaski zaciskowe wokół balustrady utrzymają lampki bez wiercenia.", "Kurtynę świetlną zawieś po zewnętrznej stronie balustrady, żeby była zwrócona w stronę ulicy.", "Niskonapięciowe lampki z timerem i klasą co najmniej IP44 sprawdzą się na większości zadaszonych balkonów."]
 faq: [{"q": "Jak powiesić lampki świąteczne na balkonie bez wiercenia?", "a": "Użyj przezroczystych plastikowych klipsów lub opasek zaciskowych wokół prętów balustrady albo haczyków samoprzylepnych pod daszkiem balkonu. Jedno i drugie da się czysto zdjąć po sezonie."}, {"q": "Czy lampki świąteczne na balkonie w bloku są dozwolone?", "a": "Zwykle tak, ale zasady różnią się w zależności od budynku. Niektóre budynki ograniczają to, co można wieszać po zewnętrznej stronie balustrady, więc najpierw sprawdź umowę najmu albo zapytaj administrację."}, {"q": "Co zrobić, jeśli na balkonie nie ma gniazdka zewnętrznego?", "a": "Poprowadź przewód niskonapięciowy lub USB przez uszczelkę drzwi do gniazdka w mieszkaniu albo użyj lampek solarnych lub na baterie jako dodatków."}]

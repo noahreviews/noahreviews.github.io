@@ -20,7 +20,6 @@ export default function PostCard({ p, big = false }: { p: Post; big?: boolean })
         />
       </Link>
       <div className="card-body">
-        <p className="kicker">{(m.categories as Record<string, { name: string }>)[p.category]?.name}</p>
         <h3><Link href={href}>{p.title}</Link></h3>
         <p className="card-desc">{p.description}</p>
         <p className="meta">{m.post.updated} {fmtDate(p.updated || p.date, p.lang)} · {fill(m.post.minRead, { n: p.readingMinutes })}</p>

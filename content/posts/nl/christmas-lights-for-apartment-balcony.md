@@ -4,12 +4,12 @@ title: "Kerstverlichting balkon: 9 ideeën en zo hang je het op"
 keyword: "kerstverlichting balkon"
 updated: "2026-10-20"
 date: "2026-10-18"
-image: "https://lumalyn.store/cdn/shop/files/lumalyn-s1-hang.jpg?width=1200"
-imageAlt: "Vrouw klemt in de schemering een led-lichtgordijn aan een zwart balkonhek"
+image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-f1-designs.jpg?width=1200"
+imageAlt: "Bewegend lichtgordijn met engel en ster op een glazen balkon bij nacht"
 category: "holiday-lighting"
 seoTitle: "Kerstverlichting balkon: 9 ideeën voor je appartement"
-imageW: 1086
-imageH: 1448
+imageW: 1024
+imageH: 1024
 description: "Kerstverlichting balkon: ideeën voor huurders, ophangen aan je balkonhek zonder boren en waar je op let bij verlichting voor buiten op je balkon."
 takeaways: ["Klemmen en tiewraps rond het hek houden verlichting op zijn plek zonder te boren.", "Hang een lichtgordijn aan de buitenkant van het balkonhek, zodat het naar de straat gericht is.", "Laagspanningsverlichting met een timer en minimaal IP44 past bij de meeste overdekte balkons."]
 faq: [{"q": "Hoe hang ik kerstverlichting op een balkon zonder te boren?", "a": "Gebruik doorzichtige plastic klemmen of tiewraps rond de spijlen van het hek, of zelfklevende haakjes onder de balkonoverkapping. Beide haal je aan het eind van het seizoen netjes weg."}, {"q": "Mag je kerstverlichting op het balkon van een appartement hangen?", "a": "Meestal wel, maar de regels verschillen per gebouw. Sommige gebouwen beperken wat er aan de buitenkant van een hek mag hangen, dus check je huurcontract of vraag het eerst na bij de beheerder."}, {"q": "Wat als mijn balkon geen buitenstopcontact heeft?", "a": "Leid een laagspannings- of USB-kabel langs het deurrubber naar een stopcontact binnen, of gebruik verlichting op zonne-energie of batterijen als accent."}]
