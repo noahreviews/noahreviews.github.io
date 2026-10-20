@@ -48,7 +48,7 @@ export const fill = (s: string, v: Record<string, string | number>) => s.replace
 export function storeUrl(lang: string, christian = false) {
   const p = langInfo(lang).store;
   const base = `https://lumalyn.store/${p ? `${p}/` : ''}`;
-  return christian ? `${base}pages/christian-christmas-lights` : base;
+  return christian ? `${base}products/smart-animated-christmas-balcony-lights?view=christian` : base;
 }
 
 export const fmtDate = (d: string, lang: string) =>
