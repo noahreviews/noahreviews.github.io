@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://noahreviews.github.io"><img src="https://noahreviews.github.io/images/noah-reviews-banner.jpg" alt="Noah Reviews: practical buying guides for Christmas curtain lights, animated Christmas lights and smart holiday lighting" width="100%"></a>
+  <a href="https://noahreviews.github.io"><img src="https://noahreviews.github.io/images/noah-reviews-banner.jpg?v=2" alt="Noah Reviews: practical buying guides for Christmas curtain lights, animated Christmas lights and smart holiday lighting" width="100%"></a>
 </p>
 
 <h1 align="center">Noah Reviews</h1>

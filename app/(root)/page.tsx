@@ -25,7 +25,7 @@ export default function Root() {
           __html: `(function(){var a=${langs};var p=(navigator.languages||[navigator.language||'en']);for(var i=0;i<p.length;i++){var f=String(p[i]).toLowerCase(),c=f.slice(0,2);if(a.indexOf(f)>-1){location.replace('/'+f+'/');return}if(a.indexOf(c)>-1){location.replace('/'+c+'/');return}}location.replace('/en/')})();`,
         }}
       />
-      <p className="brand-big">✦ {SITE.name}</p>
+      <p className="brand-big"><svg viewBox="0 0 64 64" width="34" height="34" aria-hidden="true"><rect width="64" height="64" rx="16" fill="currentColor" /><path d="M32 11C33.6 25 39 30.4 53 32 39 33.6 33.6 39 32 53 30.4 39 25 33.6 11 32 25 30.4 30.4 25 32 11Z" fill="#fff" /></svg> {SITE.name}</p>
       <h1>{t('en').chooser.title}</h1>
       <p className="lede">{t('en').chooser.intro}</p>
       <ul className="lang-grid">

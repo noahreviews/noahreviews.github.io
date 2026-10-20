@@ -67,7 +67,7 @@ export default async function LangLayout({ children, params }: Props) {
         <header className="site-header">
           <div className="wrap wide">
             <Link href={`/${lang}/`} className="brand" aria-label={SITE.name}>
-              <svg viewBox="0 0 64 64" width="26" height="26" aria-hidden="true"><rect width="64" height="64" rx="14" fill="currentColor" /><path d="M32 10l5.2 16.8L54 32l-16.8 5.2L32 54l-5.2-16.8L10 32l16.8-5.2z" fill="var(--gold)" /></svg>
+              <svg viewBox="0 0 64 64" width="28" height="28" aria-hidden="true"><rect width="64" height="64" rx="16" fill="currentColor" /><path d="M32 11C33.6 25 39 30.4 53 32 39 33.6 33.6 39 32 53 30.4 39 25 33.6 11 32 25 30.4 30.4 25 32 11Z" fill="#fff" /></svg>
               <span>{SITE.name}</span>
             </Link>
             <nav aria-label="Main">
