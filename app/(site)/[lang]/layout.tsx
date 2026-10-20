@@ -96,8 +96,11 @@ export default async function LangLayout({ children, params }: Props) {
         {(lang === 'en' || lang === 'en-gb') && (
           <div id="edition-hint" className="edition-hint" hidden data-want={lang === 'en' ? 'en-gb' : 'en-us'} data-hreflang={lang === 'en' ? 'en-GB' : 'en-US'}>
             <div className="wrap wide">
-              <Flag lang={lang === 'en' ? 'en-gb' : 'en'} size={18} /> {m.editionHint.text}{' '}
-              <a href={lang === 'en' ? '/en-gb/' : '/en/'} hrefLang={lang === 'en' ? 'en-GB' : 'en-US'}>{m.editionHint.link} →</a>
+              <Flag lang={lang === 'en' ? 'en-gb' : 'en'} size={18} />
+              <span>
+                {m.editionHint.text}{' '}
+                <a href={lang === 'en' ? '/en-gb/' : '/en/'} hrefLang={lang === 'en' ? 'en-GB' : 'en-US'}>{m.editionHint.link} →</a>
+              </span>
               <button type="button" aria-label={m.editionHint.dismiss}>×</button>
             </div>
           </div>

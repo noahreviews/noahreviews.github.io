@@ -262,6 +262,8 @@ code { font-size: .9em; background: var(--bg-soft); padding: 1px 5px; border-rad
 }
 /* US / UK edition suggestion (shown by script only when the browser's English variant differs) */
 .edition-hint { background: var(--brand-tint); border-bottom: 1px solid var(--line); font-size: 14px; color: var(--ink-2); }
-.edition-hint .wrap { display: flex; align-items: center; gap: 8px; padding-block: 8px; flex-wrap: wrap; }
+.edition-hint .wrap { display: flex; align-items: center; gap: 8px; padding-block: 8px; }
+.edition-hint .wrap > span { flex: 1; min-width: 0; }
+.edition-hint .flag { flex: none; }
 .edition-hint a { color: var(--brand); font-weight: 600; }
-.edition-hint button { margin-left: auto; background: none; border: 0; font-size: 20px; line-height: 1; color: var(--muted); cursor: pointer; padding: 2px 6px; }
+.edition-hint button { flex: none; background: none; border: 0; font-size: 20px; line-height: 1; color: var(--muted); cursor: pointer; padding: 2px 6px; }
