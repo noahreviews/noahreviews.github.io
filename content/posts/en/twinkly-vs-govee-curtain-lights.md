@@ -12,12 +12,12 @@ imageH: 1200
 seeAlso: ["christmas-curtain-lights", "programmable-christmas-lights", "christmas-lights-to-music"]
 category: "holiday-lighting"
 description: "Twinkly vs Govee curtain lights compared on the makers' own specs: sizes, LED count, pixel density, weather rating, app and music features."
-takeaways: ["Govee Curtain Lights 2 packs the most LEDs per square meter, so detailed pictures look sharpest.", "Twinkly Curtain connects over Wi-Fi and Bluetooth and fits into the wider Twinkly ecosystem; it is rated IP44.", "Govee lists IP65 for Curtain Lights 2, which suits more exposed outdoor spots than IP44 curtains."]
-faq: [{"q": "Is Twinkly or Govee better for curtain lights?", "a": "It depends on what matters most. On the makers' published specs, Govee Curtain Lights 2 has more LEDs per square meter and a higher water rating (IP65), while Twinkly Curtain offers Wi-Fi plus Bluetooth and works with other Twinkly lights."}, {"q": "How many LEDs does the Twinkly Curtain have?", "a": "Twinkly lists two versions: 210 LEDs (1.5 × 2.1 m) and 400 LEDs (3 × 2 m)."}, {"q": "How many LEDs does Govee Curtain Lights 2 have?", "a": "Govee lists 520 LEDs for the 4.9 × 6.6 ft model (H70B3), 1,040 for 9.8 × 6.6 ft (H70B4) and 1,560 for 14.8 × 6.6 ft (H70B5)."}]
+takeaways: ["Govee Curtain Lights 2 packs the most LEDs per square foot, so detailed pictures look sharpest.", "Twinkly Curtain connects over Wi-Fi and Bluetooth and fits into the wider Twinkly ecosystem; it is rated IP44.", "Govee lists IP65 for Curtain Lights 2, which suits more exposed outdoor spots than IP44 curtains."]
+faq: [{"q": "Is Twinkly or Govee better for curtain lights?", "a": "It depends on what matters most. On the makers' published specs, Govee Curtain Lights 2 has more LEDs per square foot and a higher water rating (IP65), while Twinkly Curtain offers Wi-Fi plus Bluetooth and works with other Twinkly lights."}, {"q": "How many LEDs does the Twinkly Curtain have?", "a": "Twinkly lists two versions: 210 LEDs at 4.9 × 6.9 ft (1.5 × 2.1 m) and 400 LEDs at 9.8 × 6.6 ft (3 × 2 m)."}, {"q": "How many LEDs does Govee Curtain Lights 2 have?", "a": "Govee lists 520 LEDs for the 4.9 × 6.6 ft model (H70B3), 1,040 for 9.8 × 6.6 ft (H70B4) and 1,560 for 14.8 × 6.6 ft (H70B5)."}]
 sources: [{"title": "Twinkly Curtain – official product page", "url": "https://twinkly.com/products/curtain"}, {"title": "Twinkly Help Center – What's Twinkly Curtain?", "url": "https://help.twinkly.com/hc/en-gb/articles/18277835673373-what-s-twinkly-curtains"}, {"title": "Govee Curtain Lights 2 – official product page", "url": "https://us.govee.com/products/govee-curtain-lights-2"}, {"title": "IP Code (IEC 60529) ratings explained", "url": "https://en.wikipedia.org/wiki/IP_code"}]
 ---
 
-Searching for **Twinkly vs Govee** usually means you have already decided you want a smart LED curtain, the kind that can show pictures and animations rather than just glow, and now you want to know which brand to pick. This comparison uses only the specifications each brand publishes on its own product pages (linked in the sources below), plus one calculation of our own: how many LEDs each curtain fits into a square meter.
+Searching for **Twinkly vs Govee** usually means you have already decided you want a smart LED curtain, the kind that can show pictures and animations rather than just glow, and now you want to know which brand to pick. This comparison uses only the specifications each brand publishes on its own product pages (linked in the sources below), plus one calculation of our own: how many LEDs each curtain fits into a square foot (and a square meter).
 
 > **Disclosure:** we are affiliated with Lumalyn, which we include as a third option. Twinkly and Govee are not partners of ours, and nothing here is sponsored by them.
 
@@ -25,7 +25,7 @@ Searching for **Twinkly vs Govee** usually means you have already decided you wa
 
 | | Twinkly Curtain | Govee Curtain Lights 2 |
 |---|---|---|
-| Sizes and LEDs | 210 LEDs, 1.5 × 2.1 m (4.9 × 6.9 ft); 400 LEDs, 3 × 2 m (9.8 × 6.6 ft) | 520 LEDs, 4.9 × 6.6 ft; 1,040 LEDs, 9.8 × 6.6 ft; 1,560 LEDs, 14.8 × 6.6 ft |
+| Sizes and LEDs | 210 LEDs, 4.9 × 6.9 ft (1.5 × 2.1 m); 400 LEDs, 9.8 × 6.6 ft (3 × 2 m) | 520 LEDs, 4.9 × 6.6 ft (1.5 × 2 m); 1,040 LEDs, 9.8 × 6.6 ft (3 × 2 m); 1,560 LEDs, 14.8 × 6.6 ft (4.5 × 2 m) |
 | Colors | RGB, or RGB + warm-to-cool white | RGB |
 | Connection | Wi-Fi and Bluetooth | Bluetooth, Matter support |
 | Water rating | IP44 (curtain, controller and power supply) | IP65 (as listed in Govee's FAQ) |
@@ -37,15 +37,15 @@ Searching for **Twinkly vs Govee** usually means you have already decided you wa
 
 For a curtain that displays images, the number that matters most is how tightly the LEDs are packed. We divided each brand's published LED count by its published area:
 
-| Curtain | LEDs | Area | LEDs per m² |
+| Curtain | LEDs | Area | LEDs per sq ft (per m²) |
 |---|---|---|---|
-| Twinkly Curtain 210 | 210 | 1.5 × 2.1 m = 3.15 m² | about 67 |
-| Twinkly Curtain 400 | 400 | 3 × 2 m = 6 m² | about 67 |
-| Govee Curtain Lights 2 (H70B4) | 1,040 | 9.8 × 6.6 ft ≈ 6 m² | about 173 |
-| Lumalyn, 2 × 2 m | 400 | 4 m² | 100 |
-| Lumalyn, 3 × 3 m | 400 | 9 m² | about 44 |
+| Twinkly Curtain 210 | 210 | 4.9 × 6.9 ft ≈ 34 sq ft (3.15 m²) | about 6.2 (67) |
+| Twinkly Curtain 400 | 400 | 9.8 × 6.6 ft ≈ 65 sq ft (6 m²) | about 6.2 (67) |
+| Govee Curtain Lights 2 (H70B4) | 1,040 | 9.8 × 6.6 ft ≈ 65 sq ft (≈ 6 m²) | about 16 (173) |
+| Lumalyn, smaller set | 400 | 6 ft 7 in × 6 ft 7 in ≈ 43 sq ft (4 m²) | about 9.3 (100) |
+| Lumalyn, larger set | 400 | 9 ft 10 in × 9 ft 10 in ≈ 97 sq ft (9 m²) | about 4.1 (44) |
 
-Higher density means finer detail and smoother curves, especially when people look from a few meters away. From across the street, all of these curtains read as clear pictures; the difference shows most on a window or balcony seen up close.
+Higher density means finer detail and smoother curves, especially when people look from a few yards away. From across the street, all of these curtains read as clear pictures; the difference shows most on a window or balcony seen up close.
 
 ## Weather rating and where you can hang them
 
@@ -58,7 +58,7 @@ Twinkly rates the Curtain **IP44**, which means splash resistant: fine for cover
 
 ## A simpler third option: Lumalyn
 
-If you mainly want an animated display for one window or balcony, without Wi-Fi setup, Lumalyn's [balcony curtain]({{store}}) takes a simpler approach: 400 individually controlled LEDs in a 2 × 2 m or 3 × 3 m square, 5 V USB power (wall adapter not included), Bluetooth app control plus an included remote, 100+ built-in scenes, a draw-your-own mode, music sync and timers. It is rated IP44, like Twinkly. It has fewer LEDs per square meter than Govee, so very fine detail looks less sharp up close.
+If you mainly want an animated display for one window or balcony, without Wi-Fi setup, Lumalyn's [balcony curtain]({{store}}) takes a simpler approach: 400 individually controlled LEDs in a 6 ft 7 in (2 m) or 9 ft 10 in (3 m) square, 5 V USB power (wall adapter not included), Bluetooth app control plus an included remote, 100+ built-in scenes, a draw-your-own mode, music sync and timers. It is rated IP44, like Twinkly. It has fewer LEDs per square foot than Govee, so very fine detail looks less sharp up close.
 
 ## Which should you choose?
 
@@ -68,4 +68,4 @@ If you mainly want an animated display for one window or balcony, without Wi-Fi 
 | Wi-Fi control and other lights from the same brand | Twinkly Curtain |
 | A tall square format for a balcony railing, with a remote included and USB power | Lumalyn |
 
-Specifications change between model years and regions, so check the product page for your country before you buy.
+Specifications change between model years and regions, so check the current US product page before you buy.

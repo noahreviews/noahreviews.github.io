@@ -1,23 +1,37 @@
 import type { Lang } from '@/lib/i18n';
 
-/** Small inline SVG flags (4:3) for the language switcher. English shows a split US/UK flag. */
+/** 50 five-pointed stars for the US canton (9 rows of 6 and 5), drawn as one path in the 640×480 flag space. */
+const US_STARS = (() => {
+  const star = (cx: number, cy: number, r: number) =>
+    Array.from({ length: 10 }, (_, i) => {
+      const a = -Math.PI / 2 + (i * Math.PI) / 5;
+      const d = i % 2 ? r * 0.382 : r;
+      return `${i ? 'L' : 'M'}${(cx + d * Math.cos(a)).toFixed(1)} ${(cy + d * Math.sin(a)).toFixed(1)}`;
+    }).join('') + 'Z';
+  const w = 364.8 / 12, h = 258.5 / 10;
+  let d = '';
+  for (let row = 1; row <= 9; row++) for (let col = row % 2 ? 1 : 2; col <= 11; col += 2) d += star(col * w, row * h, 11.5);
+  return d;
+})();
+
+/** Small inline SVG flags (4:3) for the language switcher. English (US) shows the US flag, English (UK) the Union Jack. */
 const FLAGS: Record<Lang, React.ReactNode> = {
   en: (
-    <>
-      <defs><clipPath id="fl-us"><path d="M0 0h24v18z" /></clipPath><clipPath id="fl-uk"><path d="M24 0v18H0z" /></clipPath></defs>
-      <g clipPath="url(#fl-us)">
-        <rect width="24" height="18" fill="#fff" />
-        {[0, 2, 4, 6, 8, 10, 12].map((i) => <rect key={i} y={i * 1.385} width="24" height="1.385" fill="#b22234" />)}
-        <rect width="10.3" height="9.7" fill="#3c3b6e" />
-      </g>
-      <g clipPath="url(#fl-uk)">
-        <rect width="24" height="18" fill="#012169" />
-        <path d="M0 0l24 18M24 0L0 18" stroke="#fff" strokeWidth="3.6" />
-        <path d="M0 0l24 18M24 0L0 18" stroke="#c8102e" strokeWidth="1.2" />
-        <path d="M12 0v18M0 9h24" stroke="#fff" strokeWidth="6" />
-        <path d="M12 0v18M0 9h24" stroke="#c8102e" strokeWidth="3.6" />
-      </g>
-    </>
+    <g transform="scale(0.0375)">
+      <rect width="640" height="480" fill="#b22234" />
+      <path d="M0 55.4h640M0 129.2h640M0 203.1h640M0 276.9h640M0 350.8h640M0 424.6h640" stroke="#fff" strokeWidth="36.9" />
+      <rect width="364.8" height="258.5" fill="#3c3b6e" />
+      <path d={US_STARS} fill="#fff" />
+    </g>
+  ),
+  'en-gb': (
+    <g transform="scale(0.0375)">
+      <rect width="640" height="480" fill="#012169" />
+      <path fill="#fff" d="m75 0 244 181L562 0h78v62L400 241l240 178v61h-80L320 301 81 480H0v-60l239-178L0 64V0z" />
+      <path fill="#c8102e" d="m424 281 216 159v40L369 281zm-184 20 6 35L54 480H0zM640 0v3L391 191l2-44L590 0zM0 0l239 176h-60L0 42z" />
+      <path fill="#fff" d="M241 0v480h160V0zM0 160v160h640V160z" />
+      <path fill="#c8102e" d="M0 193v96h640v-96zM273 0v480h96V0z" />
+    </g>
   ),
   de: (<><rect width="24" height="6" fill="#000" /><rect y="6" width="24" height="6" fill="#dd0000" /><rect y="12" width="24" height="6" fill="#ffce00" /></>),
   fr: (<><rect width="8" height="18" fill="#0055a4" /><rect x="8" width="8" height="18" fill="#fff" /><rect x="16" width="8" height="18" fill="#ef4135" /></>),

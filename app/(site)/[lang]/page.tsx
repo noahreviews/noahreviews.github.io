@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import PostCard from '@/components/PostCard';
-import { ACTIVE, fill, fmtDate, storeUrl, t, type Lang } from '@/lib/i18n';
+import { fill, fmtDate, languageCount, storeUrl, t, type Lang } from '@/lib/i18n';
 import { cdnSrcSet } from '@/lib/img';
 import { getPosts } from '@/lib/posts';
 import { sharedAlternates } from '@/lib/seo';
@@ -53,7 +53,7 @@ export default async function Home({ params }: Props) {
       </section>
       <ul className="stats" aria-label={m.home.whyTitle}>
         <li>{fill(m.home.statGuides, { n: posts.length })}</li>
-        <li>{fill(m.home.statLangs, { n: ACTIVE.length })}</li>
+        <li>{fill(m.home.statLangs, { n: languageCount() })}</li>
         <li>{m.home.statSources}</li>
         <li>{fill(m.home.statUpdated, { date: fmtDate(posts.map((p) => p.updated || p.date).sort().pop() || '', lang) })}</li>
       </ul>

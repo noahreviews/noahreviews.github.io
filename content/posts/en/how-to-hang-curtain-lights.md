@@ -15,7 +15,7 @@ category: "holiday-lighting"
 description: "How to hang curtain lights without drilling: step-by-step methods for windows, walls, bedrooms and balconies, plus cable tips and damage-free removal."
 takeaways: ["Measure first and choose a curtain close to the width you want to cover, so the strands hang straight.", "Adhesive hooks, a curtain rod or a tension rod hold curtain lights indoors without drilling.", "Keep plugs and controllers dry and reachable, and remove adhesive hooks slowly by stretching the release tab."]
 faq: [{"q": "How do you hang curtain lights without damaging walls?", "a": "Use removable adhesive hooks or strips rated for the weight, a tension rod inside a window frame, or an existing curtain rod. Remove adhesive hooks by pulling the release tab slowly, parallel to the wall."}, {"q": "How do you hang curtain lights in a bedroom?", "a": "Popular options are behind a sheer curtain, on the wall behind the headboard with adhesive hooks, or from a ceiling-mounted rod as a canopy. Keep cables away from the bed and use a timer so lights switch off at night."}, {"q": "Can I use the same curtain lights for Halloween?", "a": "Yes. Plain curtain lights work in orange or purple, and app-controlled pixel curtains can show Halloween scenes such as pumpkins or bats if their app includes them or lets you draw your own."}]
-sources: [{"title": "NFPA: Winter holiday fire safety", "url": "https://www.nfpa.org/education-and-research/home-fire-safety/winter-holidays"}, {"title": "IP Code (IEC 60529) ratings explained", "url": "https://en.wikipedia.org/wiki/IP_code"}]
+sources: [{"title": "NFPA: Winter holiday fire safety", "url": "https://www.nfpa.org/education-and-research/home-fire-safety/winter-holidays"}, {"title": "IP Code (IEC 60529) ratings explained", "url": "https://en.wikipedia.org/wiki/IP_code"}, {"title": "CPSC: Holiday decorating safety tips", "url": "https://www.cpsc.gov/Newsroom/News-Releases/2018/Put-Safety-at-the-Top-of-Your-List-When-Decorating-this-Holiday-Season"}]
 ---
 
 Curtain lights look simple: one top wire with strands hanging down. But **how you hang curtain lights** decides whether they look like a neat sheet of light or a tangled mess. This guide covers the four places people hang them most (windows, walls, bedrooms and balconies), with methods that work for renters and do not need a drill.
@@ -24,7 +24,7 @@ Curtain lights look simple: one top wire with strands hanging down. But **how yo
 
 1. **Measure the width** you want to cover. Curtain lights look best when the strands hang straight, so choose a size close to that width rather than the biggest one.
 2. **Measure the drop.** If the strands are longer than the space, they will pile up at the bottom; on a window, a sill can hide a little extra length.
-3. **Find the socket first.** Note where the plug, adapter or controller will sit and how long the lead cable is. Planning this avoids stretching cables across a walkway.
+3. **Find the outlet first.** Note where the plug, adapter or controller will sit and how long the power cord is. Planning this avoids stretching cables across a walkway.
 4. **Check the weight.** Most curtain lights are light, but the controller adds weight at one end. Pick hooks rated for more than the total.
 
 You will usually need: removable adhesive hooks or clips, a tape measure, and optionally a tension rod or small cable clips.
@@ -33,16 +33,16 @@ You will usually need: removable adhesive hooks or clips, a tape measure, and op
 
 - **On a curtain rod:** drape or clip the top wire along the rod, behind your normal curtains. This is the quickest method and leaves no marks.
 - **With a tension rod:** fit a tension rod inside the window frame and hang the top wire from it. It is ideal for windows without a rod.
-- **With adhesive hooks:** place small clear hooks along the top of the frame, about 20–30 cm (8–12 in) apart, and hook the top wire onto them.
+- **With adhesive hooks:** place small clear hooks along the top of the frame, about 8–12 in (20–30 cm) apart, and hook the top wire onto them.
 
-Keep the strands a few centimeters (about an inch) from the glass so the lights are clearly visible from outside and you get fewer reflections inside. Our [indoor Christmas window lights guide]({{post:christmas-window-lights-indoor}}) has more on making a window display stand out from the street.
+Keep the strands about an inch (a few centimeters) from the glass so the lights are clearly visible from outside and you get fewer reflections inside. Our [indoor Christmas window lights guide]({{post:christmas-window-lights-indoor}}) has more on making a window display stand out from the street.
 
 ## How to hang curtain lights on a wall
 
 1. Mark the top line lightly with a pencil or a strip of painter's tape so it is level.
 2. Stick adhesive hooks along that line, spaced so the wire does not sag between them.
-3. Hang the top wire, then let each strand drop straight. On textured walls, use hooks designed for textured surfaces or a slim wooden batten fixed with removable strips.
-4. Tuck the lead cable along the skirting board with cable clips.
+3. Hang the top wire, then let each strand drop straight. On textured walls, use hooks designed for textured surfaces or a slim strip of wood trim mounted with removable strips.
+4. Tuck the power cord along the baseboard with cable clips.
 
 ## Curtain lights for the bedroom
 
@@ -53,7 +53,7 @@ Keep the strands a few centimeters (about an inch) from the glass so the lights 
 
 ## How to hang curtain lights on a balcony or outdoors
 
-Clip the top wire along the balcony railing with clear clips or small zip ties, with the strands on the side facing out. Check the water rating first: IP44 is fine under a balcony roof, while spots exposed to rain need IP65 or higher. Keep plugs, adapters and controllers dry, ideally indoors. Our [apartment balcony guide]({{post:christmas-lights-for-apartment-balcony}}) covers balcony safety in detail.
+Clip the top wire along the balcony railing with clear clips or small zip ties, with the strands on the side facing out. Check the water rating first: IP44 is fine on a covered balcony, while spots exposed to rain need IP65 or higher. Keep plugs, adapters and controllers dry, ideally indoors. If you plug in outside, use a GFCI-protected outlet and an outdoor-rated extension cord. Our [apartment balcony guide]({{post:christmas-lights-for-apartment-balcony}}) covers balcony safety in detail.
 
 ## Curtain lights beyond Christmas
 

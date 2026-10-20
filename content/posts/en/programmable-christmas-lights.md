@@ -5,7 +5,7 @@ keyword: "programmable christmas lights"
 updated: "2026-10-20"
 date: "2026-10-17"
 image: "https://lumalyn.store/cdn/shop/files/lumalyn-s2-app.jpg?width=1200"
-imageAlt: "Man on a sofa using a phone app to control rainbow curtain lights on his balcony"
+imageAlt: "Man on a couch using a phone app to control rainbow curtain lights on his balcony"
 seeAlso: ["christmas-lights-to-music", "animated-christmas-lights", "christmas-curtain-lights"]
 category: "holiday-lighting"
 seoTitle: "Programmable & Smart Christmas Lights Explained"
@@ -13,8 +13,8 @@ imageW: 1086
 imageH: 1448
 description: "What smart, app-controlled and programmable Christmas lights can really do, how pixel LEDs work, and how to choose lights for a tree, house or window."
 takeaways: ["Smart plugs only switch lights on and off; app-controlled lights change colors; programmable pixels can draw pictures.", "A flat grid such as a curtain can show recognizable images; a string around a tree shows color sweeps.", "Bluetooth control works near the lights; Wi-Fi works from anywhere but needs signal at the window."]
-faq: [{"q": "What is the difference between smart and programmable Christmas lights?", "a": "Smart lights let you change color and effects for the whole string from an app. Programmable (addressable) lights let you control each LED separately, so you can draw shapes, text and animations."}, {"q": "Do I need special software for programmable Christmas lights?", "a": "Not for curtains and strings that come with an app. Full synchronised house shows use dedicated software such as xLights and separate controllers."}, {"q": "Are smart Christmas lights safe outdoors?", "a": "Check the IP rating and keep the controller dry. IP44 suits sheltered spots; IP65 or higher is for direct rain."}]
-sources: [{"title": "xLights: free light show sequencing software", "url": "https://github.com/xLightsSequencer/xLights"}, {"title": "IP Code (IEC 60529) ratings explained", "url": "https://en.wikipedia.org/wiki/IP_code"}]
+faq: [{"q": "What is the difference between smart and programmable Christmas lights?", "a": "Smart lights let you change color and effects for the whole string from an app. Programmable (addressable) lights let you control each LED separately, so you can draw shapes, text and animations."}, {"q": "Do I need special software for programmable Christmas lights?", "a": "Not for curtains and strings that come with an app. Full synchronized house shows use dedicated software such as xLights and separate controllers."}, {"q": "Are smart Christmas lights safe outdoors?", "a": "Check the IP rating, keep the controller dry and plug into a GFCI-protected outlet. IP44 suits sheltered spots; IP65 or higher is for direct rain."}]
+sources: [{"title": "xLights: free light show sequencing software", "url": "https://github.com/xLightsSequencer/xLights"}, {"title": "IP Code (IEC 60529) ratings explained", "url": "https://en.wikipedia.org/wiki/IP_code"}, {"title": "CPSC: Holiday decorating safety tips", "url": "https://www.cpsc.gov/Newsroom/News-Releases/2018/Put-Safety-at-the-Top-of-Your-List-When-Decorating-this-Holiday-Season"}]
 ---
 
 "Smart", "app controlled" and "programmable" Christmas lights get used as if they were the same thing. They are not, and the difference decides what you can actually do with your lights.
@@ -44,13 +44,13 @@ Outdoors, check three things before the app features:
 
 1. **Water rating** – IP44 for covered spots, IP65+ for open rain.
 2. **Where the controller lives** – it should sit somewhere dry.
-3. **Connection** – Bluetooth works within about 10 m of your phone; Wi-Fi lets you control the lights from anywhere but needs signal at the window or balcony.
+3. **Connection** – Bluetooth works within about 33 ft (10 m) of your phone; Wi-Fi lets you control the lights from anywhere but needs signal at the window or balcony.
 
 ## Programmable curtain lights
 
 A programmable curtain is the easiest pixel display for a home: no frame to build and no software to learn. Hang it in a window or on a railing and choose designs in the app.
 
-We are affiliated with Lumalyn, so weigh our opinion accordingly. Its [programmable balcony curtain]({{store}}) is a 400-LED grid (2 × 2 m or 3 × 3 m) with 100+ built-in scenes, a draw-your-own mode for custom pictures and text, music sync, timers and a remote. It connects over Bluetooth, so you control it from the room, not from the office.
+We are affiliated with Lumalyn, so weigh our opinion accordingly. Its [programmable balcony curtain]({{store}}) is a 400-LED grid in 6 ft 7 in × 6 ft 7 in (2 × 2 m) or 9 ft 10 in × 9 ft 10 in (3 × 3 m), with 100+ built-in scenes, a draw-your-own mode for custom pictures and text, music sync, timers and a remote. It connects over Bluetooth, so you control it from the room, not from the office.
 
 ## Smart Christmas light terms, explained
 
@@ -69,7 +69,7 @@ We are affiliated with Lumalyn, so weigh our opinion accordingly. Its [programma
 - **The app stops being updated.** Check that the app is current in your phone's app store before you buy.
 - **Range problems.** Bluetooth lights on a balcony may not respond from the back of the apartment.
 - **Too many apps.** Lights from different brands usually need separate apps and do not work together.
-- **Power cuts reset some controllers.** A built-in timer that survives a power cut is a plus.
+- **Power outages reset some controllers.** A built-in timer that survives a power outage is a plus.
 
 ## Which should you buy?
 

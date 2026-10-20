@@ -14,8 +14,8 @@ imageW: 1086
 imageH: 1448
 description: "Indoor Christmas window lights that look great from outside: curtain lights, stars, silhouettes and animated displays, plus how to avoid glare and reflections."
 takeaways: ["Lights placed close to the glass show clearly from the street.", "A dark background behind the display makes it stand out.", "Around 50–70% brightness usually looks best at night and reduces reflections."]
-faq: [{"q": "Can you see indoor Christmas lights from outside?", "a": "Yes, if they sit close to the glass and the room behind them is dark. Lights a meter back from the window mostly light the room instead."}, {"q": "How do I stop reflections from window lights?", "a": "Move the lights closer to the glass, lower the brightness and turn off room lights behind the display."}, {"q": "What size curtain light fits a standard window?", "a": "A 2 x 2 m (about 6.5 x 6.5 ft) curtain covers most standard windows; a 3 x 3 m curtain suits patio doors."}]
-sources: [{"title": "NFPA: Winter holiday fire safety", "url": "https://www.nfpa.org/education-and-research/home-fire-safety/winter-holidays"}]
+faq: [{"q": "Can you see indoor Christmas lights from outside?", "a": "Yes, if they sit close to the glass and the room behind them is dark. Lights about 3 ft (1 m) back from the window mostly light the room instead."}, {"q": "How do I stop reflections from window lights?", "a": "Move the lights closer to the glass, lower the brightness and turn off room lights behind the display."}, {"q": "What size curtain light fits a standard window?", "a": "A 6 ft 7 in × 6 ft 7 in (2 × 2 m) curtain covers most standard windows; a 9 ft 10 in × 9 ft 10 in (3 × 3 m) curtain suits patio doors."}]
+sources: [{"title": "NFPA: Winter holiday fire safety", "url": "https://www.nfpa.org/education-and-research/home-fire-safety/winter-holidays"}, {"title": "UL 588: Seasonal and Holiday Decorative Products", "url": "https://www.shopulstandards.com/ProductDetail.aspx?productId=UL588"}]
 ---
 
 Decorating from inside the window is the easiest and safest way to light up your home for the street: no ladders, no weatherproofing, and no frozen fingers. The trick is making lights that sit indoors look good from outside.
@@ -30,7 +30,7 @@ Decorating from inside the window is the easiest and safest way to light up your
 
 ## How to make indoor lights visible from outside
 
-- **Get close to the glass.** Lights a few centimetres from the window show clearly; lights a meter back mostly light your room.
+- **Get close to the glass.** Lights an inch or two (a few centimeters) from the window show clearly; lights about 3 ft (1 m) back mostly light your room.
 - **Darken what is behind them.** Close the curtains or blinds behind the display, or turn off the room light. Contrast is everything.
 - **Use the right brightness.** Too bright and you get glare and reflections; around 50–70% brightness usually looks best at night.
 - **Think about the angle.** For upstairs windows, people look up, so center the display in the lower half of the window.
@@ -45,7 +45,8 @@ Decorating from inside the window is the easiest and safest way to light up your
 ## Power and safety indoors
 
 - USB-powered lights (5 V) are the simplest indoors and stay cool.
-- Keep cords away from radiators and curtains near heat sources.
+- For lights that plug into a 120 V outlet, look for a UL or ETL listing mark. UL 588 is the safety standard for seasonal and holiday decorative lights.
+- Keep cords away from radiators, space heaters and curtains near heat sources.
 - Use a timer so the display runs only in the evening.
 
 ## Measure your window
@@ -61,4 +62,4 @@ Measure the inside width of the window frame and the height from the top of the 
 
 ## Our pick for an animated window
 
-We are affiliated with Lumalyn. Its [animated curtain lights]({{store}}) work well hung inside a window: 400 LEDs in a 2 × 2 m or 3 × 3 m grid, 100+ scenes, a draw-your-own mode, app and remote control, and schedules. A 2 × 2 m set fits most standard windows; the 3 × 3 m set suits patio doors.
+We are affiliated with Lumalyn. Its [animated curtain lights]({{store}}) work well hung inside a window: 400 LEDs in a 6 ft 7 in × 6 ft 7 in (2 × 2 m) or 9 ft 10 in × 9 ft 10 in (3 × 3 m) grid, 100+ scenes, a draw-your-own mode, app and remote control, and schedules. The smaller set fits most standard windows; the larger one suits patio doors.

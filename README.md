@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Practical reviews and buying guides for home, holiday and everyday products.</b><br>
-  Written for readers in the United States, the United Kingdom and Europe, in 9 languages.
+  Written for readers in the United States, the United Kingdom and Europe, in 9 languages, with separate US and UK English editions.
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <a href="https://noahreviews.github.io/en/"><img src="https://noahreviews.github.io/images/flags/en.svg" width="20" height="15" alt=""> English</a> &nbsp; <a href="https://noahreviews.github.io/de/"><img src="https://noahreviews.github.io/images/flags/de.svg" width="20" height="15" alt=""> Deutsch</a> &nbsp; <a href="https://noahreviews.github.io/fr/"><img src="https://noahreviews.github.io/images/flags/fr.svg" width="20" height="15" alt=""> Français</a> &nbsp; <a href="https://noahreviews.github.io/es/"><img src="https://noahreviews.github.io/images/flags/es.svg" width="20" height="15" alt=""> Español</a> &nbsp; <a href="https://noahreviews.github.io/it/"><img src="https://noahreviews.github.io/images/flags/it.svg" width="20" height="15" alt=""> Italiano</a> &nbsp; <a href="https://noahreviews.github.io/nl/"><img src="https://noahreviews.github.io/images/flags/nl.svg" width="20" height="15" alt=""> Nederlands</a> &nbsp; <a href="https://noahreviews.github.io/pl/"><img src="https://noahreviews.github.io/images/flags/pl.svg" width="20" height="15" alt=""> Polski</a> &nbsp; <a href="https://noahreviews.github.io/pt/"><img src="https://noahreviews.github.io/images/flags/pt.svg" width="20" height="15" alt=""> Português</a> &nbsp; <a href="https://noahreviews.github.io/sv/"><img src="https://noahreviews.github.io/images/flags/sv.svg" width="20" height="15" alt=""> Svenska</a>
+  <a href="https://noahreviews.github.io/en/"><img src="https://noahreviews.github.io/images/flags/en.svg" width="20" height="15" alt=""> English (US)</a> &nbsp; <a href="https://noahreviews.github.io/en-gb/"><img src="https://noahreviews.github.io/images/flags/en-gb.svg" width="20" height="15" alt=""> English (UK)</a> &nbsp; <a href="https://noahreviews.github.io/de/"><img src="https://noahreviews.github.io/images/flags/de.svg" width="20" height="15" alt=""> Deutsch</a> &nbsp; <a href="https://noahreviews.github.io/fr/"><img src="https://noahreviews.github.io/images/flags/fr.svg" width="20" height="15" alt=""> Français</a> &nbsp; <a href="https://noahreviews.github.io/es/"><img src="https://noahreviews.github.io/images/flags/es.svg" width="20" height="15" alt=""> Español</a> &nbsp; <a href="https://noahreviews.github.io/it/"><img src="https://noahreviews.github.io/images/flags/it.svg" width="20" height="15" alt=""> Italiano</a> &nbsp; <a href="https://noahreviews.github.io/nl/"><img src="https://noahreviews.github.io/images/flags/nl.svg" width="20" height="15" alt=""> Nederlands</a> &nbsp; <a href="https://noahreviews.github.io/pl/"><img src="https://noahreviews.github.io/images/flags/pl.svg" width="20" height="15" alt=""> Polski</a> &nbsp; <a href="https://noahreviews.github.io/pt/"><img src="https://noahreviews.github.io/images/flags/pt.svg" width="20" height="15" alt=""> Português</a> &nbsp; <a href="https://noahreviews.github.io/sv/"><img src="https://noahreviews.github.io/images/flags/sv.svg" width="20" height="15" alt=""> Svenska</a>
 </p>
 
 ---
@@ -93,6 +93,23 @@ whole house, and whether you want a warm glow, a **music-synchronized** show or 
 </td>
 </tr>
 </table>
+
+
+## Reading in the UK?
+
+<p><img src="https://noahreviews.github.io/images/flags/en-gb.svg" width="20" height="15" alt=""> The <a href="https://noahreviews.github.io/en-gb/">English (UK) edition</a> uses metres, UK plugs and sockets, RCD safety advice and British wording:</p>
+
+<ul>
+<li><a href="https://noahreviews.github.io/en-gb/christmas-curtain-lights/">Christmas Curtain Lights: UK Indoor &amp; Outdoor Buying Guide</a></li>
+<li><a href="https://noahreviews.github.io/en-gb/christmas-window-lights/">Christmas Window Lights: Indoor Ideas &amp; Tips for UK Homes</a></li>
+<li><a href="https://noahreviews.github.io/en-gb/animated-christmas-lights/">Animated Christmas Lights for Windows &amp; Gardens</a></li>
+<li><a href="https://noahreviews.github.io/en-gb/smart-christmas-lights/">Smart Christmas Lights: Programmable &amp; Pixel LEDs Explained</a></li>
+<li><a href="https://noahreviews.github.io/en-gb/balcony-christmas-lights/">Balcony Christmas Lights: 9 No-Drill Ideas for Flats</a></li>
+<li><a href="https://noahreviews.github.io/en-gb/musical-christmas-lights/">Musical Christmas Lights: 3 Ways to Sync Them to Music</a></li>
+<li><a href="https://noahreviews.github.io/en-gb/light-up-nativity-scene/">Light Up Nativity Scene Ideas for Gardens and Flats</a></li>
+<li><a href="https://noahreviews.github.io/en-gb/twinkly-vs-govee-curtain-lights/">Twinkly vs Govee Curtain Lights Compared for the UK (2026)</a></li>
+<li><a href="https://noahreviews.github.io/en-gb/how-to-hang-curtain-lights/">How to Hang Curtain Lights Without Drilling: UK Guide</a></li>
+</ul>
 
 ## Our top pick for windows & balconies
 

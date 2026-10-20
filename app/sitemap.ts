@@ -1,12 +1,12 @@
 import type { MetadataRoute } from 'next';
-import { ACTIVE, langInfo } from '@/lib/i18n';
+import { ACTIVE, hreflangPairs } from '@/lib/i18n';
 import { getPosts, postAlternates, STATIC_PAGES } from '@/lib/posts';
 import { CATEGORY_KEYS, SITE } from '@/lib/site';
 
 export const dynamic = 'force-static';
 
 const abs = (p: string) => `${SITE.url}${p}`;
-const langs = (paths: Record<string, string>) => ({ languages: Object.fromEntries(Object.entries(paths).map(([l, p]) => [langInfo(l).hreflang, abs(p)])) });
+const langs = (paths: Record<string, string>) => ({ languages: Object.fromEntries(Object.entries(paths).flatMap(([l, p]) => hreflangPairs(l, abs(p)))) });
 const shared = (suffix: string) => langs(Object.fromEntries(ACTIVE.map((l) => [l, `/${l}/${suffix}`])));
 
 export default function sitemap(): MetadataRoute.Sitemap {

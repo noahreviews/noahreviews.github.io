@@ -1,5 +1,5 @@
 {
-  "langName": "English",
+  "langName": "English (US)",
   "skip": "Skip to content",
   "nav": {
     "howWeReview": "How we review",
@@ -31,8 +31,8 @@
     "whyTitle": "Why readers trust Noah Reviews",
     "why": [
       {
-        "title": "Written for the US, UK and Europe",
-        "text": "Sizes appear in both meters and feet, and we flag what matters across regions, such as plug types, power adapters and outdoor ratings."
+        "title": "Written for US shoppers",
+        "text": "Sizes in feet and inches (with meters), US outlets and plugs, GFCI and UL notes, and outdoor ratings explained in plain English."
       },
       {
         "title": "Upfront about partnerships",
@@ -86,7 +86,7 @@
     "ctaKicker": "Our pick for windows & balconies",
     "ctaKickerChristian": "For faith-filled displays",
     "ctaTitle": "Lumalyn Smart Animated Balcony Lights",
-    "ctaSpecs": "400-LED pixel curtain · 2 × 2 m (6 ft 7 in) or 3 × 3 m (9 ft 10 in) · app + remote · music sync · timers · IP44 for covered outdoor spots.",
+    "ctaSpecs": "400-LED pixel curtain · 6.6 × 6.6 ft (2 × 2 m) or 9.8 × 9.8 ft (3 × 3 m) · app + remote · music sync · timers · IP44 for covered outdoor spots.",
     "ctaButton": "Visit lumalyn.store",
     "readIn": "Also available in",
     "howMadeTitle": "How we made this guide",
@@ -115,5 +115,10 @@
   "chooser": {
     "title": "Choose your language",
     "intro": "Practical reviews and buying guides for home, holiday and everyday products."
+  },
+  "editionHint": {
+    "text": "Reading from the UK?",
+    "link": "Switch to the UK edition",
+    "dismiss": "Dismiss"
   }
 }
