@@ -1,7 +1,7 @@
 import type { Metadata, Viewport } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { Figtree, Inter } from 'next/font/google';
+import { Inter, Source_Serif_4 } from 'next/font/google';
 import Flag from '@/components/Flag';
 import JsonLd from '@/components/JsonLd';
 import { ACTIVE, isLang, langInfo, storeUrl, t } from '@/lib/i18n';
@@ -9,8 +9,10 @@ import { CATEGORY_KEYS, SITE } from '@/lib/site';
 import '../../globals.css';
 
 // Only the latin subset is preloaded; latin-ext (Polish ą ś ł …) still loads on demand via unicode-range.
-const head = Figtree({ subsets: ['latin'], variable: '--font-head', display: 'swap' });
-const sans = Inter({ subsets: ['latin'], variable: '--font-sans', display: 'swap' });
+// One typeface for the whole site; the optical-size axis gives large headings Inter's tighter display cut.
+const sans = Inter({ subsets: ['latin'], axes: ['opsz'], variable: '--font-sans', display: 'swap' });
+// Reading serif for article text, as US newspapers do; not preloaded because only guide and policy pages use it.
+const serif = Source_Serif_4({ subsets: ['latin'], style: ['normal', 'italic'], axes: ['opsz'], variable: '--font-serif', display: 'swap', preload: false });
 
 type Props = { children: React.ReactNode; params: Promise<{ lang: string }> };
 
@@ -33,6 +35,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       images: [{ url: SITE.ogImage, width: 1200, height: 630, alt: `${SITE.name}: ${m.tagline}` }],
     },
     twitter: { card: 'summary_large_image' },
+    verification: { google: SITE.googleVerification },
     robots: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1, 'max-video-preview': -1 },
   };
 }
@@ -47,7 +50,7 @@ export default async function LangLayout({ children, params }: Props) {
   if (!isLang(lang)) notFound();
   const m = t(lang);
   return (
-    <html lang={langInfo(lang).hreflang} className={`${head.variable} ${sans.variable}`}>
+    <html lang={langInfo(lang).hreflang} className={`${sans.variable} ${serif.variable}`}>
       <body>
         <JsonLd
           data={{

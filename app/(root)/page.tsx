@@ -12,6 +12,8 @@ export const metadata: Metadata = {
     languages: { ...Object.fromEntries(ACTIVE.flatMap((l) => hreflangPairs(l, `/${l}/`))), 'x-default': '/' },
   },
   openGraph: { type: 'website', siteName: SITE.name, url: SITE.url, images: [{ url: SITE.ogImage, width: 1200, height: 630 }] },
+  // Google Search Console ownership (keep it: removing the tag un-verifies the property)
+  verification: { google: SITE.googleVerification },
 };
 
 /** Language chooser at the site root (x-default). Visitors are sent to their browser language when we have it. */
