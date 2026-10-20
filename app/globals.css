@@ -255,3 +255,8 @@ code { font-size: .9em; background: var(--bg-soft); padding: 1px 5px; border-rad
 /* very narrow phones: the header CTA would overflow in long languages; hero, inline card and sticky bar carry the CTA */
 @media (max-width: 440px) { .site-header nav > a.btn { display: none; } }
 @media (max-width: 640px) { .pick-inline .pick-side .partner-tag { justify-self: start; } }
+/* Phones: keep the two strongest trust points instead of a clipped third one */
+@media (max-width: 480px) {
+  .topbar ul { justify-content: center; }
+  .topbar li:nth-child(n+3) { display: none; }
+}
