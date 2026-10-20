@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import PostCard from '@/components/PostCard';
 import { fill, fmtDate, languageCount, storeUrl, t, type Lang } from '@/lib/i18n';
-import { getPosts } from '@/lib/posts';
+import { getPosts, postKeys, postPath } from '@/lib/posts';
 import { sharedAlternates } from '@/lib/seo';
 
 type Props = { params: Promise<{ lang: string }> };
@@ -15,7 +15,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export default async function Home({ params }: Props) {
   const lang = (await params).lang as Lang;
   const m = t(lang);
-  const posts = getPosts(lang);
+  const REVIEW_KEY = 'lumalyn-curtain-lights-review';
+  const posts = getPosts(lang).filter((p) => p.key !== REVIEW_KEY);
+  const hasReview = postKeys(lang).includes(REVIEW_KEY);
   const updated = fmtDate(posts.map((p) => p.updated || p.date).sort().pop() || '', lang);
   return (
     <main className="wrap wide">
@@ -40,6 +42,7 @@ export default async function Home({ params }: Props) {
           <p className="hc-specs">{m.post.ctaSpecs}</p>
           <a className="btn hc-btn" href={storeUrl(lang)} rel="sponsored noopener">{m.post.ctaCheck} →</a>
           <p className="hero-note">{m.post.partnerLink} · <Link href={`/${lang}/affiliate-disclosure/`}>{m.footer.disclosureLink}</Link></p>
+          {hasReview && <p className="hc-review"><Link href={postPath(lang, REVIEW_KEY)}>{m.post.readReview} →</Link></p>}
           <ul className="hc-trust">
             {m.home.trust.map((x) => <li key={x.title}><strong>{x.title}.</strong> {x.text}</li>)}
           </ul>

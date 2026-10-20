@@ -97,7 +97,14 @@
     "pickInline": "Onze keuze bij deze gids",
     "ctaCheck": "Bekijk de prijs bij Lumalyn",
     "partnerLink": "Partnerlink",
-    "ctaShort": "Bekijk prijs"
+    "ctaShort": "Bekijk prijs",
+    "pickPros": [
+      "Echte bewegende beelden, tekst en muzieksync",
+      "Geen wifi-installatie: app en afstandsbediening inbegrepen",
+      "Veilige 5V-USB-voeding en haakjes zonder boren"
+    ],
+    "pickCon": "Alleen beschutte plekken (IP44); USB-adapter niet inbegrepen",
+    "readReview": "Lees onze volledige review"
   },
   "footer": {
     "categories": "Categorieën",

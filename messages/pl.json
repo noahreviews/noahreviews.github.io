@@ -97,7 +97,14 @@
     "pickInline": "Nasz wybór do tego poradnika",
     "ctaCheck": "Sprawdź cenę w Lumalyn",
     "partnerLink": "Link partnerski",
-    "ctaShort": "Sprawdź cenę"
+    "ctaShort": "Sprawdź cenę",
+    "pickPros": [
+      "Prawdziwe animacje, napisy i synchronizacja z muzyką",
+      "Bez konfiguracji Wi-Fi: aplikacja i pilot w zestawie",
+      "Bezpieczne zasilanie USB 5 V i haczyki bez wiercenia"
+    ],
+    "pickCon": "Tylko miejsca osłonięte (IP44); zasilacz USB nie jest w zestawie",
+    "readReview": "Przeczytaj naszą pełną recenzję"
   },
   "footer": {
     "categories": "Kategorie",

@@ -97,7 +97,14 @@
     "pickInline": "Unsere Empfehlung zu diesem Ratgeber",
     "ctaCheck": "Preis bei Lumalyn ansehen",
     "partnerLink": "Partnerlink",
-    "ctaShort": "Preis ansehen"
+    "ctaShort": "Preis ansehen",
+    "pickPros": [
+      "Echte animierte Bilder, Text und Musik-Sync",
+      "Keine WLAN-Einrichtung: App und Fernbedienung dabei",
+      "Sichere 5-V-USB-Versorgung, Haken ohne Bohren"
+    ],
+    "pickCon": "Nur für geschützte Stellen (IP44); USB-Netzteil nicht enthalten",
+    "readReview": "Unsere ausführliche Bewertung lesen"
   },
   "footer": {
     "categories": "Kategorien",

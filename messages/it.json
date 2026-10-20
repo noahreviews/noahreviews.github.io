@@ -97,7 +97,14 @@
     "pickInline": "La nostra scelta per questa guida",
     "ctaCheck": "Vedi il prezzo su Lumalyn",
     "partnerLink": "Link partner",
-    "ctaShort": "Vedi prezzo"
+    "ctaShort": "Vedi prezzo",
+    "pickPros": [
+      "Vere animazioni, testo e sincronizzazione con la musica",
+      "Nessuna configurazione Wi-Fi: app e telecomando inclusi",
+      "Alimentazione USB 5 V sicura e ganci senza fori"
+    ],
+    "pickCon": "Solo zone riparate (IP44); alimentatore USB non incluso",
+    "readReview": "Leggi la nostra recensione completa"
   },
   "footer": {
     "categories": "Categorie",

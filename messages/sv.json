@@ -97,7 +97,14 @@
     "pickInline": "Vårt val för den här guiden",
     "ctaCheck": "Se pris hos Lumalyn",
     "partnerLink": "Partnerlänk",
-    "ctaShort": "Se pris"
+    "ctaShort": "Se pris",
+    "pickPros": [
+      "Riktiga animationer, text och musiksynk",
+      "Ingen wifi-installation: app och fjärrkontroll ingår",
+      "Säker 5 V USB-ström och krokar utan borrning"
+    ],
+    "pickCon": "Endast skyddade platser (IP44); USB-adapter ingår inte",
+    "readReview": "Läs vår fullständiga recension"
   },
   "footer": {
     "categories": "Kategorier",

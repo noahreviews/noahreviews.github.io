@@ -97,7 +97,14 @@
     "pickInline": "Our pick for this guide",
     "ctaCheck": "Check price at Lumalyn",
     "partnerLink": "Partner link",
-    "ctaShort": "Check price"
+    "ctaShort": "Check price",
+    "pickPros": [
+      "Real animated pictures, text and music sync",
+      "No Wi-Fi setup: app and remote included",
+      "Safe 5 V USB power and no-drill hooks"
+    ],
+    "pickCon": "Sheltered spots only (IP44); USB adapter not included",
+    "readReview": "Read our full review"
   },
   "footer": {
     "categories": "Categories",

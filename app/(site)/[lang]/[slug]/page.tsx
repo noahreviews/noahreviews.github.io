@@ -9,6 +9,8 @@ import { alternatesFrom, sharedAlternates } from '@/lib/seo';
 import { cdnSrcSet } from '@/lib/img';
 import { SITE } from '@/lib/site';
 
+const REVIEW_KEY = 'lumalyn-curtain-lights-review';
+
 type Props = { params: Promise<{ lang: string; slug: string }> };
 
 export const dynamicParams = false;
@@ -62,6 +64,7 @@ export default async function SlugPage({ params }: Props) {
   }
 
   const p = getPost(lang, findPostBySlug(lang, slug)!);
+  const hasReview = postKeys(lang).includes(REVIEW_KEY) && p.key !== REVIEW_KEY;
   const catName = m.categories[p.category as 'holiday-lighting']?.name;
   const url = `${SITE.url}/${lang}/${p.slug}/`;
   const alts = postAlternates(p.key);
@@ -129,6 +132,7 @@ export default async function SlugPage({ params }: Props) {
           </section>
         )}
 
+        {p.key !== REVIEW_KEY && (
         <aside className="pick-inline" aria-label={m.post.pickInline}>
           <a href={storeUrl(lang, p.christian)} rel="sponsored noopener" tabIndex={-1} aria-hidden="true">
             <img
@@ -143,12 +147,18 @@ export default async function SlugPage({ params }: Props) {
             <p className="kicker">{m.post.pickInline}</p>
             <p className="pick-title">{m.post.ctaTitle}</p>
             <p className="pick-specs">{m.post.ctaSpecs}</p>
+            <ul className="pick-points">
+              {m.post.pickPros.map((x) => <li key={x}>{x}</li>)}
+              <li className="con">{m.post.pickCon}</li>
+            </ul>
+            {hasReview && <Link className="pick-review" href={postPath(lang, REVIEW_KEY)}>{m.post.readReview} →</Link>}
           </div>
           <div className="pick-side">
             <a className="btn" href={storeUrl(lang, p.christian)} rel="sponsored noopener">{m.post.ctaCheck} →</a>
             <span className="partner-tag">{m.post.partnerLink}</span>
           </div>
         </aside>
+        )}
 
         {p.toc.length > 2 && (
           <nav className="box toc" aria-labelledby="toc-h">

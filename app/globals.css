@@ -283,3 +283,29 @@ code { font-size: .9em; background: var(--bg-soft); padding: 1px 5px; border-rad
   .prose h3 { font-size: 18px; }
   .post h1 { font-size: 30px; line-height: 1.15; }
 }
+/* mini review inside the guide pick card */
+.pick-points { list-style: none; margin: 8px 0 0; padding: 0; display: grid; gap: 3px; font-size: 13.5px; line-height: 1.45; color: var(--ink-2); }
+.pick-points li { position: relative; padding-left: 20px; }
+.pick-points li::before { content: '✓'; position: absolute; left: 0; color: var(--brand); font-weight: 700; }
+.pick-points li.con { color: var(--muted); }
+.pick-points li.con::before { content: '–'; color: var(--muted); }
+.pick-review { display: inline-block; margin-top: 8px; font-size: 14px; font-weight: 600; }
+.hc-review { text-align: center; margin: 10px 0 0; font-size: 14px; font-weight: 600; }
+/* review page: verdict and pros/cons blocks */
+.verdict, .pros-cons { font-family: var(--font-sans), sans-serif; font-size: 16px; line-height: 1.55; }
+.verdict { margin: 1.6em 0; padding: 22px 24px; border: 1px solid var(--line); border-top: 4px solid var(--brand); border-radius: 12px; background: #fff; box-shadow: var(--shadow-sm); }
+.verdict-label { margin: 0 0 6px !important; font-size: 13px; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; color: var(--brand); }
+.verdict-text { margin: 0 0 16px !important; font-size: 18px; line-height: 1.5; color: var(--ink); font-weight: 500; }
+.verdict-cols, .pros-cons { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+.verdict-cols ul, .pros-cons ul { margin: 0 !important; padding: 0 !important; list-style: none; }
+.verdict-cols li, .pros-cons li { position: relative; padding-left: 22px !important; margin: 6px 0 !important; }
+.vc-h, .pc-h { margin: 0 0 4px !important; font-size: 14px; font-weight: 700; color: var(--ink); }
+.verdict-cols > div:first-child li::before, .pros li::before { content: '✓'; position: absolute; left: 0; color: #15803d; font-weight: 700; }
+.verdict-cols > div:last-child li::before, .cons li::before { content: '–'; position: absolute; left: 2px; color: #b45309; font-weight: 700; }
+.pros-cons { margin: 1.2em 0 1.6em; }
+.pros-cons > div { border: 1px solid var(--line); border-radius: 12px; padding: 16px 18px; background: #fff; }
+.pros { border-top: 3px solid #15803d !important; }
+.cons { border-top: 3px solid #b45309 !important; }
+.verdict-cta { display: flex; align-items: center; flex-wrap: wrap; gap: 10px; margin: 16px 0 0 !important; font-family: var(--font-sans), sans-serif; }
+.prose .verdict-cta .btn { text-decoration: none; }
+@media (max-width: 640px) { .verdict-cols, .pros-cons { grid-template-columns: 1fr; } .verdict { padding: 18px; } }

@@ -2,17 +2,17 @@
   <a href="https://noahreviews.github.io"><img src="https://noahreviews.github.io/images/noah-reviews-banner.jpg?v=4" alt="Noah Reviews: practical buying guides for Christmas curtain lights, animated Christmas lights and smart holiday lighting" width="100%"></a>
 </p>
 
-<h1 align="center">Noah Reviews</h1>
+<h1 align="center">Noah Reviews: Christmas Curtain Lights Reviews &amp; Buying Guides</h1>
 
 <p align="center">
-  <b>Practical reviews and buying guides for home, holiday and everyday products.</b><br>
+  <b>Honest reviews and buying guides for Christmas curtain lights, animated Christmas lights, Christmas window lights and balcony lights.</b><br>
   Written for readers in the United States, the United Kingdom and Europe, in 9 languages, with separate US and UK English editions.
 </p>
 
 <p align="center">
-  <a href="https://noahreviews.github.io"><img src="https://img.shields.io/badge/Website-noahreviews.github.io-123b2e?style=for-the-badge" alt="Website: noahreviews.github.io"></a>
-  <a href="https://noahreviews.github.io/en/category/holiday-lighting/"><img src="https://img.shields.io/badge/Guides-9_holiday_lighting-b08a3e?style=for-the-badge" alt="9 holiday lighting guides"></a>
-  <a href="https://noahreviews.github.io/en/how-we-review/"><img src="https://img.shields.io/badge/Updated-October_2026-2f6f57?style=for-the-badge" alt="Updated October 2026"></a>
+  <a href="https://noahreviews.github.io"><img src="https://img.shields.io/badge/Website-noahreviews.github.io-1e40af?style=for-the-badge" alt="Website: noahreviews.github.io"></a>
+  <a href="https://noahreviews.github.io/en/category/holiday-lighting/"><img src="https://img.shields.io/badge/Guides-9_+_full_review-334155?style=for-the-badge" alt="9 Christmas lighting guides and a full Lumalyn review"></a>
+  <a href="https://noahreviews.github.io/en/how-we-review/"><img src="https://img.shields.io/badge/Updated-October_2026-475569?style=for-the-badge" alt="Updated October 2026"></a>
 </p>
 
 <p align="center">
