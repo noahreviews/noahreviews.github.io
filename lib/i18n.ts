@@ -8,8 +8,8 @@ export type Lang = 'en' | 'en-gb' | 'de' | 'fr' | 'es' | 'it' | 'nl' | 'pl' | 'p
  * /en/ is the US edition and also the generic "en" answer for English readers outside the UK; /en-gb/ is the UK edition.
  */
 export const LANGS: { code: Lang; hreflang: string; also?: string[]; og: string; date: string; store: string; short: string }[] = [
-  { code: 'en', hreflang: 'en-US', also: ['en'], og: 'en_US', date: 'en-US', store: '', short: 'EN-US' },
-  { code: 'en-gb', hreflang: 'en-GB', og: 'en_GB', date: 'en-GB', store: '', short: 'EN-UK' },
+  { code: 'en', hreflang: 'en-US', also: ['en'], og: 'en_US', date: 'en-US', store: '', short: 'EN/US' },
+  { code: 'en-gb', hreflang: 'en-GB', og: 'en_GB', date: 'en-GB', store: '', short: 'EN/UK' },
   { code: 'de', hreflang: 'de', og: 'de_DE', date: 'de-DE', store: 'de', short: 'DE' },
   { code: 'fr', hreflang: 'fr', og: 'fr_FR', date: 'fr-FR', store: 'fr', short: 'FR' },
   { code: 'es', hreflang: 'es', og: 'es_ES', date: 'es-ES', store: 'es', short: 'ES' },

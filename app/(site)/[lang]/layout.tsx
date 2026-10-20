@@ -40,9 +40,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export const viewport: Viewport = { themeColor: '#14532d', colorScheme: 'light' };
 
 // Point each language in the switcher at the current page's translation, using the hreflang links in <head>.
-// US and UK English editions: suggest the other one when the browser's English is the other variant (no automatic redirect).
-const EDITION_JS = `(function(){var h=document.getElementById('edition-hint');if(!h)return;try{if(localStorage.getItem('nr-edition-hint'))return}catch(e){}var want=h.getAttribute('data-want'),p=navigator.languages||[navigator.language||''];for(var i=0;i<p.length;i++){var c=String(p[i]).toLowerCase();if(c.indexOf('en')!==0)continue;if(c===want){var l=document.querySelector('link[rel="alternate"][hreflang="'+h.getAttribute('data-hreflang')+'"]');if(l)h.querySelector('a').href=l.href;h.hidden=false;h.querySelector('button').onclick=function(){h.hidden=true;try{localStorage.setItem('nr-edition-hint','1')}catch(e){}}}return}})()`;
-
 const SWITCHER_JS = `document.querySelectorAll('[data-lang-link]').forEach(function(a){var l=document.querySelector('link[rel="alternate"][hreflang="'+a.getAttribute('hreflang')+'"]');if(l)a.href=l.href})`;
 
 export default async function LangLayout({ children, params }: Props) {
@@ -83,8 +80,8 @@ export default async function LangLayout({ children, params }: Props) {
                 <ul>
                   {ACTIVE.map((l) => (
                     <li key={l}>
-                      <a href={`/${l}/`} hrefLang={langInfo(l).hreflang} lang={langInfo(l).hreflang} data-lang-link aria-current={l === lang ? 'true' : undefined}>
-                        <Flag lang={l} /> {t(l).langName}
+                      <a href={`/${l}/`} hrefLang={langInfo(l).hreflang} lang={langInfo(l).hreflang} data-lang-link aria-current={l === lang ? 'true' : undefined} title={t(l).langName}>
+                        <Flag lang={l} /> {langInfo(l).short}<span className="sr-only"> {t(l).langName}</span>
                       </a>
                     </li>
                   ))}
@@ -93,18 +90,6 @@ export default async function LangLayout({ children, params }: Props) {
             </nav>
           </div>
         </header>
-        {(lang === 'en' || lang === 'en-gb') && (
-          <div id="edition-hint" className="edition-hint" hidden data-want={lang === 'en' ? 'en-gb' : 'en-us'} data-hreflang={lang === 'en' ? 'en-GB' : 'en-US'}>
-            <div className="wrap wide">
-              <Flag lang={lang === 'en' ? 'en-gb' : 'en'} size={18} />
-              <span>
-                {m.editionHint.text}{' '}
-                <a href={lang === 'en' ? '/en-gb/' : '/en/'} hrefLang={lang === 'en' ? 'en-GB' : 'en-US'}>{m.editionHint.link} →</a>
-              </span>
-              <button type="button" aria-label={m.editionHint.dismiss}>×</button>
-            </div>
-          </div>
-        )}
         <div id="content">{children}</div>
         <footer className="site-footer">
           <div className="wrap wide footer-grid">
@@ -127,13 +112,13 @@ export default async function LangLayout({ children, params }: Props) {
             <p>{m.footer.disclosure} <Link href={`/${lang}/affiliate-disclosure/`}>{m.footer.disclosureLink}</Link>.</p>
             <ul className="foot-langs">
               {ACTIVE.map((l) => (
-                <li key={l}><a href={`/${l}/`} hrefLang={langInfo(l).hreflang} lang={langInfo(l).hreflang} data-lang-link><Flag lang={l} size={18} /> {t(l).langName}</a></li>
+                <li key={l}><a href={`/${l}/`} hrefLang={langInfo(l).hreflang} lang={langInfo(l).hreflang} data-lang-link title={t(l).langName}><Flag lang={l} size={18} /> {langInfo(l).short}<span className="sr-only"> {t(l).langName}</span></a></li>
               ))}
             </ul>
             <p>© {new Date().getFullYear()} {SITE.name}</p>
           </div>
         </footer>
-        <script dangerouslySetInnerHTML={{ __html: SWITCHER_JS + ';' + EDITION_JS }} />
+        <script dangerouslySetInnerHTML={{ __html: SWITCHER_JS }} />
       </body>
     </html>
   );

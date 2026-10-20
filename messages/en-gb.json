@@ -115,10 +115,5 @@
   "chooser": {
     "title": "Choose your language",
     "intro": "Practical reviews and buying guides for home, seasonal and everyday products."
-  },
-  "editionHint": {
-    "text": "Reading from the US?",
-    "link": "Switch to the US edition",
-    "dismiss": "Dismiss"
   }
 }

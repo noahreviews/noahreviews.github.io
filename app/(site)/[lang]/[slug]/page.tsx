@@ -223,7 +223,7 @@ export default async function SlugPage({ params }: Props) {
             <p className="box-h">{m.post.readIn}</p>
             <ul>
               {(Object.entries(alts) as [Lang, string][]).filter(([l]) => l !== lang).map(([l, href]) => (
-                <li key={l}><a href={href} hrefLang={langInfo(l).hreflang} lang={langInfo(l).hreflang}><Flag lang={l} size={18} /> {t(l).langName}</a></li>
+                <li key={l}><a href={href} hrefLang={langInfo(l).hreflang} lang={langInfo(l).hreflang} title={t(l).langName}><Flag lang={l} size={18} /> {langInfo(l).short}<span className="sr-only"> {t(l).langName}</span></a></li>
               ))}
             </ul>
           </nav>

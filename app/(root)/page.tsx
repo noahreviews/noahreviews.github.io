@@ -33,7 +33,7 @@ export default function Root() {
           <li key={l}>
             <a href={`/${l}/`} hrefLang={langInfo(l).hreflang} lang={langInfo(l).hreflang}>
               <Flag lang={l} size={28} />
-              <span>{t(l).langName}</span>
+              <span>{langInfo(l).short}<small>{t(l).langName}</small></span>
             </a>
           </li>
         ))}

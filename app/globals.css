@@ -58,8 +58,8 @@ code { font-size: .9em; background: var(--bg-soft); padding: 1px 5px; border-rad
 .lang-menu { position: relative; }
 .lang-menu summary { list-style: none; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; color: var(--ink-2); font-size: 14px; font-weight: 600; padding: 5px 10px; border: 1px solid var(--line); border-radius: 999px; background: #fff; }
 .lang-menu summary::-webkit-details-marker { display: none; }
-.lang-menu ul { position: absolute; right: 0; top: calc(100% + 8px); z-index: 40; list-style: none; margin: 0; padding: 6px; min-width: 200px; background: #fff; border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); }
-.lang-menu a { display: flex; align-items: center; gap: 10px; padding: 8px 10px; border-radius: 8px; color: var(--ink); text-decoration: none; font-size: 15px; }
+.lang-menu ul { position: absolute; right: 0; top: calc(100% + 8px); z-index: 40; list-style: none; margin: 0; padding: 6px; width: 220px; display: grid; grid-template-columns: 1fr 1fr; gap: 2px; background: #fff; border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); }
+.lang-menu a { display: flex; align-items: center; gap: 8px; padding: 8px 10px; border-radius: 8px; color: var(--ink); text-decoration: none; font-size: 14px; font-weight: 600; letter-spacing: .02em; }
 .lang-menu a:hover, .lang-menu a[aria-current] { background: var(--brand-tint); }
 @media (max-width: 720px) {
   .topbar ul { justify-content: flex-start; padding-inline: 16px; font-size: 12px; }
@@ -237,7 +237,7 @@ code { font-size: .9em; background: var(--bg-soft); padding: 1px 5px; border-rad
 .chooser .lede { margin: 0 auto; }
 .brand-big { font-family: var(--font-serif), Georgia, serif; font-size: 24px; font-weight: 600; color: var(--brand); margin: 0; }
 .lang-grid { list-style: none; padding: 0; margin: 32px auto 0; max-width: 640px; display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 12px; }
-.lang-grid a { display: flex; align-items: center; gap: 12px; padding: 14px 16px; background: #fff; border: 1px solid var(--line); border-radius: 14px; text-decoration: none; color: var(--ink); font-weight: 600; box-shadow: var(--shadow-sm); }
+.lang-grid a { display: flex; align-items: center; gap: 12px; text-align: left; padding: 14px 16px; background: #fff; border: 1px solid var(--line); border-radius: 14px; text-decoration: none; color: var(--ink); font-weight: 600; box-shadow: var(--shadow-sm); }
 .lang-grid a:hover { border-color: var(--brand-2); }
 
 /* phones: compact one-line header and trust bar */
@@ -250,7 +250,6 @@ code { font-size: .9em; background: var(--bg-soft); padding: 1px 5px; border-rad
   .site-header nav { flex-wrap: nowrap; gap: 8px; }
   .site-header nav > a.btn { min-height: 36px; padding: 0 12px; font-size: 13px; }
   .lang-menu summary { padding: 5px 8px; }
-  .lang-menu summary > span:last-child { display: none; }
 }
 /* very narrow phones: the header CTA would overflow in long languages; hero, inline card and sticky bar carry the CTA */
 @media (max-width: 440px) { .site-header nav > a.btn { display: none; } }
@@ -260,10 +259,4 @@ code { font-size: .9em; background: var(--bg-soft); padding: 1px 5px; border-rad
   .topbar ul { justify-content: center; }
   .topbar li:nth-child(n+3) { display: none; }
 }
-/* US / UK edition suggestion (shown by script only when the browser's English variant differs) */
-.edition-hint { background: var(--brand-tint); border-bottom: 1px solid var(--line); font-size: 14px; color: var(--ink-2); }
-.edition-hint .wrap { display: flex; align-items: center; gap: 8px; padding-block: 8px; }
-.edition-hint .wrap > span { flex: 1; min-width: 0; }
-.edition-hint .flag { flex: none; }
-.edition-hint a { color: var(--brand); font-weight: 600; }
-.edition-hint button { flex: none; background: none; border: 0; font-size: 20px; line-height: 1; color: var(--muted); cursor: pointer; padding: 2px 6px; }
+.lang-grid small { display: block; font-weight: 400; font-size: 13px; color: var(--muted); }
