@@ -118,7 +118,7 @@ export default async function SlugPage({ params }: Props) {
         </p>
 
         <figure className="lead">
-          <img src={p.image} srcSet={cdnSrcSet(p.image)} sizes="(max-width: 740px) calc(100vw - 32px), 708px" alt={p.imageAlt} width={p.imageW} height={p.imageH} fetchPriority="high" />
+          <img src={p.image} srcSet={cdnSrcSet(p.image)} sizes="(max-width: 740px) calc(100vw - 32px), 708px" alt={p.imageAlt} width={p.imageW} height={p.imageH} />
           <figcaption>{p.imageAlt}. {m.post.imageCredit}</figcaption>
         </figure>
 

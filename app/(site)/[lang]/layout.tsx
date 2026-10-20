@@ -8,8 +8,9 @@ import { ACTIVE, isLang, langInfo, storeUrl, t } from '@/lib/i18n';
 import { CATEGORY_KEYS, SITE } from '@/lib/site';
 import '../../globals.css';
 
-const serif = Fraunces({ subsets: ['latin', 'latin-ext'], variable: '--font-serif', display: 'swap' });
-const sans = Inter({ subsets: ['latin', 'latin-ext'], variable: '--font-sans', display: 'swap' });
+// Only the latin subset is preloaded; latin-ext (Polish ą ś ł …) still loads on demand via unicode-range.
+const serif = Fraunces({ subsets: ['latin'], variable: '--font-serif', display: 'swap' });
+const sans = Inter({ subsets: ['latin'], variable: '--font-sans', display: 'swap' });
 
 type Props = { children: React.ReactNode; params: Promise<{ lang: string }> };
 
