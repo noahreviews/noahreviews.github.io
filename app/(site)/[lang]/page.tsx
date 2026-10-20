@@ -30,6 +30,9 @@ export default async function Home({ params }: Props) {
             <a className="btn btn-primary" href={storeUrl(lang)} rel="sponsored noopener">{m.home.ctaPrimary} →</a>
             <a className="btn btn-ghost" href="#latest">{m.home.ctaSecondary}</a>
           </div>
+          <ul className="hero-trust">
+            {m.home.trust.map((x) => <li key={x.title}>{x.title}</li>)}
+          </ul>
           <p className="hero-note">{m.post.partnerLink} · <Link href={`/${lang}/affiliate-disclosure/`}>{m.footer.disclosureLink}</Link></p>
         </div>
         <div className="hero-media">

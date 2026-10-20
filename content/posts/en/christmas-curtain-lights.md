@@ -4,8 +4,8 @@ title: "Christmas Curtain Lights: How to Choose Them for Windows, Indoors and Ou
 keyword: "christmas curtain lights"
 updated: "2026-10-20"
 date: "2026-10-20"
-image: "https://lumalyn.store/cdn/shop/files/lumalyn-v2-1-hero.jpg?width=1200"
-imageAlt: "LED curtain lights on a balcony showing an animated Christmas scene at night"
+image: "https://lumalyn.store/cdn/shop/files/lumalyn-f4-timer.jpg?width=1200"
+imageAlt: "Warm-white LED curtain lights glowing on a snowy balcony at dusk"
 storePage: "christmas-window-lights"
 seeAlso: ["christmas-window-lights-indoor", "animated-christmas-lights", "programmable-christmas-lights"]
 category: "holiday-lighting"

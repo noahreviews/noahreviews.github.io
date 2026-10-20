@@ -4,12 +4,12 @@ title: "Szopka świecąca i chrześcijańskie dekoracje świetlne: pomysły na o
 keyword: "szopka świecąca"
 updated: "2026-10-20"
 date: "2026-10-15"
-image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-1-hero.jpg?width=1200"
-imageAlt: "Pikselowa kurtyna LED na balkonie wyświetlająca szopkę pod Gwiazdą Betlejemską"
+image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-s3-show.jpg?width=1200"
+imageAlt: "Rodzina na zaśnieżonej ulicy patrzy na świecącą szopkę w oknie"
 category: "holiday-lighting"
 seoTitle: "Szopka świecąca: chrześcijańskie dekoracje świetlne"
-imageW: 1024
-imageH: 1024
+imageW: 896
+imageH: 1200
 christian: true
 description: "Szopka świecąca i inne chrześcijańskie lampki: szopka w ogrodzie, Gwiazda Betlejemska, anioły i napisy religijne, a także pomysły dla mieszkań w bloku."
 takeaways: ["Świecąca gwiazda albo prosty kontur stajenki zamienia dowolne figurki szopki w całą scenę.", "W mieszkaniu gwiazda w oknie albo kurtyna pikselowa może pokazać szopkę, anioła lub religijny napis.", "Delikatne ciepłobiałe lub złote światło wygląda bardziej podniośle niż migające kolory."]

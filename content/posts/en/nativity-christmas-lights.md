@@ -4,14 +4,14 @@ title: "Nativity Christmas Lights: Christian Light Display Ideas for Windows and
 keyword: "nativity christmas lights"
 updated: "2026-10-20"
 date: "2026-10-15"
-image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-1-hero.jpg?width=1200"
-imageAlt: "Pixel LED curtain on a balcony showing a nativity scene under the Star of Bethlehem"
+image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-s3-show.jpg?width=1200"
+imageAlt: "Family on a snowy street looking up at a lit nativity scene in an apartment window"
 storePage: "nativity-christmas-lights"
 seeAlso: ["christmas-window-lights-indoor", "christmas-lights-for-apartment-balcony", "programmable-christmas-lights"]
 category: "holiday-lighting"
 seoTitle: "Nativity Christmas Lights: Christian Display Ideas"
-imageW: 1024
-imageH: 1024
+imageW: 896
+imageH: 1200
 christian: true
 description: "Ideas for nativity and Christian Christmas lights: outdoor nativity displays, the Star of Bethlehem, angels and faith messages, with options for apartments."
 takeaways: ["A lit star or a simple stable outline turns any nativity figures into a scene.", "In apartments, a window star or a pixel curtain can show a nativity, an angel or a faith message.", "Soft warm-white or gold light gives a more reverent look than flashing colors."]

@@ -4,8 +4,8 @@ title: "Lichtervorhang Weihnachten: So wählst du den richtigen für Fenster, dr
 keyword: "lichtervorhang weihnachten"
 updated: "2026-10-20"
 date: "2026-10-20"
-image: "https://lumalyn.store/cdn/shop/files/lumalyn-v2-1-hero.jpg?width=1200"
-imageAlt: "LED-Lichtervorhang auf einem Balkon, der nachts eine animierte Weihnachtsszene zeigt"
+image: "https://lumalyn.store/cdn/shop/files/lumalyn-f4-timer.jpg?width=1200"
+imageAlt: "Warmweißer LED-Lichtervorhang leuchtet in der Dämmerung auf einem verschneiten Balkon"
 category: "holiday-lighting"
 seoTitle: "Lichtervorhang Weihnachten: Ratgeber für innen & außen"
 imageW: 1200

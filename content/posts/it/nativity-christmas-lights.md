@@ -4,12 +4,12 @@ title: "Presepe luminoso e luci di Natale cristiane: idee per finestre e balconi
 keyword: "presepe luminoso"
 updated: "2026-10-20"
 date: "2026-10-15"
-image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-1-hero.jpg?width=1200"
-imageAlt: "Tenda LED a pixel su un balcone che mostra un presepe sotto la stella di Betlemme"
+image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-s3-show.jpg?width=1200"
+imageAlt: "Famiglia in una strada innevata che guarda un presepe luminoso alla finestra"
 category: "holiday-lighting"
 seoTitle: "Presepe luminoso: idee di luci natalizie cristiane"
-imageW: 1024
-imageH: 1024
+imageW: 896
+imageH: 1200
 christian: true
 description: "Idee per un presepe luminoso e luci di Natale cristiane: presepi da esterno, stella di Betlemme, angeli e messaggi di fede, anche in appartamento."
 takeaways: ["Una stella luminosa o la semplice sagoma di una capanna trasformano qualsiasi gruppo di statue della Natività in una scena.", "In appartamento, una stella alla finestra o una tenda a pixel possono mostrare un presepe, un angelo o un messaggio di fede.", "Una luce soffusa bianco caldo o dorata dà un aspetto più raccolto rispetto ai colori lampeggianti."]

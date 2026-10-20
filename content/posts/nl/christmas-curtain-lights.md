@@ -4,8 +4,8 @@ title: "Lichtgordijn kerst: zo kies je het juiste voor je raam, binnen en buiten
 keyword: "lichtgordijn kerst"
 updated: "2026-10-20"
 date: "2026-10-20"
-image: "https://lumalyn.store/cdn/shop/files/lumalyn-v2-1-hero.jpg?width=1200"
-imageAlt: "Led-lichtgordijn op een balkon dat 's avonds een bewegende kerstscène toont"
+image: "https://lumalyn.store/cdn/shop/files/lumalyn-f4-timer.jpg?width=1200"
+imageAlt: "Warmwit LED-lichtgordijn op een besneeuwd balkon in de schemering"
 category: "holiday-lighting"
 seoTitle: "Lichtgordijn kerst: koopgids voor binnen en buiten"
 imageW: 1200

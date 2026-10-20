@@ -4,8 +4,8 @@ title: "Rideau lumineux Noël : bien le choisir pour la fenêtre, l'intérieur 
 keyword: "rideau lumineux noël"
 updated: "2026-10-20"
 date: "2026-10-20"
-image: "https://lumalyn.store/cdn/shop/files/lumalyn-v2-1-hero.jpg?width=1200"
-imageAlt: "Rideau lumineux LED sur un balcon, affichant une scène de Noël animée en pleine nuit"
+image: "https://lumalyn.store/cdn/shop/files/lumalyn-f4-timer.jpg?width=1200"
+imageAlt: "Rideau lumineux LED blanc chaud sur un balcon enneigé au crépuscule"
 category: "holiday-lighting"
 seoTitle: "Rideau lumineux Noël : guide d'achat intérieur et extérieur"
 imageW: 1200

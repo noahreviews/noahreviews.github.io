@@ -4,8 +4,8 @@ title: "Cortina de luces Navidad: cómo elegirla para ventanas, interior y exter
 keyword: "cortina de luces navidad"
 updated: "2026-10-20"
 date: "2026-10-20"
-image: "https://lumalyn.store/cdn/shop/files/lumalyn-v2-1-hero.jpg?width=1200"
-imageAlt: "Cortina LED en un balcón mostrando una escena navideña animada por la noche"
+image: "https://lumalyn.store/cdn/shop/files/lumalyn-f4-timer.jpg?width=1200"
+imageAlt: "Cortina de luces LED blanco cálido en un balcón nevado al atardecer"
 category: "holiday-lighting"
 seoTitle: "Cortina de luces Navidad: guía para interior y exterior"
 imageW: 1200

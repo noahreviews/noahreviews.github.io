@@ -4,12 +4,12 @@ title: "Presépio luminoso: ideias de luzes de Natal cristãs para janelas e var
 keyword: "presépio luminoso"
 updated: "2026-10-20"
 date: "2026-10-15"
-image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-1-hero.jpg?width=1200"
-imageAlt: "Cortina LED pixel numa varanda a mostrar um presépio sob a Estrela de Belém"
+image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-s3-show.jpg?width=1200"
+imageAlt: "Família numa rua com neve a olhar para um presépio luminoso numa janela"
 category: "holiday-lighting"
 seoTitle: "Presépio luminoso: ideias de luzes de Natal cristãs"
-imageW: 1024
-imageH: 1024
+imageW: 896
+imageH: 1200
 christian: true
 description: "Ideias de presépio luminoso e luzes de Natal cristãs: presépios de exterior, a Estrela de Belém, anjos e mensagens de fé, com opções para apartamentos."
 takeaways: ["Uma estrela iluminada ou um simples contorno de estábulo transforma quaisquer figuras de presépio numa cena.", "Num apartamento, uma estrela na janela ou uma cortina pixel pode mostrar um presépio, um anjo ou uma mensagem de fé.", "Luz suave em branco quente ou dourado dá um ar mais solene do que cores a piscar."]

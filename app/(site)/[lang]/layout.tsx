@@ -1,7 +1,7 @@
 import type { Metadata, Viewport } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { Fraunces, Inter } from 'next/font/google';
+import { Figtree, Inter } from 'next/font/google';
 import Flag from '@/components/Flag';
 import JsonLd from '@/components/JsonLd';
 import { ACTIVE, isLang, langInfo, storeUrl, t } from '@/lib/i18n';
@@ -9,7 +9,7 @@ import { CATEGORY_KEYS, SITE } from '@/lib/site';
 import '../../globals.css';
 
 // Only the latin subset is preloaded; latin-ext (Polish ą ś ł …) still loads on demand via unicode-range.
-const serif = Fraunces({ subsets: ['latin'], variable: '--font-serif', display: 'swap' });
+const head = Figtree({ subsets: ['latin'], variable: '--font-head', display: 'swap' });
 const sans = Inter({ subsets: ['latin'], variable: '--font-sans', display: 'swap' });
 
 type Props = { children: React.ReactNode; params: Promise<{ lang: string }> };
@@ -37,7 +37,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   };
 }
 
-export const viewport: Viewport = { themeColor: '#14532d', colorScheme: 'light' };
+export const viewport: Viewport = { themeColor: '#1d4ed8', colorScheme: 'light' };
 
 // Point each language in the switcher at the current page's translation, using the hreflang links in <head>.
 const SWITCHER_JS = `document.querySelectorAll('[data-lang-link]').forEach(function(a){var l=document.querySelector('link[rel="alternate"][hreflang="'+a.getAttribute('hreflang')+'"]');if(l)a.href=l.href})`;
@@ -47,7 +47,7 @@ export default async function LangLayout({ children, params }: Props) {
   if (!isLang(lang)) notFound();
   const m = t(lang);
   return (
-    <html lang={langInfo(lang).hreflang} className={`${serif.variable} ${sans.variable}`}>
+    <html lang={langInfo(lang).hreflang} className={`${head.variable} ${sans.variable}`}>
       <body>
         <JsonLd
           data={{
@@ -59,15 +59,10 @@ export default async function LangLayout({ children, params }: Props) {
           }}
         />
         <a className="skip" href="#content">{m.skip}</a>
-        <div className="topbar">
-          <ul className="wrap wide">
-            {m.home.trust.map((x) => <li key={x.title}>{x.title}</li>)}
-          </ul>
-        </div>
         <header className="site-header">
           <div className="wrap wide">
             <Link href={`/${lang}/`} className="brand" aria-label={SITE.name}>
-              <svg viewBox="0 0 64 64" width="28" height="28" aria-hidden="true"><rect width="64" height="64" rx="16" fill="currentColor" /><path d="M32 11C33.6 25 39 30.4 53 32 39 33.6 33.6 39 32 53 30.4 39 25 33.6 11 32 25 30.4 30.4 25 32 11Z" fill="#fff" /></svg>
+              <svg viewBox="0 0 64 64" width="28" height="28" aria-hidden="true"><rect width="64" height="64" rx="16" fill="currentColor" /><path d="M19 33.5l8.5 8.5L45 23.5" fill="none" stroke="#fff" strokeWidth="7" strokeLinecap="round" strokeLinejoin="round" /></svg>
               <span>{SITE.name}</span>
             </Link>
             <nav aria-label="Main">

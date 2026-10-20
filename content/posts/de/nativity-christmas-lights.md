@@ -4,12 +4,12 @@ title: "Krippe Beleuchtung: Christliche Lichterideen für Fenster und Balkon"
 keyword: "krippe beleuchtung"
 updated: "2026-10-20"
 date: "2026-10-15"
-image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-1-hero.jpg?width=1200"
-imageAlt: "Pixel-LED-Vorhang auf einem Balkon zeigt eine Krippenszene unter dem Stern von Bethlehem"
+image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-s3-show.jpg?width=1200"
+imageAlt: "Familie auf einer verschneiten Straße blickt zu einer beleuchteten Krippe im Fenster hinauf"
 category: "holiday-lighting"
 seoTitle: "Krippe Beleuchtung: Christliche Ideen für Fenster & Balkon"
-imageW: 1024
-imageH: 1024
+imageW: 896
+imageH: 1200
 christian: true
 description: "Krippe Beleuchtung & christliche Lichterideen: Weihnachtskrippe im Garten, Stern von Bethlehem, Engel und Glaubensbotschaften – auch für Wohnungen."
 takeaways: ["Ein leuchtender Stern oder der schlichte Umriss eines Stalls macht aus beliebigen Krippenfiguren eine ganze Szene.", "In Wohnungen kann ein Fensterstern oder ein Pixel-Vorhang eine Krippe, einen Engel oder eine Glaubensbotschaft zeigen.", "Sanftes Warmweiß oder Gold wirkt andächtiger als bunt blinkende Farben."]

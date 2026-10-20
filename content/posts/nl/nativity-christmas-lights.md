@@ -4,12 +4,12 @@ title: "Kerststal verlichting: christelijke lichtideeën voor raam en balkon"
 keyword: "kerststal verlichting"
 updated: "2026-10-20"
 date: "2026-10-15"
-image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-1-hero.jpg?width=1200"
-imageAlt: "Pixelgordijn van leds op een balkon met een kerststal onder de ster van Bethlehem"
+image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-s3-show.jpg?width=1200"
+imageAlt: "Gezin in een besneeuwde straat kijkt naar een verlichte kerststal in een raam"
 category: "holiday-lighting"
 seoTitle: "Kerststal verlichting: christelijke lichtideeën voor kerst"
-imageW: 1024
-imageH: 1024
+imageW: 896
+imageH: 1200
 christian: true
 description: "Kerststal verlichting en christelijke kerstverlichting: ideeën voor buiten, de ster van Bethlehem, engelen en geloofsteksten, ook voor appartementen."
 takeaways: ["Een verlichte ster of een eenvoudige stalcontour maakt van elke set kerstfiguren een tafereel.", "In een appartement kan een ster in het raam of een pixelgordijn een kerststal, een engel of een geloofstekst laten zien.", "Zacht warmwit of goudkleurig licht geeft een eerbiediger uitstraling dan knipperende kleuren."]

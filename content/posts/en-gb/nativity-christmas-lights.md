@@ -4,14 +4,14 @@ title: "Light Up Nativity Scene Ideas: Figures, Silhouettes, Stars and Pixel Lig
 keyword: "light up nativity scene"
 updated: "2026-10-20"
 date: "2026-10-20"
-image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-1-hero.jpg?width=1200"
-imageAlt: "Pixel LED curtain on a balcony showing a light-up nativity scene under the Star of Bethlehem"
+image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-s3-show.jpg?width=1200"
+imageAlt: "Family on a snowy street looking up at a light-up nativity scene in a flat window"
 storePage: "nativity-christmas-lights"
 seeAlso: ["christmas-window-lights-indoor", "christmas-lights-for-apartment-balcony", "programmable-christmas-lights"]
 category: "holiday-lighting"
 seoTitle: "Light Up Nativity Scene Ideas for Gardens and Flats"
-imageW: 1024
-imageH: 1024
+imageW: 896
+imageH: 1200
 christian: true
 description: "Light up nativity scene ideas for UK homes: outdoor figure sets, silhouettes, a Star of Bethlehem and pixel lights for flats, plus wind, rain and safety tips."
 takeaways: ["A light up nativity scene can be a set of figures, a silhouette, a single star or a pixel curtain showing a nativity.", "In a flat, a window star or a pixel curtain can show a nativity, an angel or a faith message.", "Soft warm-white or gold nativity lights look more reverent than flashing colours."]

@@ -4,12 +4,12 @@ title: "Belén luminoso: ideas de luces de Navidad cristianas para ventanas y ba
 keyword: "belén luminoso"
 updated: "2026-10-20"
 date: "2026-10-15"
-image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-1-hero.jpg?width=1200"
-imageAlt: "Cortina LED de píxeles en un balcón mostrando un belén bajo la estrella de Belén"
+image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-s3-show.jpg?width=1200"
+imageAlt: "Familia en una calle nevada mirando un belén luminoso en una ventana"
 category: "holiday-lighting"
 seoTitle: "Belén luminoso: ideas cristianas para ventanas y balcones"
-imageW: 1024
-imageH: 1024
+imageW: 896
+imageH: 1200
 christian: true
 description: "Ideas para un belén luminoso y luces de Navidad cristianas: belenes de exterior, la estrella de Belén, ángeles y mensajes de fe, con opciones para pisos."
 takeaways: ["Una estrella iluminada o el contorno sencillo de un establo convierten cualquier conjunto de figuras en un belén.", "En un piso, una estrella en la ventana o una cortina de píxeles pueden mostrar un belén, un ángel o un mensaje de fe.", "Una luz suave en blanco cálido o dorado da un aspecto más recogido que los colores intermitentes."]

@@ -4,8 +4,8 @@ title: "Ljusgardin till jul: så väljer du rätt för fönster, inomhus och uto
 keyword: "ljusgardin"
 updated: "2026-10-20"
 date: "2026-10-20"
-image: "https://lumalyn.store/cdn/shop/files/lumalyn-v2-1-hero.jpg?width=1200"
-imageAlt: "Ljusgardin med LED på en balkong som visar en animerad julscen i kvällsmörkret"
+image: "https://lumalyn.store/cdn/shop/files/lumalyn-f4-timer.jpg?width=1200"
+imageAlt: "Varmvit LED-ljusgardin lyser på en snöig balkong i skymningen"
 category: "holiday-lighting"
 seoTitle: "Ljusgardin jul: köpguide för inomhus och utomhus"
 imageW: 1200

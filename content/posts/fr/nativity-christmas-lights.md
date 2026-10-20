@@ -4,12 +4,12 @@ title: "Crèche de Noël lumineuse : idées d'illuminations chrétiennes pour f
 keyword: "crèche de noël lumineuse"
 updated: "2026-10-20"
 date: "2026-10-15"
-image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-1-hero.jpg?width=1200"
-imageAlt: "Rideau LED à pixels sur un balcon affichant une crèche sous l'étoile de Bethléem"
+image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-s3-show.jpg?width=1200"
+imageAlt: "Famille dans une rue enneigée regardant une crèche de Noël lumineuse à une fenêtre"
 category: "holiday-lighting"
 seoTitle: "Crèche de Noël lumineuse : idées de décoration chrétienne"
-imageW: 1024
-imageH: 1024
+imageW: 896
+imageH: 1200
 christian: true
 description: "Idées de crèche de Noël lumineuse et d'illuminations chrétiennes : crèche extérieure, étoile de Bethléem, anges, messages de foi, options pour appartement."
 takeaways: ["Une étoile lumineuse ou une simple silhouette d'étable transforme n'importe quels personnages de crèche en véritable scène.", "En appartement, une étoile à la fenêtre ou un rideau à pixels peut montrer une crèche, un ange ou un message de foi.", "Une lumière douce, blanc chaud ou dorée, donne un rendu plus recueilli que des couleurs clignotantes."]

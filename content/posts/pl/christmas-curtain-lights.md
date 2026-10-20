@@ -4,8 +4,8 @@ title: "Kurtyna świetlna na święta: jak ją wybrać na okno, do domu i na zew
 keyword: "kurtyna świetlna"
 updated: "2026-10-20"
 date: "2026-10-20"
-image: "https://lumalyn.store/cdn/shop/files/lumalyn-v2-1-hero.jpg?width=1200"
-imageAlt: "Kurtyna świetlna LED na balkonie wyświetlająca nocą animowaną scenę świąteczną"
+image: "https://lumalyn.store/cdn/shop/files/lumalyn-f4-timer.jpg?width=1200"
+imageAlt: "Ciepłobiała kurtyna świetlna LED na zaśnieżonym balkonie o zmierzchu"
 category: "holiday-lighting"
 seoTitle: "Kurtyna świetlna: jak wybrać do domu i na zewnątrz"
 imageW: 1200

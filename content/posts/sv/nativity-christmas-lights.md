@@ -4,12 +4,12 @@ title: "Julkrubba med belysning: kristna ljusidéer för fönster och balkong"
 keyword: "julkrubba med belysning"
 updated: "2026-10-20"
 date: "2026-10-15"
-image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-1-hero.jpg?width=1200"
-imageAlt: "Pixelgardin med LED på en balkong som visar en julkrubba under Betlehemsstjärnan"
+image: "https://lumalyn.store/cdn/shop/files/lumalyn-christian-s3-show.jpg?width=1200"
+imageAlt: "Familj på en snöig gata tittar upp på en upplyst julkrubba i ett fönster"
 category: "holiday-lighting"
 seoTitle: "Julkrubba med belysning: kristna idéer för julen"
-imageW: 1024
-imageH: 1024
+imageW: 896
+imageH: 1200
 christian: true
 description: "Idéer för julkrubba med belysning och kristen julbelysning: julkrubba utomhus, Betlehemsstjärnan, änglar och trosbudskap, med alternativ för lägenheter."
 takeaways: ["En upplyst stjärna eller en enkel stallkontur gör vilka krubbfigurer som helst till en scen.", "I en lägenhet kan en stjärna i fönstret eller en pixelgardin visa en julkrubba, en ängel eller ett trosbudskap.", "Mjukt varmvitt eller guldfärgat ljus ger ett mer andaktsfullt intryck än blinkande färger."]
