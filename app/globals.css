@@ -6,7 +6,7 @@
   --surface: #ffffff;
   --ink: #0f172a;
   --ink-2: #334155;
-  --muted: #64748b;
+  --muted: #5b6779;
   --line: #e2e8f0;
   --brand: #1d4ed8;
   --brand-2: #1e40af;
@@ -194,7 +194,7 @@ code { font-size: .9em; background: var(--bg-soft); padding: 1px 5px; border-rad
 .cta .cta-title { font-size: 22px; line-height: 1.3; color: #fff; font-weight: 700; margin: 6px 0; }
 .cta-actions { display: flex; flex-direction: column; align-items: flex-start; gap: 8px; }
 .cta .cta-more { color: rgba(255, 255, 255, .9); font-size: 14px; }
-.cta .partner-tag { background: rgba(255, 255, 255, .12); border-color: rgba(255, 255, 255, .25); color: #dbeafe; }
+.cta .partner-tag { background: rgba(255, 255, 255, .12); border-color: rgba(255, 255, 255, .3); color: #fff; }
 
 .sources { margin-top: 8px; }
 .sources ul { padding-left: 20px; font-size: 15px; }
