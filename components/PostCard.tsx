@@ -14,8 +14,7 @@ export default function PostCard({ p, big = false }: { p: Post; big?: boolean })
           srcSet={cdnSrcSet(p.image)}
           sizes={big ? '(max-width: 760px) calc(100vw - 32px), 590px' : '(max-width: 640px) calc(100vw - 32px), 360px'}
           alt=""
-          loading={big ? 'eager' : 'lazy'}
-          fetchPriority={big ? 'high' : undefined}
+          loading="lazy"
           width={p.imageW}
           height={p.imageH}
         />
