@@ -24,6 +24,9 @@ Windows are the easiest place to start decorating for Christmas: you see them fr
 
 ### 1. Fairy lights behind a voile
 
+<figure class="idea-img"><img src="/images/ideas/n-sheer-1200.jpg" srcset="/images/ideas/n-sheer-800.jpg 800w, /images/ideas/n-sheer-1200.jpg 1200w" sizes="(max-width: 760px) 100vw, 720px" width="1200" height="900" alt="Warm white fairy lights glowing behind a sheer white curtain on a cosy window" loading="lazy" decoding="async"></figure>
+
+
 Hang a string of warm white fairy lights, or a plain curtain light, on the curtain pole first, then draw a voile or sheer curtain in front of it. The fabric softens the bulbs into a glow that looks cosy from the room and gives the window a gentle shimmer from outside. It also hides the wires. Pick a steady or slow-fade mode rather than fast flashing so the effect stays calm.
 
 ### 2. A curtain of lights close to the glass
@@ -32,13 +35,22 @@ For a window that reads clearly from the street, hang a curtain light a few cent
 
 ### 3. An animated LED curtain scene
 
+<figure class="idea-img"><img src="https://lumalyn.store/cdn/shop/files/lumalyn-f1-designs.jpg?width=1200" srcset="https://lumalyn.store/cdn/shop/files/lumalyn-f1-designs.jpg?width=800 800w, https://lumalyn.store/cdn/shop/files/lumalyn-f1-designs.jpg?width=1200 1200w" sizes="(max-width: 760px) 100vw, 720px" width="1200" height="1200" alt="Balcony window with an LED curtain showing a Christmas tree and snowflakes" loading="lazy" decoding="async"></figure>
+
+
 Pixel curtains have individually controlled LEDs that draw moving pictures and text, such as falling snow, a snowman or a "Merry Christmas" message, so one window becomes something people slow down to watch. We are affiliated with Lumalyn, whose [animated curtain lights]({{store}}) are one example: a 400-LED grid in 2 × 2 m or 3 × 3 m, with 100+ scenes, app and remote control, and timers. Turn the brightness down at night so the picture stays sharp instead of glaring.
 
 ### 4. Battery candles or a candle bridge
 
+<figure class="idea-img"><img src="/images/ideas/n-candle-1200.jpg" srcset="/images/ideas/n-candle-800.jpg 800w, /images/ideas/n-candle-1200.jpg 1200w" sizes="(max-width: 760px) 100vw, 720px" width="1200" height="900" alt="Wooden candle bridge with electric candles on a windowsill at dusk" loading="lazy" decoding="async"></figure>
+
+
 A single electric candle in each window looks especially neat on a terrace or a house with a row of matching windows. A candle bridge, the arch of candles popular in Scandinavia and Germany, makes a lovely centrepiece on a wide sill. Choose battery or plug-in LED versions with a built-in timer; real flames do not belong in a window next to curtains (see the safety section below).
 
 ### 5. A paper star lantern
+
+<figure class="idea-img"><img src="/images/ideas/n-star-1200.jpg" srcset="/images/ideas/n-star-800.jpg 800w, /images/ideas/n-star-1200.jpg 1200w" sizes="(max-width: 760px) 100vw, 720px" width="1200" height="900" alt="White paper star lantern glowing in a window" loading="lazy" decoding="async"></figure>
+
 
 In Sweden, a paper Advent star glowing in the window is a classic, and the many-pointed Moravian star is a similar idea. Hang one star centred in the window, at a height people see from the pavement. Use the low-heat LED bulb that comes with the lantern, or an LED replacement, and keep the paper clear of the bulb.
 
@@ -46,27 +58,45 @@ In Sweden, a paper Advent star glowing in the window is a classic, and the many-
 
 ### 6. Silhouettes and paper cut-outs
 
+<figure class="idea-img"><img src="/images/ideas/n-silhouette-1200.jpg" srcset="/images/ideas/n-silhouette-800.jpg 800w, /images/ideas/n-silhouette-1200.jpg 1200w" sizes="(max-width: 760px) 100vw, 720px" width="1200" height="900" alt="Window with black paper silhouettes of reindeer, trees and houses, seen from a snowy street" loading="lazy" decoding="async"></figure>
+
+
 Black paper silhouettes of a reindeer, a sleigh, a village skyline or a row of trees look sharp by day and stand out against a lit room at night. Print a template, trace it onto black card and cut it out with a craft knife. A skyline strip along the bottom of the glass is one of the simplest Christmas window ideas, and it works on any window size. Attach the pieces with small loops of low-tack tape.
 
 ### 7. Garlands and swags
+
+<figure class="idea-img"><img src="/images/ideas/n-garland-1200.jpg" srcset="/images/ideas/n-garland-800.jpg 800w, /images/ideas/n-garland-1200.jpg 1200w" sizes="(max-width: 760px) 100vw, 720px" width="1200" height="900" alt="Evergreen garland swag with red bows across the top of a window" loading="lazy" decoding="async"></figure>
+
 
 A pine garland draped across the top of the frame, with the ends trailing down the sides, frames the window like a picture. Artificial garlands last the whole season and do not drop needles. Tuck in pine cones, ribbon or a few baubles that match your tree. For an even swag, hang it from three removable hooks: one at each top corner and one in the middle.
 
 ### 8. A wreath in every window
 
+<figure class="idea-img"><img src="/images/ideas/n-wreath-1200.jpg" srcset="/images/ideas/n-wreath-800.jpg 800w, /images/ideas/n-wreath-1200.jpg 1200w" sizes="(max-width: 760px) 100vw, 720px" width="1200" height="900" alt="Brick townhouse with a wreath in each front window" loading="lazy" decoding="async"></figure>
+
+
 A wreath hung inside each street-facing window looks tidy and traditional, and matching sizes and ribbon colours make the whole house look planned. On a sash window, run the ribbon over the top of the upper sash and secure it behind; on casement windows, use a removable hook on the frame or a suction-cup hook on the glass for small, light wreaths.
 
 ### 9. Paper stars and snowflakes
 
+<figure class="idea-img"><img src="/images/ideas/n-snowflakes-1200.jpg" srcset="/images/ideas/n-snowflakes-800.jpg 800w, /images/ideas/n-snowflakes-1200.jpg 1200w" sizes="(max-width: 760px) 100vw, 720px" width="1200" height="900" alt="Paper snowflakes and stars hanging on strings in a bright window" loading="lazy" decoding="async"></figure>
+
+
 Cut paper snowflakes cost almost nothing: fold a square of paper into a triangle, snip shapes along the edges and unfold. Folded paper stars, such as German Fröbel stars or simple origami stars, hung on clear thread at different heights look like falling snow. White paper shows up best against a dark window in the evening.
 
 ### 10. Frosted corners with snow spray
+
+<figure class="idea-img"><img src="/images/ideas/n-frosted-1200.jpg" srcset="/images/ideas/n-frosted-800.jpg 800w, /images/ideas/n-frosted-1200.jpg 1200w" sizes="(max-width: 760px) 100vw, 720px" width="1200" height="900" alt="Window panes with frosted snow-spray corners and silver baubles" loading="lazy" decoding="async"></figure>
+
 
 Aerosol snow spray gives the glass a wintry edge. Spray lightly into the bottom corners, or hold a paper stencil of a snowflake, a star or the word "Noel" against the glass for crisp shapes. Ventilate the room, follow the directions on the can and check how it is removed before you start. Reusable gel or static window stickers are a mess-free alternative, especially with children.
 
 ## Ideas for families and faith
 
 ### 11. A nativity window
+
+<figure class="idea-img"><img src="https://lumalyn.store/cdn/shop/files/lumalyn-christian-s3-show.jpg?width=1200" srcset="https://lumalyn.store/cdn/shop/files/lumalyn-christian-s3-show.jpg?width=800 800w, https://lumalyn.store/cdn/shop/files/lumalyn-christian-s3-show.jpg?width=1200 1200w" sizes="(max-width: 760px) 100vw, 720px" width="1200" height="1600" alt="Window showing a glowing nativity scene in lights, seen from the street" loading="lazy" decoding="async"></figure>
+
 
 A nativity silhouette, the Holy Family under a star, is one of the most striking window designs because the simple outline reads clearly from the street. Cut it from black card for the glass, or light it: a star at the top and a warm glow behind the stable. Our [light-up nativity scene guide]({{post:nativity-christmas-lights}}) covers lit options. Our partner Lumalyn's animated curtain can also show a nativity, star or angel that you create in its app; its [Christian designs]({{store#christian}}) show the idea.
 
@@ -107,3 +137,6 @@ Our [guide to hanging curtain lights]({{post:how-to-hang-curtain-lights}}) has s
 - **Do not overload sockets.** Electrical Safety First warns against overloading sockets and extension leads, and against plugging one extension lead into another.
 - **Unplug when you go out and overnight,** as Electrical Safety First advises. A timer or app schedule makes it automatic.
 - **Mind the heat.** UK radiators often sit under the window, so keep lights, garlands and paper decorations clear of them, and keep any portable heater at least one metre from curtains.
+
+
+*The photos in this guide are AI-generated illustrations of the ideas, not photos of specific products.*
